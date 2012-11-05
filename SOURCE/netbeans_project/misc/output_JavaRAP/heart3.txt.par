@@ -1,0 +1,46 @@
+(S1 (S (NP (DT The) (NN heart)) (VP (AUX is) (NP (NP (DT a) (JJ muscular) (JJ cone-shaped) (NN organ)) (PP (IN about) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT a) (JJ clenched) (NN fist)) (PP (IN of) (NP (DT the) (JJ same) (NN person))))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (AUX is) (VP (VBN located) (PP (IN in) (NP (NP (DT the) (JJ upper) (NN body)) (PRN (-LRB- -LRB-) (NP (NN chest) (NN area)) (-RRB- -RRB-)) (PP (IN between) (NP (DT the) (NNS lungs)))))))) (, ,) (CC and) (S (PP (IN with) (NP (NP (PRP$ its) (JJ pointed) (NN end)) (PRN (-LRB- -LRB-) (VP (VBN called) (NP (DT the) (NN apex))) (-RRB- -RRB-)))) (VP (VBZ downwards) (, ,) (ADVP (RB forwards)) (, ,) (CC and) (VP (VBG pointing) (PP (IN towards) (NP (DT the) (NN left)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ main) (NN purpose)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (AUX is) (S (VP (TO to) (VP (VB pump) (NP (NN blood)) (PP (IN around) (NP (DT the) (NN body))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ basic) (NN structure)) (PP (IN of) (NP (NP (DT the) (NN heart)) (PRN (-LRB- -LRB-) (VP (VBN illustrated) (ADVP (RB above))) (-RRB- -RRB-))))) (VP (MD may) (VP (AUX be) (VP (VBN described) (SBAR (IN as) (S (VP (VBZ follows)))))))) (: :) (S (NP (DT The) (NN Heart)) (VP (AUX is) (VP (VP (VBN divided) (PP (IN into) (NP (JJ separate) (NN right)))) (CC and) (VP (VBD left) (NP (NNS sections)) (PP (IN by) (NP (DT the) (JJ interventricular) (NN septum)))) (, ,) (CC or) (VP ('' '') (NP (NP (NN septum)) ('' '') (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN context)) (VP (AUX is) (ADVP (RB clearly)) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (NN heart)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT Each)) (PP (IN of) (NP (DT these) (PRN (-LRB- -LRB-) (ADVP (RB right) (CC and) (RB left)) (-RRB- -RRB-)) (NNS sections)))) (VP (AUX is) (ADVP (RB also)) (VP (VBN divided) (PP (IN into) (NP (NP (ADJP (JJ upper) (CC and) (JJR lower)) (NNS compartments)) (VP (VBN known) (PP (IN as) (NP (NP (NNS atria) (CC and) (NNS ventricles)) (, ,) (ADVP (RB respectively))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (CD four) (JJ main) (NNS chambres)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (AUX are) (ADJP (RB therefore) (DT the)))) (: :) (S (NP (NNP Right) (NNP Atrium)) (ADJP (-LRB- -LRB-) (JJ Labelled)) ('' ''))))
+
+(S1 (S (NP (NNP RA)) (PRN ('' '') (PP (IN in) (NP (NP (DT the) (NNS diagrams)) (PP (IN on) (NP (DT this) (NN page))))) (-RRB- -RRB-)) (: ;) (NP (NNP Right) (NNP Ventricle) (-LRB- -LRB-) (NNP Labelled)) ('' '')))
+
+(S1 (NP (NP (NP (NN RV) ('' '')) (PP (IN in) (NP (DT the) (NNS diagrams)))) (PP (IN on) (NP (DT this) (NN page))) (-RRB- -RRB-) (: ;) (NP (NNP Left) (NNP Atrium) (-LRB- -LRB-) (NNP Labelled) ('' ''))))
+
+(S1 (NP (NP (FW LA) ('' '') (PP (IN in) (NP (NP (DT the) (NNS diagrams)) (PP (IN on) (NP (DT this) (NN page))))) (-RRB- -RRB-)) (: ;) (NP (NNP Left) (NNP Ventricle) (-LRB- -LRB-) (NNP Labelled) ('' ''))))
+
+(S1 (S (VP (VB LV) ('' '') (PP (IN in) (NP (NP (DT the) (NNS diagrams)) (PP (IN on) (NP (DT this) (NN page))))) (-RRB- -RRB-)) (. .)))
+
+(S1 (S (NP (NP (JJ Deoxygenated) (NN blood)) (PRN (-LRB- -LRB-) (PP (IN from) (NP (DT the) (NN body))) (-RRB- -RRB-))) (VP (AUX is) (VP (VBN pumped) (PP (IN through) (NP (NP (DT the) (JJ right) (NN atrium)) (CC and) (NP (NP (DT the) (NN right) (NN ventricle)) (PRN (-LRB- -LRB-) (PP (TO to) (NP (DT the) (NNS lungs))) (-RRB- -RRB-))))) (, ,) (SBAR (IN while) (S (NP (NP (JJ oxygenated) (NN blood)) (PRN (-LRB- -LRB-) (PP (IN from) (NP (DT the) (NNS lungs))) (-RRB- -RRB-))) (VP (AUX is) (VP (VBN pumped) (PP (IN through) (NP (NP (DT the) (VBN left) (NN atrium)) (CC and) (NP (NP (DT the) (VBN left) (NN ventricle)) (PRN (-LRB- -LRB-) (PP (TO to) (NP (DT the) (NN body))) (-RRB- -RRB-))))))))))) (. .)))
+
+(S1 (S (NP (JJ Deoxygenated) (NN blood)) (VP (VBZ enters) (NP (NP (DT the) (JJ right) (NN atrium)) (PP (IN from) (NP (NP (DT the) (JJ Superior) (FW vena) (FW cava)) (CC and) (NP (DT the) (JJ Inferior) (FW vena) (FW cava)))))) (. .)))
+
+(S1 (S (NP (JJ Deoxygenated) (NN blood)) (VP (VBZ leaves) (S (NP (DT the) (NN right)) (ADJP (JJ ventricle) (PP (IN by) (NP (NP (JJ Pulmonary) (NN artery)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (NP (NN blood)) (PP (TO to) (NP (DT the) (NNS lungs)))) (PP (IN via) (NP (NP (DT the) (ADJP (JJ right) (CC and) (JJ left)) (NNS brances)) (PP (IN of) (NP (DT the) (JJ pulmonary) (NN artery))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Oxygenated) (NN blood)) (VP (VBZ enters) (NP (NP (DT the) (JJ left) (NN atrium)) (PP (IN from) (NP (DT the) (NNP Pulmonary) (NNS veins))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (MD may) (VP (AUX be) (VP (VBN labelled) (PP (IN as) ('' '') (NP (NP (JJ right) (NN pulmonary) (NNS veins)) ('' '') (CC and) ('' '') (NP (JJ left) (NN pulmonary) (NNS veins)) ('' '')))))) (. .)))
+
+(S1 (S (NP (JJ Oxygenated) (NN blood)) (VP (VBZ leaves) (S (NP (DT the) (NN left)) (ADJP (JJ ventricle) (PP (IN by) (NP (NP (VBG Ascending) (NN aorta)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (NP (NN blood)) (PP (TO to) (NP (DT the) (NN body)))) (PP (IN via) (NP (NP (PRP$ its) (NN system)) (PP (IN of) (NP (NP (NNS arteries)) (, ,) (NP (NNS arterioles)) (, ,) (CC and) (NP (NNS capillaries)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Major) (NNS arteries)) (VP (VBG leading) (PP (IN from) (NP (NP (DT the) (NN heart)) (PRN (-LRB- -LRB-) (PP (IN via) (NP (DT the) (VBG ascending) (NN aorta))) (-RRB- -RRB-)))))) (VP (VBP include) (NP (NP (DT the) (JJ brachiocephalic) (NN artery)) (, ,) (NP (DT the) (JJ left) (JJ common) (JJ carotid) (NN artery)) (, ,) (CC and) (NP (NP (DT the) (JJ left) (JJ subclavian) (NN artery)) (PRN (-LRB- -LRB-) (VP (VBN illustrated) (ADVP (RB above))) (-RRB- -RRB-))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (AUX are) (NP (NP (RB just) (DT a) (JJ few)) (PP (IN of) (NP (NP (DT the) (JJ main) (NNS arteries)) (PP (IN of) (NP (DT the) (NN body))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (AUX is) (ADJP (JJ essential)) (SBAR (IN that) (S (NP (NN blood)) (VP (VBZ flows) (PP (IN in) (NP (DT the) (JJ correct) (NN direction))) (PP (IN through) (NP (NP (DT the) (NN heart)) (SBAR (RB so) (S (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (VBZ includes) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS valves))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Tricuspid) (NN valve)) (VP (VBZ separates) (NP (DT the) (JJ right) (NN atrium)) (PP (IN from) (NP (DT the) (JJ right) (NN ventricle)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Pulmonic) (NNP /) (NNP Pulmonary) (NN valve)) (VP (VBZ separates) (NP (DT the) (JJ right) (NN ventricle)) (PP (IN from) (NP (DT the) (JJ pulmonary) (NN artery)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Mitral) (PRN (-LRB- -LRB-) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (DT the) (NNP Bicuspid)))) (-RRB- -RRB-)) (NN valve)) (VP (VBZ separates) (NP (NP (DT the) (JJ left) (NN atrium)) (PP (IN from) (NP (DT the) (JJ left) (NN ventricle))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Aortic) (NN valve)) (VP (VBZ separates) (NP (DT the) (JJ right) (NN ventricle)) (PP (IN from) (NP (DT the) (VBG ascending) (NN aorta)))) (. .)))
+

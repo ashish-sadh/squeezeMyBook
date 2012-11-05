@@ -1,0 +1,45 @@
+ It has nearly 10,000 adult twin volunteers on its books and has studied everything from obesity and back pain to sense of humour.  REF_IMG 2.1 The objective of the study was to determine whether daily treatment with topical AHA and PHA products alters the sensitivity of normal human skin to UVB radiation.   A change in UV sensitivity resulting from enhanced transmission or, mitigation of the deleterious effects of UVB can be monitored by the formation of sunburn cells (DREF_TABLE1.1).   This radiation is of a same order of magnitude as that of a solar exposure between 11 and 12 AM in June which is equal to 20 J/cm
+The ultra-weak energy photon can explain the division of fibroblasts and the cancer mechanisms of human skin.   Twins are the ideal natural experiment to separate the effects of nature and nurture.  REF_IMG 2.2 Method:
+ The study was conducted at a single center utilizing a complete block design.   In this study we describe the penetration of solar energy through different layers of human skin, with comparison between UVA, UVB and Global Solar Radiation from 0.  2 to 0.  9 micrometer wavelengths.   A total of ten subjects completed the study; there were eight males and two females ranging in age from 19 to 22 years.   Nine subjects were skin type III and one subject was skin type II.   The monochromatic UVA irradiation used, has an energy density of 40 J/cm2, which gives some idea of the magnitude of the solar radiation(see table 2).   For the purpose of our day with Dr Bataille, we have focused in particular on the effects of sun exposure.   Topical applications were randomized among the test sites and applied using 1cc disposable plastic tuberculin syringes.   As indicated in table 1, the radiation in the 
+Neve Zohar
+ site showed a definite attenuation compared to that of the 
+Beer Sheva
+ site.  REF_TABLE 0.1REF_TABLE 0.3 The topical daily dose of each product was 100mg per test area (~2mg/cm2).   TABLE_TAG doc0_table1 CLOSE_TABLE_TAG.  REF_TABLE 0.1REF_TABLE 0.3REF_TABLE 0.5REF_TABLE 0.6 They also had a full skin examination performed by trained research nurses.  REF_IMG 2.1 Test Products
+8% Glycolic Acid Cream (pH 4.  08) 
+8% Gluconolactone Cream (pH 4.  24) 
+Untreated, Irradiated Control 
+Minimal Erythema Dose (MED) Determination: At the end of the study, the MED was determined in each of the test sites by exposing several skin sites (1cm in diameter) to a series of exposures in 25% dose increments from the solar simulator.   The MED was defined as the time of exposure required to produce minimally perceptible erythema 20
+4 hours after exposure.   The variation of the measured UVB spectrum in terms of the wavelength 
+can be expressed by the relation:
+Log (P/5.  8 10-6) =69[(0.  297/Î»)-1] 
+P is the normalized power spectral density en J/cm
+, s. A Global Radiation in June during one hour: 3.  6 102 J/cm2 is equal to 1.  435 cal/min,cm2.   Sun exposed skin is thicker and has different ultrasound features from skin protected by the sun.  REF_IMG 2.1 The solar UVB relative power spectral response is very limited, strictly around 0.  297 
+m (table 3.  REF_TABLE 0.2REF_TABLE 0.3 The far UVB and the UVC (0.  190 to O. 280 
+m ) are completely absorbed by the atmosphere.   After 20
+4 hours, a shave biopsy (~4x4mm) was obtained from each irradiated site following injection of a local anesthetic (xylocaine).   The twin skin programme is now looking at the role of sunlight and sunbeds in accelerating skin ageing, wrinkles and moles 
+ in other words - how our genes interact with our environment to produce changes in our skin with age.   The various layers of the human skin are: The epidermis of an average thickness of 70 
+m, the thickness of the 
+stratum corneum
+ is about  17 
+m and that of the mucus body: 53 
+m.  REF_TABLE 0.3 The reasons for all of us having such different genes that control the way our skin behaves is slowly becoming clearer.   Histology: The fixed specimens were processed routinely, embedded in paraffin and then sectioned and stained with hematoxylin-eosin.   Understanding the way our skin ages may also give vital clues to why other parts of our body ages, such as the joints and bones, these age at different speeds and may also be the clue to longevity.   SUMMARY OF RESEARCH FINDINGS ILLUSTRATED AT THE WORKSHOP
+The tests carried out measure skin thickness on the face, inner and outer arm (using skin ultrasound), the amount of sebum produced on the forehead (sebutape test), and also the amount of skin peeling off after applying a sticky tape (desquame test).   GERARD DUBOST, ANDRE BELLOSSI.  REF_TABLE 0.4REF_TABLE 0.5REF_TABLE 0.6REF_TABLE 0.7 Results: The difference in the numbers of DREF_TABLE1.1 and the MEDs was evaluated using analysis of variance (ANOVA) with contrasts (protected t-test) to compare the various treatments.  REF_TABLE 1.1 SUMMARY
+The 
+stratum corneum
+  is in fact mainly responsible for the difference of behaviour between the clear skin and the dark skin and this for the following reasons:First, the reflection of energy is higher for the clear skin due to its   higher index of refraction n. Second, the conductivity is also higher for the clear skin especially in the near ultraviolet and visible spectra.   More than 100 pairs of female twins have been studied to compare skin thickness between sun exposed and non-exposed skin.  REF_IMG 2.1REF_IMG 2.2 SOLAR ENERGY MAGNITUDE THROUGH THE HUMAN SKIN
+Without sunscreens (creams or protective clothes), it is possible to know the dose of cumulative solar radiation at different levels inside the human skin, particularly in the 
+stratum corneum
+ (
+17 Î¼m
+ depth), and at the boundary between the 
+dermis
+ and the 
+epidermis
+ (
+70 Î¼m
+ depth).  REF_TABLE 0.1REF_TABLE 0.3REF_TABLE 0.6 DREF_TABLE1.1: There was an increase in the average number of DREF_TABLE1.1 per High Power Field (HPF) in the glycolic acid treated sites compared to untreated (p
+0.  05).   Skin thickness on the forehead the most sun-exposed site was the greatest: 1.  6 mm. This represents the disorganisation of the elastic fibres caused by sun damage.  REF_IMG 2.1REF_IMG 2.2 During the same exposure time, the
+ UVA
+ dose, with a skin attenuation of 10 dB, would be equal to : 
+0.  45 J/cm.  REF_TABLE 0.3 The high degree of coherence of bio-photons, within the living matter, is due to the small distance, a few angstroms, between near base pairs of DNA, compared to the wavelength of the light under study.  REF_TABLE 0.1REF_TABLE 0.3REF_TABLE 0.5 No photosensitizing effect was observed following treatment with product gluconolactone, the polyhydroxy acid.   Poster Presentation: American Academy of Dermatology Poster Exhibit: New Orleans, February 2002.   So Kozlov  showed that the amount of energy, required for triggering the cell division, is about 5eV, which corresponds to a wavelength of 0.  247  
+m.  

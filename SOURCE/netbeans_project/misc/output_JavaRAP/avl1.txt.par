@@ -1,0 +1,92 @@
+(S1 (S (S (PP (IN In) (NP (NN computer) (NN science))) (, ,) (S (NP (DT an) (NNP AVL) (NN tree)) (VP (AUX is) (NP (DT a) (JJ self-balancing) (JJ binary) (NN search) (NN tree)))) (, ,) (CC and) (S (NP (PRP it)) (VP (AUX was) (NP (NP (DT the) (JJ first) (JJ such) (NN data) (NN structure)) (SBAR (S (VP (TO to) (VP (AUX be) (VP (VBN invented.) (NP (CD 1)) (PP (IN In) (NP (NP (DT an) (NNP AVL) (NN tree)) (, ,) (SBAR (S (NP (NP (DT the) (NNS heights)) (PP (IN of) (NP (NP (DT the) (CD two) (NN child) (NNS subtrees)) (PP (IN of) (NP (DT any) (NN node)))))) (VP (VBP differ) (PP (IN by) (NP (QP (IN at) (JJS most) (CD one)))))))))))))))))) (: ;) (S (ADVP (RB therefore)) (, ,) (NP (PRP it)) (VP (AUX is) (RB also) (VP (VBD said) (S (VP (TO to) (VP (AUX be) (ADJP (JJ height-balanced)))))))) (. .)))
+
+(S1 (S (NP (NN Lookup) (, ,) (NN insertion) (, ,) (CC and) (NN deletion)) (DT all) (VP (VBP take) (NP (NNP O) (NN log) (NNP n) (NN time)) (PP (IN in) (NP (NP (PDT both) (DT the) (ADJP (JJ average) (CC and) (JJS worst)) (NNS cases)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP n)) (VP (AUX is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS nodes)) (PP (IN in) (NP (NP (DT the) (NN tree)) (ADVP (RB prior) (PP (TO to) (NP (DT the) (NN operation))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Insertions) (CC and) (NNS deletions)) (VP (MD may) (VP (VB require) (NP (DT the) (NN tree)) (S (VP (TO to) (VP (AUX be) (VP (VBN rebalanced) (PP (IN by) (NP (QP (CD one) (CC or) (JJR more)) (NN tree) (NNS rotations))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP AVL) (NN tree)) (VP (AUX is) (VP (VBN named) (PP (IN after) (NP (NP (PRP$ its) (CD two) (NNS inventors)) (, ,) (NP (NP (NNP G.) (NNP M.) (NNP Adelson-Velskii)) (CC and) (NP (NNP E.) (NNP M.) (NNP Landis))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD published) (NP (PRP it)) (PP (IN in) (NP (PRP$ their) (CD 1962) (NN paper)))))))))) ('' '')))
+
+(S1 (S (NP (NP (DT An) (NN algorithm)) (PP (IN for) (NP (NP (DT the) (NN organization)) (PP (IN of) (S (VP (VBG information.) ('' '') (NP (NP (NP (CD 2)) (SBAR (S (NP (NP (DT The) (NN balance) (NN factor)) (PP (IN of) (NP (DT a) (NN node)))) (VP (AUX is) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NP (PRP$ its) (JJ left) (NN subtree)) (PP (CC minus) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (PRP$ its) (JJ right) (NN subtree)))))))))))) (, ,) (CC and) (NP (NP (DT a) (NN node)) (PP (IN with) (NP (NN balance) (NN factor) (CD 1)))) (, ,) (NP (CD 0)) (, ,) (CC or) (NP (CD −1))))))))) (VP (AUX is) (VP (VBN considered) (S (ADJP (JJ balanced))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN node)) (PP (IN with) (NP (DT any) (JJ other) (NN balance) (NN factor)))) (VP (VP (AUX is) (VP (VBN considered) (S (ADJP (JJ unbalanced))))) (CC and) (VP (VBZ requires) (S (VP (VBG rebalancing) (NP (DT the) (NN tree)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN balance) (NN factor)) (VP (AUX is) (VP (VP (ADVP (RB either)) (VBN stored) (ADVP (RB directly)) (PP (IN at) (NP (DT each) (NN node)))) (CC or) (VP (VBN computed) (PP (IN from) (NP (NP (DT the) (NNS heights)) (PP (IN of) (NP (DT the) (NNS subtrees)))))))) (. .)))
+
+(S1 (S (NP (NNP AVL) (NNS trees)) (VP (AUX are) (ADVP (RB often)) (VP (VBN compared) (PP (IN with) (NP (JJ red-black) (NNS trees))) (SBAR (SBAR (IN because) (S (NP (PRP they)) (VP (VBP support) (NP (NP (DT the) (JJ same) (NN set)) (PP (IN of) (NP (NNS operations))))))) (CC and) (SBAR (IN because) (S (NP (JJ red-black) (NNS trees)) (ADVP (RB also)) (VP (VBP take) (NP (NP (NNP O) (NN log) (NNP n) (NN time)) (PP (IN for) (NP (DT the) (JJ basic) (NNS operations)))))))))) (. .)))
+
+(S1 (S (NP (NNP AVL) (NNS trees)) (VP (VBP perform) (ADVP (ADVP (RBR better)) (PP (IN than) (NP (JJ red-black) (NNS trees)))) (PP (IN for) (NP (JJ lookup-intensive) (NN applications.))) (SBAR (S (NP (CD 3) (NNP The) (NNP AVL) (NN tree) (VBG balancing) (NN algorithm)) (VP (VBZ appears) (PP (IN in) (NP (JJ many) (NN computer) (NN science) (NNS curricula))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ basic) (NNS operations)) (PP (IN of) (NP (DT an) (NNP AVL) (NN tree)))) (ADVP (RB generally)) (VP (VBP involve) (S (VP (VBG carrying) (PRT (RP out)) (NP (DT the) (JJ same) (NNS actions)) (SBAR (IN as) (S (VP (MD would) (VP (AUX be) (VP (VBN carried) (PRT (RP out)) (PP (IN on) (NP (DT an) (JJ unbalanced) (JJ binary) (NN search) (NN tree)))))))))))) (, ,) (CC but) (S (NP (NNS modifications)) (VP (AUX are) (VP (VBN preceded) (CC or) (VBN followed) (PP (IN by) (NP (NP (QP (CD one) (CC or) (JJR more)) (NNS operations)) (VP (VBN called) (S (NP (NN tree) (NNS rotations)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP help) (S (VP (TO to) (VP (VB restore) (NP (NP (DT the) (NN height) (NN balance)) (PP (IN of) (NP (DT the) (NNS subtrees))))))))))))))) (. .)))
+
+(S1 (S (PP (NP (NN Insertion)) (IN After) (S (VP (VBG inserting) (NP (DT a) (NN node))))) (, ,) (NP (PRP it)) (VP (AUX is) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB check) (NP (NP (DT each)) (PP (IN of) (NP (NP (DT the) (NN node) (POS 's)) (NNS ancestors)))) (PP (IN for) (NP (NN consistency))) (PP (IN with) (NP (NP (DT the) (NNS rules)) (PP (IN of) (NP (NNP AVL)))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT each) (NN node)) (VP (VBN checked)))) (, ,) (SBAR (IN if) (S (NP (DT the) (NN balance) (NN factor)) (VP (VBZ remains) (NP (NP (CD −1)) (, ,) (NP (CD 0)) (, ,) (CC or) (NP (CD 1)))))) (ADVP (RB then)) (NP (DT no) (NNS rotations)) (VP (AUX are) (ADJP (JJ necessary))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN balance) (NN factor)) (VP (VBZ becomes) (NP (CD 2) (CC or) (CD −2))))) (ADVP (RB then)) (NP (NP (DT the) (NN subtree)) (VP (VBN rooted) (PP (IN at) (NP (DT this) (NN node))))) (VP (AUX is) (VP (VBN unbalanced))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NNS insertions)) (VP (AUX are) (VP (VBN performed) (ADVP (RB serially)))))) (, ,) (PP (IN after) (NP (DT each) (NN insertion))) (, ,) (NP (QP (IN at) (JJS most) (CD two)) (NN tree) (NNS rotations)) (VP (AUX are) (VP (VBN needed) (S (VP (TO to) (VP (VB restore) (NP (DT the) (JJ entire) (NN tree)) (PP (TO to) (NP (NP (DT the) (NNS rules)) (PP (IN of) (NP (NNP AVL)))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (AUX are) (NP (NP (CD four) (NNS cases)) (SBAR (WHNP (WDT which)) (S (VP (AUX need) (S (VP (TO to) (VP (AUX be) (VP (VBN considered)))))))) (, ,) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (CD two)) (VP (AUX are) (ADJP (JJ symmetric) (PP (TO to) (NP (DT the) (JJ other) (CD two))))))))) (. .)))
+
+(S1 (S (VP (VB Let) (S (NP (NNS P)) (VP (AUX be) (NP (NP (DT the) (NN root)) (PP (IN of) (NP (DT the) (JJ unbalanced) (NN subtree))))))) (. .)))
+
+(S1 (S (S (VP (VB Let) (S (NP (NP (NP (SYM R)) (VP (AUX be) (NP (DT the) (JJ right) (NN child)))) (PP (IN of) (NP (NNP P.) (NNP Let) (NNP L)))) (VP (AUX be) (NP (NP (DT the) (JJ left) (NN child)) (PP (IN of) (NP (NP (NNP P.) (NNP Right-Right) (NN case)) (CC and) (NP (JJ Right-Left) (NN case))))))))) (: :) (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NNP P)))) (VP (AUX is) (ADJP (JJ −2))))) (, ,) (ADVP (RB then)) (NP (DT the) (JJ right) (NN subtree)) (VP (VBZ outweighs) (NP (NP (DT the) (JJ left) (NN subtree)) (PP (IN of) (NP (DT the) (VBN given) (NN node)))))) (, ,) (CC and) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (DT the) (JJ right) (NN child) (NN R)))) (VP (MD must) (VP (AUX be) (VP (VBN checked))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NN R)))) (VP (AUX is) (NP (QP (CD ≤) (CD 0)))))) (, ,) (NP (DT a) (JJ left) (NN rotation)) (VP (AUX is) (VP (VBN needed) (PP (IN with) (S (VP (VBG P) (PP (IN as) (NP (DT the) (NN root)))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NN R)))) (VP (AUX is) (ADJP (JJ +1))))) (, ,) (NP (DT a) (ADJP (RB double) (VBN left)) (NN rotation)) (VP (AUX is) (VP (VBN needed))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NN rotation)) (VP (AUX is) (NP (NP (DT a) (JJ right) (NN rotation)) (PP (IN with) (NP (NP (NN R)) (PP (IN as) (NP (DT the) (NN root))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN second)) (VP (AUX is) (NP (NP (DT a) (JJ left) (NN rotation)) (PP (IN with) (NP (NP (NNS P)) (PP (IN as) (NP (DT the) (NN root))))))) (. .)))
+
+(S1 (FRAG (NP (NP (JJ Left-Left) (NN case)) (CC and) (NP (JJ Left-Right) (NN case))) (: :) (S (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NNP P)))) (VP (AUX is) (ADJP (JJ +2))))) (, ,) (ADVP (RB then)) (NP (DT the) (JJ left) (NN subtree)) (VP (VBZ outweighs) (NP (NP (DT the) (JJ right) (NN subtree)) (PP (IN of) (NP (DT the) (VBN given) (NN node)))))) (, ,) (CC and) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (DT the) (JJ left) (NN child) (NN L)))) (VP (MD must) (VP (AUX be) (VP (VBN checked)))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NNP L)))) (VP (AUX is) (NP (QP (CD ≥) (CD 0)))))) (, ,) (NP (DT a) (JJ right) (NN rotation)) (VP (AUX is) (VP (VBN needed) (PP (IN with) (S (VP (VBG P) (PP (IN as) (NP (DT the) (NN root)))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN of) (NP (NNP L)))) (VP (AUX is) (ADJP (JJ −1))))) (, ,) (NP (DT a) (JJ double) (JJ right) (NN rotation)) (VP (AUX is) (VP (VBN needed))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NN rotation)) (VP (AUX is) (NP (NP (DT a) (JJ left) (NN rotation)) (PP (IN with) (NP (NNP L)))) (PP (IN as) (NP (DT the) (NN root)))) (. .)))
+
+(S1 (S (NP (DT The) (NN second)) (VP (AUX is) (NP (NP (DT a) (JJ right) (NN rotation)) (PP (IN with) (NP (NP (NNS P)) (PP (IN as) (NP (DT the) (NN root))))))) (. .)))
+
+(S1 (S (NP (NN Deletion)) (SBAR (IN If) (S (NP (DT the) (NN node)) (VP (AUX is) (NP (DT a) (NN leaf))))) (, ,) (VP (VB remove) (NP (PRP it))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN node)) (VP (AUX is) (RB not) (NP (DT a) (NN leaf))))) (, ,) (VP (VP (VB replace) (NP (PRP it)) (PP (IN with) (NP (NP (RB either) (DT the) (JJS largest)) (PP (IN in) (NP (NP (PRP$ its) (JJ left) (NN subtree) (NN inorder) (NN predecessor)) (CC or) (NP (NP (DT the) (JJS smallest)) (PP (IN in) (NP (PRP$ its) (JJ right) (JJ subtree) (NN inorder) (NN successor))))))))) (, ,) (CC and) (VP (VB remove) (NP (DT that) (NN node)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN node)) (SBAR (WHNP (WDT that)) (S (VP (AUX was) (VP (VBN found) (PP (IN as) (NP (DT a) (NN replacement)))))))) (VP (AUX has) (NP (QP (IN at) (JJS most) (CD one)) (NN subtree))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NN deletion))) (, ,) (VP (VB retrace) (NP (DT the) (NN path)) (PRT (RP back)) (PRT (RP up)) (NP (NP (DT the) (NN tree) (NN parent)) (PP (IN of) (NP (DT the) (NN replacement)))) (PP (TO to) (NP (DT the) (NN root))) (, ,) (S (VP (VBG adjusting) (NP (DT the) (NN balance) (NNS factors)) (SBAR (IN as) (S (VP (VBN needed))))))) (. .)))
+
+(S1 (S (PP (IN As) (PP (IN with) (NP (DT all) (JJ binary) (NNS trees)))) (, ,) (S (NP (NP (DT a) (NN node) (POS 's)) (JJ in-order) (NN successor)) (VP (AUX is) (NP (NP (DT the) (JJ left-most) (NN child)) (PP (IN of) (NP (PRP$ its) (JJ right) (NN subtree)))))) (, ,) (CC and) (S (NP (NP (DT a) (NN node) (POS 's)) (JJ in-order) (NN predecessor)) (VP (AUX is) (NP (NP (DT the) (JJ right-most) (NN child)) (PP (IN of) (NP (PRP$ its) (JJ left) (NN subtree)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT either) (NN case))) (, ,) (NP (DT this) (NN node)) (VP (MD will) (VP (AUX have) (NP (CD zero) (CC or) (CD one) (NNS children)))) (. .)))
+
+(S1 (S (VP (VB Delete) (NP (PRP it)) (PP (VBG according) (PP (TO to) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (CD two) (JJR simpler) (NNS cases)) (ADVP (RB above)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (NP (DT the) (NN balancing)) (VP (VBN described) (ADVP (RB above)) (PP (IN for) (NP (NNS insertions)))))))) (, ,) (SBAR (IN if) (S (S (NP (NP (DT the) (NN balance) (NN factor)) (PP (IN for) (NP (DT the) (NN tree)))) (VP (AUX is) (NP (CD 2)))) (CC and) (S (NP (NP (DT that)) (PP (IN of) (NP (DT the) (JJ left) (NN subtree)))) (VP (AUX is) (NP (CD 0)))))) (, ,) (NP (DT a) (JJ right) (NN rotation)) (VP (MD must) (VP (AUX be) (VP (VBN performed) (PP (IN on) (NP (NP (NNP P.)) (SBAR (S (NP (NP (DT The) (NN mirror)) (PP (IN of) (NP (DT this) (NN case)))) (VP (AUX is) (ADVP (RB also)) (ADJP (JJ necessary)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN retracing)) (VP (MD can) (VP (VB stop) (SBAR (IN if) (S (NP (DT the) (NN balance) (NN factor)) (VP (VBZ becomes) (NP (NP (CD −1) (CC or) (CD 1)) (VP (VBG indicating) (SBAR (IN that) (S (NP (NP (DT the) (NN height)) (PP (IN of) (NP (DT that) (NN subtree)))) (VP (AUX has) (VP (VBN remained) (ADJP (JJ unchanged))))))))))))) (. .)))
+
+(S1 (S (S (SBAR (IN If) (S (NP (DT the) (NN balance) (NN factor)) (VP (VBZ becomes) (NP (CD 0))))) (ADVP (RB then)) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (DT the) (NN subtree)))) (VP (AUX has) (VP (VBN decreased) (PP (IN by) (NP (CD one)))))) (CC and) (S (NP (DT the) (NN retracing)) (VP (VBZ needs) (S (VP (TO to) (VP (VB continue)))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN balance) (NN factor)) (VP (VBZ becomes) (NP (CD −2) (CC or) (CD 2))))) (ADVP (RB then)) (NP (DT the) (NN subtree)) (VP (VP (AUX is) (VP (VBN unbalanced))) (CC and) (VP (VBZ needs) (S (VP (TO to) (VP (AUX be) (VP (VBD rotated) (S (VP (TO to) (VP (VB fix) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN rotation)) (VP (VBZ leaves) (NP (NP (DT the) (NN subtree) (POS 's)) (NN balance) (NN factor)) (PP (IN at) (NP (CD 0)))))) (ADVP (RB then)) (NP (NP (DT the) (NN retracing)) (PP (IN towards) (NP (DT the) (NN root)))) (VP (MD must) (VP (VB continue) (SBAR (IN since) (S (NP (NP (DT the) (NN height)) (PP (IN of) (NP (DT this) (NN subtree)))) (VP (AUX has) (VP (VBN decreased) (PP (IN by) (NP (CD one))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (AUX is) (PP (IN in) (NP (NP (NN contrast)) (PP (TO to) (NP (NP (DT an) (NN insertion)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT a) (NN rotation)) (VP (VBG resulting) (PP (IN in) (NP (NP (DT a) (NN balance) (NN factor)) (PP (IN of) (NP (CD 0))))))) (VP (VBD indicated) (SBAR (IN that) (S (NP (NP (DT the) (NN subtree) (POS 's)) (NN height)) (VP (AUX has) (VP (VBN remained) (ADJP (JJ unchanged)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN time)) (VP (VBN required))) (VP (AUX is) (VP (VBG O) (S (S (VP (VB log) (NP (NNP n)) (PP (IN for) (NP (NN lookup))))) (, ,) (CC plus) (S (NP (NP (DT a) (JJ maximum)) (PP (IN of) (NP (NNP O)))) (VP (VBP log) (NP (NNP n) (NNS rotations)) (PP (IN on) (NP (NP (DT the) (NN way)) (ADVP (RB back) (PP (TO to) (NP (DT the) (NN root)))))) (, ,) (SBAR (IN so) (S (NP (DT the) (NN operation)) (VP (MD can) (VP (AUX be) (VP (VBN completed) (PP (IN in) (NP (NNP O) (NN log) (NNP n) (NN time))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lookup) (NNP Lookup)) (PP (IN in) (NP (DT an) (NNP AVL) (NN tree)))) (VP (AUX is) (VP (VBN performed) (ADVP (RB exactly)) (PP (IN as) (PP (IN in) (NP (DT an) (JJ unbalanced) (JJ binary) (NN search) (NN tree)))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (NP (DT the) (NN height-balancing)) (PP (IN of) (NP (DT the) (NN tree))))) (, ,) (NP (DT a) (NN lookup)) (VP (VBZ takes) (NP (NNP O) (NN log) (NNP n) (NN time))) (. .)))
+
+(S1 (S (S (NP (DT No) (JJ special) (NNS provisions)) (VP (AUX need) (S (VP (TO to) (VP (AUX be) (VP (VBN taken))))))) (, ,) (CC and) (S (NP (NP (DT the) (NN tree) (POS 's)) (NN structure)) (VP (AUX is) (RB not) (VP (VBN modified) (PP (IN by) (NP (NNS lookups)))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (AUX is) (PP (IN in) (NP (NP (NN contrast)) (PP (TO to) (NP (NP (JJ splay) (NN tree) (NNS lookups)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (AUX do) (VP (VB modify) (NP (NP (PRP$ their) (NN tree) (POS 's)) (NN structure))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT each) (NN node)) (ADVP (RB additionally)) (VP (VBZ records) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (PRP$ its) (NN subtree)))) (PP (VBG including) (NP (NP (PRP itself)) (CC and) (NP (PRP$ its) (NNS descendants))))))) (, ,) (ADVP (RB then)) (NP (DT the) (NNS nodes)) (VP (MD can) (VP (AUX be) (VP (VBN retrieved) (PP (IN by) (NP (NN index) (SBAR (IN in) (S (NP (NNS O)) (VP (VBP log) (NP (NNP n) (NN time)) (ADVP (RB as) (RB well)))))))))) (. .)))
+
+(S1 (S (SBAR (IN Once) (S (NP (DT a) (NN node)) (VP (AUX has) (VP (AUX been) (VP (VBN found) (PP (IN in) (NP (DT a) (JJ balanced) (NN tree)))))))) (, ,) (NP (DT the) (JJ next) (CC or) (JJ previous) (NNS nodes)) (VP (MD can) (VP (AUX be) (VP (VBN explored) (PP (IN in) (NP (JJ amortized) (JJ constant) (NN time)))))) (. .)))
+

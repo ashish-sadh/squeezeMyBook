@@ -1,0 +1,154 @@
+(S1 (FRAG (JJ Akbar) ('' '')))
+
+(S1 (S (NP (DT The) (NNP Great) ('' '') (CD [1542-1605) (NN -RSB-)) (, ,) (VP (AUX was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS greatest) (NNS rulers)) (PP (IN in) (NP (JJ Indian) (NN history))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (VP (VBN born) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP Humayun)) (CC and) (NP (NP (PRP$ his) (JJ first) (NN wife)) (, ,) (NP (NNP Hamida) (NNP Bano)) (, ,))) (VP (AUX were) (NP (NP (NNS fugitives)) (VP (VBG escaping) (PP (IN towards) (NP (NNP Iran)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (AUX was) (PP (IN during) (NP (DT these) (NNS wanderings))) (SBAR (IN that) (S (NP (NNP Akbar)) (VP (AUX was) (VP (VBN born) (PP (IN in) (NP (NP (NNP Umerkot)) (, ,) (NP (NNP Sindh)) (, ,))) (PP (IN on) (NP (NNP November) (CD 23) (, ,) (CD 1542)))))))) (. .)))
+
+(S1 (S (NP (NNP Legend)) (VP (AUX has) (NP (PRP it)) (SBAR (IN that) (S (NP (NNP Humayun)) (VP (VP (VBD prophesied) (NP (NP (DT a) (JJ bright) (NN future)) (PP (IN for) (NP (PRP$ his) (NN son))))) (, ,) (CC and) (VP (ADVP (RB thus) (RB accordingly)) (, ,) (VBD named) (NP (PRP him)) (NP (NNP Akbar))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX was) (VP (VBN raised) (PP (PP (IN in) (NP (NP (DT the) (JJ rugged) (NN country)) (PP (IN of) (NP (NNP Afghanistan))))) (CONJP (RB rather) (IN than)) (PP (IN amongst) (NP (NP (DT the) (NN splendor)) (PP (IN of) (NP (DT the) (NNP Delhi) (NN court)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD spent) (NP (PRP$ his) (NN youth)) (S (VP (VBG learning) (PP (TO to) (NP (NP (NN hunt)) (, ,) (NP (NN run)) (, ,) (CC and) (NP (NN fight))))))) (CC and) (VP (ADVP (RB never)) (VBD found) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB read) (CC or) (VB write)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (NP (NP (DT the) (RB only) (JJ great) (JJ Mughal) (NN ruler)) (SBAR (WHNP (WP who)) (S (VP (AUX was) (ADJP (JJ illiterate))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (DT this))) (, ,) (NP (PRP he)) (VP (AUX had) (NP (NP (DT a) (JJ great) (NN desire)) (PP (IN for) (NP (NN knowledge))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBD led) (S (NP (PRP him)) (VP (CONJP (RB not) (RB only)) (VP (TO to) (VP (VB maintain) (NP (DT an) (JJ extensive) (NN library)))) (CONJP (CC but) (RB also)) (VP (TO to) (VP (VB learn)))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX had) (NP (NP (PRP$ his) (NNS books)) (VP (VBN read) (PRT (RP out)) (PP (TO to) (NP (PRP him))) (PP (IN by) (NP (PRP$ his) (NNS courtiers)))))) (. .)))
+
+(S1 (S (ADVP (RB Therefore)) (, ,) (SBAR (RB even) (IN though) (S (ADJP (JJ unable) (S (VP (TO to) (VP (VB read))))))) (, ,) (NP (NNP Akbar)) (VP (AUX was) (ADJP (ADJP (RB as) (JJ knowledgeable)) (SBAR (IN as) (S (NP (DT the) (JJS most)) (VP (VBD learned) (PP (IN of) (NP (NNS scholars)))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VBD came) (PP (TO to) (NP (NP (NN throne)) (PP (IN in) (NP (CD 1556))))) (, ,) (PP (IN after) (NP (NP (DT the) (NN death)) (PP (IN of) (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Humayun))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (, ,) (NP (NNP Akbar)) (VP (AUX was) (ADJP (NP (RB only) (CD 13) (NNS years)) (JJ old))) (. .)))
+
+(S1 (S (S (NP (NNP Akbar)) (VP (AUX was) (NP (NP (DT the) (RB only) (JJ Mughal) (NN king)) (SBAR (S (VP (TO to) (VP (VB ascend) (PP (TO to) (NP (DT the) (NN throne))) (PP (IN without) (NP (NP (DT the) (JJ customary) (NN war)) (PP (IN of) (NP (NN succession)))))))))))) (: ;) (S (PP (IN as) (NP (PRP$ his) (NN brother))) (NP (NNP Muhammad) (NNP Hakim)) (VP (AUX was) (ADJP (RB too) (JJ feeble) (S (VP (TO to) (VP (VB offer) (NP (DT any) (NN resistance)))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (NP (DT the) (JJ first) (CD five) (NNS years)) (PP (IN of) (NP (PRP$ his) (NN rule))))) (, ,) (NP (NNP Akbar)) (VP (AUX was) (VP (VBN assisted) (CC and) (VBN advised) (PP (IN by) (NP (NP (NNP Bahram) (NNP Khan)) (PP (IN in) (S (VP (VBG running) (NP (NP (DT the) (NNS affairs)) (PP (IN of) (NP (DT the) (NN country))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Bahram) (NNP Khan)) (VP (AUX was) (PRN (, ,) (ADVP (RB however)) (, ,)) (VP (VBN removed)))) (CC and) (S (PP (IN for) (NP (DT a) (JJ few) (NNS years))) (NP (NNP Akbar)) (VP (VBD ruled) (PP (IN under) (NP (NP (DT the) (NN influence)) (PP (IN of) (NP (PRP$ his) (NN nurse) (NNP Maham) (NNP Anga))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (CD 1562))) (, ,) (NP (NNP Akbar)) (VP (VP (VBD freed) (NP (PRP himself)) (PP (IN from) (NP (JJ external) (NNS influences)))) (CC and) (VP (VBD ruled) (ADJP (JJ supreme)))) (. .)))
+
+(S1 (S (S (VP (VBG Akbar’s) (NP (NP (NN Reign) (NNS Thanks)) (PP (TO to) (NP (NP (NP (NNP Akbar) (POS 's)) (ADJP (RB exceptionally) (JJ capable)) (NN guardian)) (, ,) (NP (NNP Bahram) (NNP Khan))))))) (, ,) (NP (NNP Akbar)) (VP (VBD survived) (NP (NP (PRP$ his) (NN father) (POS 's)) (NN death)) (PP (IN at) (NP (NP (DT a) (JJ young) (NN age)) (SBAR (S (VP (TO to) (VP (VB demonstrate) (NP (PRP$ his) (NN worth))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Akbar) (POS 's)) (NN reign)) (VP (VBZ holds) (NP (NP (DT a) (JJ certain) (NN prominence)) (PP (IN in) (NP (NN history)))))) (: ;) (S (NP (PRP he)) (VP (AUX was) (NP (NP (DT the) (NN ruler)) (SBAR (WHNP (WP who)) (S (ADVP (RB actually)) (VP (VBD fortified) (NP (NP (DT the) (NNS foundations)) (PP (IN of) (NP (DT the) (NNP Mughal) (NNP Empire)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Areas)) (PP (RB not) (IN under) (NP (DT the) (NN empire)))) (VP (AUX were) (VP (VBN designated) (PP (IN as) (NP (NNS tributaries))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD adopted) (NP (NP (DT a) (JJ conciliatory) (NN policy)) (PP (IN towards) (NP (DT the) (NNPS Rajputs)))) (, ,) (S (ADVP (RB hence)) (VP (VBG reducing) (NP (NP (DT any) (NN threat)) (PP (IN from) (NP (PRP them))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX was) (NP (CONJP (RB not) (RB only)) (NP (DT a) (JJ great) (NN conqueror)) (, ,) (CC but) (NP (NP (DT a) (JJ capable) (NN organizer)) (CC and) (NP (NP (DT a) (JJ great) (NN administrator)) (ADVP (RB as) (RB well)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD set) (PRT (RP up)) (NP (NP (DT a) (NN host)) (PP (IN of) (NP (NP (NNS institutions)) (SBAR (WHNP (WDT that)) (S (VP (VBD proved) (S (VP (TO to) (VP (AUX be) (NP (NP (DT the) (NN foundation)) (PP (IN of) (NP (NP (DT an) (JJ administrative) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBD operated) (PP (ADVP (RB even)) (IN in) (NP (NNP British) (NNP India))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar) (POS 's)) (NN rule)) (ADVP (RB also)) (VP (VBZ stands) (PRT (RP out)) (ADVP (RB due) (PP (TO to) (NP (PRP$ his) (JJ liberal) (NNS policies)))) (PP (IN towards) (NP (NP (DT the) (NNS non-Muslims)) (, ,) (NP (PRP$ his) (JJ religious) (NNS innovations)) (, ,) (NP (DT the) (NN land) (NN revenue) (NN system)) (CC and) (NP (PRP$ his) (JJ famous) (NNP Mansabdari) (NN system))))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar) (POS 's)) (NNP Mansabdari) (NN system)) (VP (VBD became) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (NNP Mughal) (NN military) (NN organization)) (CC and) (NP (JJ civil) (NN administration)))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX was) (NP (NP (DT a) (JJ great) (NN patron)) (PP (IN of) (NP (NN architecture) (, ,) (NN art) (, ,) (CC and) (NN literature))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN court)) (VP (AUX was) (ADJP (JJ rich) (PP (IN in) (NP (NP (NN culture)) (CONJP (RB as) (RB well) (IN as)) (NP (NN wealth)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP$ his) (NN court)) (VP (AUX was) (ADJP (ADJP (RB so) (JJ splendid)) (SBAR (IN that) (S (NP (NP (DT the) (NNP British) (NNP monarch)) (, ,) (NP (NP (NNP Queen) (NNP Elizabeth) (NNP I)) (, ,) (SBAR (RB once) (S (ADVP (RB even)) (VP (VBD sent) (PRT (RP out)) (NP (PRP$ her) (NN ambassador)))))) (, ,) (NP (NNP Sir) (NNP Thomas) (NNP Roe)) (, ,)) (VP (TO to) (VP (VB meet) (NP (DT the) (NN king)))))))) (. !)))
+
+(S1 (S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (NNS buildings)))) (ADVP (RB still)) (VP (VBP survive) (, ,) (PP (VBG including) (NP (NP (DT the) (NNP Red) (NNP Fort) (IN at) (NNP Agra)) (, ,) (CC and) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Fatehpur) (NNP Sikri)))))) (, ,) (PP (IN near) (NP (NP (NNP Agra)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (AUX has) (NP (NP (DT a) (ADJP (JJ 10-km) (JJ long)) (NN wall)) (S (VP (VBG encircling) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD may) (VP (VB come) (PP (IN as) (NP (NP (DT a) (NN surprise)) (PP (IN for) (NP (JJ many))))) (SBAR (IN that) (S (NP (NP (DT a) (JJ great) (NN ruler)) (PP (IN like) (NP (NNP Akbar)))) (ADVP (RB actually)) (VP (MD could) (RB not) (VP (VB read) (CC or) (VB write))))))) (. !)))
+
+(S1 (S (CC And) (ADVP (RB yet)) (, ,) (NP (PRP he)) (VP (AUX had) (NP (NP (DT a) (JJ tremendous) (NN love)) (PP (IN for) (S (VP (VBG learning)))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (PRP$ his) (NN lifetime))) (, ,) (NP (NNP Akbar)) (VP (VBD collected) (NP (NP (NNS thousands)) (PP (IN of) (NP (ADJP (RB beautifully) (VBN written) (CC and) (VBN illustrated)) (NNS manuscripts))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBN surrounded) (NP (PRP himself)) (PP (IN with) (NP (NNS writers) (, ,) (NNS scholars) (, ,) (NNS musicians) (, ,) (NNS painters) (, ,) (CC and) (NNS translators)))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN court)) (VP (AUX had) (NP (NP (DT the) (JJ fabled) (CD Nine) (NNS Gems)) (: -) (NP (NP (CD nine) (JJ famous) (NNS personalities)) (PP (IN from) (NP (NP (JJ different) (VBZ walks)) (PP (IN of) (NP (NN life)))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBD included) (NP (NP (NN music) (NN maestro)) (UCP (NNP Tansen) (CC and) (ADJP (JJ intelligent) (NP (JJ statesman) (NNP Birbal)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN reign)) (PP (IN of) (NP (NNP Akbar)))) (VP (AUX was) (NP (NP (DT a) (NN period)) (PP (IN of) (NP (NP (NN renaissance)) (PP (IN of) (NP (JJ Persian) (NN literature))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Ain-i-Akbari)) (VP (VBZ gives) (NP (NP (DT the) (NNS names)) (PP (IN of) (NP (NP (CD 59) (JJ great) (NNP Persian) (NNS poets)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (NN court))))))) (. .)))
+
+(S1 (S (NP (NN History)) (VP (AUX was) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NN branch)) (PP (IN of) (NP (NNP Persian) (NN prose) (NN literature))))) (. .)))
+
+(S1 (S (NP (NP (NNP Abul) (NNP Fazl) (POS 's)) (NNP Akbarnama) (CC and) (NNP Ain-i-Akbari)) (VP (AUX were) (NP (JJ complementary) (NNS works))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar)) (CC and) (NP (PRP$ his) (NNS successors))) (, ,) (NP (NP (NNP Jehangir)) (CC and) (NP (NN Shah) (NNP Jehan))) (ADVP (RB greatly)) (VP (VBD contributed) (PP (TO to) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ Indian) (NN music)))))) (. .)))
+
+(S1 (S (NP (NNP Tansen)) (VP (AUX was) (NP (NP (DT the) (ADJP (RBS most) (JJ accomplished)) (NN musician)) (PP (IN of) (NP (DT the) (NN age))))) (. .)))
+
+(S1 (S (NP (NNP Ain-i-Akbari)) (VP (VBZ gives) (NP (NP (DT the) (NNS names)) (PP (IN of) (NP (NP (CD 36) (JJ first-rate) (NNS musicians)) (PP (IN of) (NP (NP (NP (NNP Akbar) (POS 's)) (NN court)) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNP Hindu) (CC and) (NNP Muslim) (NN style)) (PP (IN of) (NP (NN music)))) (VP (VBD mingled) (ADVP (RB freely))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Mughal) (JJ architectural) (NN style)) (VP (VBD began) (PP (IN as) (NP (NP (DT a) (JJ definite) (NN movement)) (PP (IN under) (NP (PRP$ his) (NN rule)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar) (POS 's)) (ADJP (RBS most) (JJ ambitious) (CC and) (JJ magnificent)) (JJ architectural) (NN undertaking)) (VP (AUX was) (NP (NP (DT the) (JJ new) (NN capital) (NN city)) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBD built) (PP (IN on) (NP (DT the) (NNP ridge))) (PP (IN at) (NP (NP (NNP Sikri)) (PP (IN near) (NP (NNP Agra)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN city)) (VP (AUX was) (VP (VBN named) (PP (IN as) (NP (NNP Fatehpur))) (S (VP (TO to) (VP (VB commemorate) (NP (NP (NP (NNP Akbar) (POS 's)) (NN conquest)) (PP (IN of) (NP (NNP Gujrat)))) (PP (IN in) (NP (CD 1572)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (RBS most) (JJ impressive)) (NN creation)) (PP (IN of) (NP (DT this) (JJ new) (NN capital)))) (VP (AUX is) (NP (DT the) (JJ grand) (NNP Jamia) (NNP Masjid))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ southern) (NN entrance)) (PP (TO to) (NP (DT the) (NNP Jamia) (NNP Masjid)))) (VP (AUX is) (NP (NP (DT an) (JJ impressive) (NN gateway)) (VP (VBN known) (PP (IN as) (NP (NNP Buland) (NNP Darwaza)))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (RBS most) (JJ other) (NNS buildings)) (PP (IN at) (NP (NNP Fatehpur) (NNP Sikri))))) (, ,) (NP (NP (DT the) (NN fabric)) (PP (IN of) (NP (DT this) (JJ impressive) (NN gateway)))) (VP (AUX is) (PP (IN of) (NP (NP (JJ red) (NN sandstone)) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (VP (VBN decorated) (PP (IN by) (NP (NP (NNS carvings) (CC and) (NN discreet) (NN inlaying)) (PP (IN of) (NP (JJ white) (NN marble)))))))))))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (PDT all) (DT the) (NNS Mughals))) (, ,) (NP (NP (NNP Akbar) (POS 's)) (NN reign)) (VP (AUX was) (NP (DT the) (ADJP (RBS most) (JJ peaceful) (CC and) (JJ powerful)))) (. .)))
+
+(S1 (S (PP (IN During) (NP (PRP$ his) (NN reign))) (, ,) (NP (NNP Akbar)) (VP (VBD managed) (S (VP (TO to) (VP (VB subdue) (NP (NP (RB almost) (DT all)) (PP (IN of) (NP (NNP India)))) (, ,) (PP (IN with) (NP (NP (DT the) (VBG remaining) (NNS areas)) (VP (VBG becoming) (NP (JJ tributary) (NNS states))))))))) (. .)))
+
+(S1 (S (ADVP (IN Along) (PP (IN with) (NP (PRP$ his) (JJ military) (NNS conquests)))) (, ,) (NP (PRP he)) (VP (VBD introduced) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (NNS reforms)) (SBAR (S (VP (TO to) (VP (VB consolidate) (NP (PRP$ his) (NN power)))))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VBD practiced) (NP (NP (NN tolerance)) (VP (VBN aimed) (PP (IN at) (NP (JJ Hindu-Muslim) (NN unification))))) (PP (IN through) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (NP (DT a) (JJ new) (NN religion)) (VP (VBN known) (PP (IN as) (NP (NNP Din-i-Ilahi))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD won) (PP (IN over) (NP (DT the) (NNP Hindus))) (PP (PP (IN by) (S (VP (VBG naming) (NP (PRP them)) (PP (TO to) (NP (JJ important) (ADJP (JJ military) (CC and) (JJ civil)) (NNS positions)))))) (, ,) (PP (IN by) (S (VP (VBG conferring) (NP (NNP honors)) (PP (IN upon) (NP (PRP them)))))) (, ,) (CC and) (PP (IN by) (S (VP (VBG marrying) (NP (DT a) (NNP Hindu) (NNP princess))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD appointed) (NP (NNS nobles) (CC and) (NNS mansabdars)) (PP (IN without) (NP (DT any) (JJ religious) (NN prejudice)))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Akbar) (POS 's)) (JJ religious) (NNS innovations) (CC and) (NNS policies)) (, ,) (CC and) (NP (NP (NN deviation)) (PP (IN from) (NP (JJ Islamic) (NN dogma)))) (, ,)) (VP (AUX have) (VP (AUX been) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (NN debate)) (CC and) (NP (NN controversy))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX was) (NP (NP (DT a) (JJ great) (NN patron)) (PP (IN of) (NP (NP (JJ literary) (NNS works)) (CC and) (NP (NNS scholars)))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN court)) (VP (AUX had) (NP (NP (JJ numerous) (NNS scholars)) (PP (IN of) (NP (DT the) (NN day))) (SBAR (WHNP (WP who)) (S (VP (AUX are) (ADJP (RB well) (VBN known) (PP (IN as) (FRAG ('' '') (NP (NNP Nauratan)) ('' ''))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar)) (NP (PRP himself))) (VP (VBD appointed) (NP (NP (JJ important) (JJ regional) (NNS officers)) (ADJP (JJ answerable) (PP (TO to) (NP (PRP him)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (ADJP (JJ able) (S (VP (TO to) (VP (VB set) (PRT (RP up)) (NP (NP (NP (DT a) (NN chain)) (PP (IN of) (NP (NP (NNS informers)) (, ,) (SBAR (S (NP (NNS officials)) (VP (VP (VBD spied) (PP (IN on) (NP (PRP$ their) (NNS colleagues)))) (CC and) (VP (VBD reported) (NP (DT any) (NNS misdeeds))))))))) (CC or) (NP (JJ suspicious) (NN behaviour))) (ADVP (RB back) (PP (TO to) (NP (DT the) (NN emperor))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Army) (NNS commanders)) (VP (AUX were) (VP (VBN given) (NP (NP (NN money)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (VP (TO to) (VP (VB pay) (NP (PRP$ their) (NNS soldiers)))))))))) (CC and) (S (NP (NNP Akbar)) (VP (VBD kept) (NP (NP (JJ detailed) (NNS records)) (PP (IN of) (NP (NP (DT every) (NN man) (POS 's)) (NN name) (CC and) (NN description)))))) (. .)))
+
+(S1 (S (NP (RB Even) (DT the) (NNS horses)) (VP (AUX were) (VP (VBN branded))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (ADVP (RB also)) (VP (VBD introduced) (NP (NP (DT a) (ADJP (JJ new) (CC and) (JJR fairer)) (NN system)) (PP (IN of) (NP (NN taxation))) (PP (VBN based) (PP (IN on) (NP (NP (ADJP (RB carefully) (VBN estimated)) (NNS tables)) (PP (IN of) (NP (NN crop) (NNS yields)))))))) (. .)))
+
+(S1 (S (NP (NN Tax) (NNS collectors)) (VP (VP (AUX had) (NP (PRP$ their) (JJ own) (NN district) (NNS tables))) (CC and) (VP (VBD used) (NP (PRP them)) (S (VP (TO to) (VP (VB work) (PRT (RP out)) (SBAR (WHNP (WRB how) (JJ much) (NN grain)) (S (NP (DT the) (NNS farmers)) (VP (MD should) (VP (VB contribute)))))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN contribution)) (VP (AUX was) (ADVP (RB then)) (VP (VBN converted) (PP (IN into) (NP (PRP$ its) (NN cash) (NN value))) (, ,) (S (VP (NN district) (PP (IN by) (NP (NN district))) (, ,) (SBAR (IN because) (S (NP (NN food) (NNS prices)) (VP (VBN varied) (PP (IN in) (NP (NP (JJ different) (NNS parts)) (PP (IN of) (NP (DT the) (NN empire)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX had) (NP (CD three) (NNS sons)) (NP (NNP Prince) (NNP Salim) (, ,) (NNP Murad) (CC and) (NNP Daniyal))) (. .)))
+
+(S1 (S (NP (NNP Prince) (NNP Murad) (CC and) (NNP Daniyal)) (VP (VBD died) (PP (IN in) (NP (PRP$ their) (JJ prime))) (PP (IN during) (NP (NP (PRP$ their) (NN father) (POS 's)) (NN lifetime)))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNP Akbar)) (VP (VBD faced) (SBAR (S (NP (NP (NNS problems)) (PP (IN with) (NP (NP (NNP Prince) (NNP Salim)) (CC and) (NP (NP (DT the) (JJ last) (CD four) (NNS years)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (NN life))))))) (VP (AUX were) (VP (VBN consumed) (PP (IN in) (S (VP (VBG crushing) (NP (NP (NNP Salim) (POS 's)) (NN rebellion)))))))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VP (VBD fell) (ADVP (RB ill))) (CC and) (VP (VBD died) (PP (IN of) (NP (JJ slow) (NN poisoning))) (PP (IN on) (NP (NNP October) (CD 27) (, ,) (CD 1605))))) (. .)))
+
+(S1 (SINV (PP (IN With) (NP (PRP him))) (VP (VBD ended)) (NP (NP (DT the) (RBS most) (JJ glorious) (NN epoch)) (PP (IN in) (NP (JJ Indian) (NN history)))) (. .)))
+
+(S1 (S (S (VP (VBG Akbar’s) (NP (NN coinage)) (PP (IN In) (NP (NP (DT the) (JJ 30th) (NN year)) (PP (IN of) (NP (PRP$ his) (NN reign))))))) (, ,) (NP (NP (NNP Akbar)) (, ,) (SBAR (WHNP (WP who)) (S (VP (AUX was) (VP (VP (VBG distanciating) (NP (PRP himself)) (PP (IN from) (NP (NNP Islam)))) (CC and) (VP (VBG searching) (PP (IN for) (NP (DT a) (JJ universal) (NN religion)))))))) (, ,)) (VP (VBD replaced) (NP (DT the) (NNP Hegira) (NN era) (NNS dates)) (PP (IN by) (NP (DT the) (NNP Ilahi) (NN era)) (ADVP (DT the)))) ('' '')))
+
+(S1 (S (NP (NNP Divine) ('' '') (NN era) (NNS ones)) (, ,) (VP (VBN calculated) (PP (IN in) (NP (JJ solar) (NNS years))) (PP (IN from) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (PRP$ his) (NN reign)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD dropped) (PP (IN from) (NP (NP (DT the) (NN obverse)) (PP (IN of) (NP (PRP$ his) (NNS coins)))) (NP (NP (DT the) (NNP Muslim) (NN profession)) (PP (IN of) (NP (NP (NN faith)) (CC and) (NP (DT the) (NN expression))))))) ('' '')))
+
+(S1 (FRAG (INTJ (UH Allah) (UH akbar) ('' '')) (, ,) ('' '')))
+
+(S1 (S (NP (NNP God)) (VP (AUX is) (ADJP (JJ great) ('' '') (SBAR (S (VP (AUX was) (VP (VBN substituted))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD suppressed) (NP (PRP$ his) (JJ own) (NN name)))) (, ,) (CC or) (FRAG (ADVP (RB maybe) (RB not)) (: :) (SBAR (S (NP (NP (DT the) (NNP arabic) (NN expression)) (PP (IN on) (NP (DT the) (NN obverse)))) (VP (MD could) (ADVP (RB also)) (VP (VB mean))))) ('' ''))))
+
+(S1 (S (NP (NNP Akbar)) (VP (AUX is) (NP (NNP God))) ('' '')))
+

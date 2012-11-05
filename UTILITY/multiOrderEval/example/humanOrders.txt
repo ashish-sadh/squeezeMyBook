@@ -1,0 +1,11 @@
+1 D B G I H F C J A E 
+2 D G B I C F A J E H 
+3 D B I G F J A E H C 
+4 D C F G I B J A H E 
+5 D G B I H F J A C E 
+6 D G I B F C E H J A 
+7 D B G I F C H E J A 
+8 D B C F G I E H A J 
+9 D G I B E H F A J C 
+10 D B G I C F A J E H 
+11 D B E G H C F I J A

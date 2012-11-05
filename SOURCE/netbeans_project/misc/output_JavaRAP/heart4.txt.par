@@ -1,0 +1,54 @@
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (NP (DT the) (NN health)) (PP (IN of) (NP (PRP$ your) (NN heart)))))))) (, ,) (NP (PRP it)) (VP (VBZ helps) (S (VP (TO to) (VP (AUX have) (NP (NP (JJ basic) (NN understanding)) (PP (IN of) (NP (PRP$ its) (NN structure)))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (AUX is) (ADJP (RB especially) (JJ true)) (SBAR (IN if) (S (VP (VB you’ve) (VP (AUX been) (VP (VBN diagnosed) (PP (IN with) (NP (NP (DT a) (JJ specific) (NN problem)) (SBAR (WHNP (WDT that)) (S (VP (VBZ stems) (PP (IN from) (NP (PRP$ your) (JJ heart’s) (NN anatomy)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Let’s)) (VP (VB discuss) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (NP (PRP$ your) (ADJP (RBS most) (JJ important)) (NN muscle)) (PP (IN in) (NP (ADJP (RB very) (JJ simple)) (NNS terms))))))) (. .)))
+
+(S1 (S (NP (PRP$ Your) (NN heart)) (VP (AUX is) (VP (VBN made) (PRT (RP up)) (PP (IN of) (NP (CD four) (NNS chambers))))) (. .)))
+
+(S1 (S (NP (DT The) (NX (NX (JJ right) (NN atrium)) (CC and) (NX (NN ventricle)))) (VP (VBP help) (S (VP (TO to) (VP (VB circulate) (NP (NN blood)) (PP (IN through) (NP (DT the) (NNS lungs))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ left) (NN atrium) (CC and) (NN ventricle)) (VP (VBP help) (S (VP (TO to) (VP (VB circulate) (NP (NN blood)) (PP (TO to) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (PRP$ your) (NN body))))))))) (. .)))
+
+(S1 (S (CC So) (S (NP (NP (DT the) (NN blood) (NN that’s)) (PP (IN on) (NP (NP (DT the) (JJ right) (NN side)) (PP (IN of) (NP (PRP$ your) (NN heart)))))) (VP (AUX is) (VP (VBN depleted) (PP (IN of) (NP (PRP$ its) (NN oxygen)))))) (CC and) (S (NP (NP (DT the) (NN blood)) (SBAR (WHNP (WDT that)) (S (VP (VBZ flows) (PP (IN through) (NP (NP (DT the) (JJ left) (NN side)) (PP (IN of) (NP (PRP$ your) (NN heart))))))))) (VP (AUX is) (ADJP (JJ oxygen-rich)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS atria)) (VP (VBP receive) (NP (NN blood)) (PP (IN into) (NP (NP (DT the) (NN heart)) (CC and) (SBAR (S (NP (DT the) (NNS ventricles)) (VP (VBP pump) (NP (NN blood)) (PP (IN out) (PP (IN of) (NP (PRP it)))))))))) (. .)))
+
+(S1 (S (PP (IN Between) (NP (DT these) (CD four) (NNS chambers))) (NP (EX there)) (VP (AUX are) (NP (NNS valves))) (. .)))
+
+(S1 (S (NP (DT These) (NNS valves)) (VP (VBP help) (S (VP (TO to) (VP (VB keep) (S (NP (NN blood)) (VP (VBG flowing) (PP (IN in) (NP (DT the) (JJ right) (NN direction))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB also)) (VP (VBP prevent) (NP (PRP it)) (PP (IN from) (S (VP (VBG slipping) (ADVP (RB back) (PP (TO to) (NP (DT the) (JJ wrong) (NN chamber)))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN heart)) (VP (AUX is) (PP (IN at) (NP (NN rest)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN sense))) (, ,) (NP (PRP they)) (VP (AUX are) (NP (JJ one-way) (NNS doors))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS cells)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (VP (AUX are) (ADJP (JJ specialized))) (CC and) (VP (ADVP (RB actually)) (MD will) (VP (VB beat) (PP (IN on) (NP (PRP$ their) (JJ own)))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB make) (ADJP (JJ sure) (SBAR (IN that) (S (NP (NP (PRP they)) (NP (DT all))) (VP (VBP beat) (PP (IN at) (NP (DT the) (JJ right) (NN time)))))))))) (, ,) (NP (DT the) (NN heart)) (VP (AUX has) (NP (NP (DT a) (JJ special) (NN area)) (VP (VBN called) (S (NP (DT a) (NN pacemaker)))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VP (AUX is) (VP (VBN located) (PP (IN in) (NP (NP (DT the) (JJ right) (NN atrium)) (PP (IN of) (NP (DT the) (NN heart))))))) (CC and) (VP (AUX is) (VP (VBN called) (S (NP (DT the) (NNP SA) (NN node)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ sends) (S (NP (DT an) (JJ electrical) (NN impulse)) (VP (TO to) (VP (VB regulate) (NP (PRP$ your) (NN heartbeat)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (AUX is) (NP (NP (DT the) (JJ central) (NN organ)) (PP (IN of) (NP (DT the) (NN circulatory) (NN system))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ entire) (NN system)) (VP (VBZ works) (PRT (RP together)) (S (VP (TO to) (VP (VB deliver) (NP (NN oxygen) (CC and) (NNS nutrients)) (PP (TO to) (NP (DT the) (NNS cells))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (NP (PRP it)) (VP (VBZ picks) (PRT (RP up)) (NP (NP (NNS wastes)) (CC and) (NP (NN carbon) (NN dioxide))) (PP (IN from) (NP (DT the) (NNS cells)))) (. .)))
+
+(S1 (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (AUX do) (NP (DT this)))))) (, ,) (NP (NN blood) (NNS vessels)) (VP (VB provide) (NP (DT a) (NN transportation) (NN network)) (PP (IN for) (NP (NN delivery)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ left) (NN ventricle)) (VP (VBZ empties) (NP (NN blood)) (PP (IN out) (PP (IN into) (NP (NP (DT the) (NN aorta)) (VP (VBG –) (NP (NP (DT the) (JJS strongest) (NN artery)) (PP (IN in) (NP (DT the) (NN body))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBZ carries) (NP (DT the) (NN blood)) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN heart) (CC and) (NNS branches)) (ADVP (IN off)))) (PP (IN into) (NP (JJR smaller) (NNS arteries)))) (CC and) (VP (ADVP (RB eventually) (NN blood)) (VBZ makes) (NP (PRP$ its) (NN way)) (PP (TO to) (NP (DT the) (NNS capillaries))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NNS capillaries))) (NP (DT the) (NN blood)) (VP (VP (VBZ makes) (NP (PRP$ its) (NNS exchanges))) (CC and) (VP (ADVP (RB then)) (VBZ returns) (PP (TO to) (NP (NP (DT the) (NN heart)) (PP (IN through) (NP (DT the) (NNS veins))))))) (. .)))
+
+(S1 (S (NP (DT The) (NX (FW vena) (FW cava))) (VP (AUX is) (NP (NP (DT the) (JJ major) (NN vein)) (SBAR (WHNP (WDT that)) (S (VP (VBZ returns) (NP (NN blood)) (PP (TO to) (NP (DT the) (NN heart)))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (AUX are) (ADVP (RB also)) (NP (NP (JJ pulmonary) (NNS arteries) (CC and) (NNS veins)) (SBAR (WHNP (WDT that)) (S (VP (VB transport) (NP (NP (NN blood)) (PP (IN from) (NP (NP (DT the) (NN heart)) (PP (TO to) (NP (DT the) (NNS lungs)))))) (CC and) (RB then) (VP (VB back) (ADVP (RB again)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN heart)) (VP (MD may) (VP (VB seem) (PP (IN like) (NP (DT a) (JJ simple) (NN structure)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD can) (ADVP (RB actually)) (VP (AUX be) (ADJP (RB quite) (JJ complicated)) (PP (IN because) (IN of) (NP (NP (PRP$ its) (JJ many) (NNS structures)) (CC and) (NP (PRP$ its) (JJ essential) (NNS functions))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (AUX is) (NP (NP (DT the) (ADJP (RBS most) (JJ efficient)) (NN pump)) (PP (IN on) (NP (NN earth) (CD –))) (SBAR (S (NP (DT no) (JJ manmade) (NN structure)) (VP (MD can) (VP (VB come) (ADVP (RB close) (PP (TO to) (NP (PRP$ its) (NN efficiency) (CC and) (NN longevity)))))))))) (. .)))
+

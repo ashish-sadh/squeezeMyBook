@@ -1,0 +1,114 @@
+(S1 (S (NP (NN Introduction) (NNP World) (NNP War) (NNP I)) (VP (AUX was) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NP (NNS leaders) (POS ')) (NN aggression)) (PP (IN towards) (NP (NP (JJ other) (NNS countries)) (SBAR (WHNP (WDT which)) (S (VP (AUX was) (VP (VBN supported) (PP (IN by) (NP (NP (DT the) (VBG rising) (NN nationalism)) (PP (IN of) (NP (DT the) (NNP European) (NNS nations))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Economic) (CC and) (JJ imperial) (NN competition)) (CC and) (NP (NP (NN fear)) (PP (IN of) (NP (NN war))))) (VP (VBD prompted) (NP (NP (JJ military) (NNS alliances)) (CC and) (NP (NP (DT an) (NNS arms) (NN race)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (ADVP (RB further)) (VBD escalated) (NP (NP (DT the) (NN tension)) (VP (VBG contributing) (PP (TO to) (NP (NP (DT the) (NN outbreak)) (PP (IN of) (NP (NN war))))))))))))) (. .)))
+
+(S1 (S (S (VP (NN Nationalism) (PP (IN At) (NP (NP (DT the) (NN settlement)) (PP (IN of) (NP (NP (DT the) (NNP Congress)) (PP (IN of) (NP (NNP Vienna))))))) (PP (IN in) (NP (CD 1815))))) (, ,) (NP (NP (DT the) (NN principle)) (PP (IN of) (NP (NN nationalism)))) (VP (AUX was) (VP (VBN ignored) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (S (VP (VBG preserving) (NP (DT the) (NN peace))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Germany)) (CC and) (NP (NNP Italy))) (VP (AUX were) (VP (VBN left) (PP (IN as) (NP (VBN divided) (NNS states)))))) (, ,) (CC but) (S (NP (NP (JJ strong) (JJ nationalist) (NNS movements)) (CC and) (NP (NNS revolutions))) (VP (VBD led) (PP (TO to) (NP (NP (DT the) (NN unification)) (PP (IN of) (NP (NNP Italy))))) (PP (IN in) (NP (NP (CD 1861)) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (NNP Germany)))))) (PP (IN in) (NP (CD 1871))))) (. .)))
+
+(S1 (S (NP (NP (DT Another) (NN result)) (PP (IN of) (NP (DT the) (NNP Franco-Prussian) (NNP War))) (PP (IN of) (NP (CD 1870-71)))) (VP (AUX was) (SBAR (IN that) (S (S (NP (NNP France)) (VP (AUX was) (VP (VBN left) (S (VP (VBG seething) (PP (PP (IN over) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NNP Alsace-Lorraine))))) (PP (TO to) (NP (NNP Germany))))))))) (, ,) (CC and) (S (NP (NNP Revanche)) (VP (AUX was) (NP (NP (DT a) (JJ major) (NN goal)) (PP (IN of) (NP (DT the) (NNPS French))))))))) (. .)))
+
+(S1 (S (NP (NN Nationalism)) (VP (VBD posed) (NP (NP (DT a) (NN problem)) (PP (IN for) (NP (NP (NNP Austria-Hungary)) (CC and) (NP (NP (DT the) (NNPS Balkans)) (, ,) (NP (NP (NNS areas)) (VP (VBN comprised) (PP (IN of) (NP (JJ many) (JJ conflicting) (JJ national) (NNS groups)))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (JJ ardent) (NNP Panslavism)) (PP (IN of) (NP (NNP Serbia) (CC and) (NNP Russia))) (POS 's)) (NN willingness) (S (VP (TO to) (VP (VB support) (NP (PRP$ its) (JJ Slavic) (NN brother)))))) (VP (VBD conflicted) (PP (IN with) (NP (NP (NNP Austria-Hungary) (POS 's)) (NNP Pangermanism)))) (. .)))
+
+(S1 (S (NP (NN Imperialism)) (NP (NP (DT Another) (NN factor)) (SBAR (WHNP (WDT which)) (S (VP (VBD contributed) (PP (TO to) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NN rivalry))) (PP (IN in) (NP (NNP Europe))))))))) (VP (AUX was) (NP (NN imperialism))) (. .)))
+
+(S1 (S (NP (NP (NNP Great) (NNP Britain)) (, ,) (NP (NNP Germany)) (CC and) (NP (NNP France))) (VP (VBD needed) (NP (JJ foreign) (NNS markets)) (PP (IN after) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (NN manufacturing)) (VP (VBN caused) (PP (IN by) (NP (DT the) (NNP Industrial) (NNP Revolution))))))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS countries)) (VP (VBD competed) (PP (IN for) (NP (NP (JJ economic) (NN expansion)) (PP (IN in) (NP (NNP Africa)))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NP (NNP Britain)) (CC and) (NP (NNP France))) (VP (VBD resolved) (NP (PRP$ their) (NNS differences)) (PP (IN in) (NP (NNP Africa)))))) (, ,) (NP (NP (JJ several) (NNS crises)) (VP (VBG foreshadowing) (NP (DT the) (NN war)))) (VP (VBN involved) (NP (NP (DT the) (NN clash)) (PP (IN of) (NP (NNP Germany)))) (PP (IN against) (NP (NP (NNP Britain)) (CC and) (NP (NNP France)))) (PP (IN in) (NP (NNP North) (NNP Africa)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP Middle) (NNP East))) (, ,) (NP (DT the) (VBG crumbling) (NNP Ottoman) (NNP Empire)) (VP (AUX was) (ADJP (JJ alluring) (PP (TO to) (NP (NP (NNP Austria-Hungary)) (, ,) (NP (DT the) (NNPS Balkans)) (CC and) (NP (NNP Russia)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Bismarck)) (CC and) (NP (NNS Alliances) (NNP World) (NNP War) (NNP I))) (VP (AUX was) (VP (VBN caused) (PP (IN in) (NP (NN part))) (PP (IN by) (NP (NP (DT the) (CD two) (VBG opposing) (NNS alliances)) (VP (VBN developed) (PP (IN by) (NP (NP (JJ Bismarckian) (NN diplomacy)) (PP (IN after) (NP (DT the) (NNP Franco-Prussian) (NNP War)))))))))) (. .)))
+
+(S1 (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (ADVP (RB diplomatically)) (VB isolate) (NP (NNP France)))))) (, ,) (NP (NNP Bismarck)) (VP (VBD formed) (NP (NP (DT the) (NNP Three) (NNP Emperor) (POS 's)) (NNP League)) (PP (IN in) (NP (CD 1872))) (, ,) (NP (NP (DT an) (NN alliance)) (PP (IN between) (NP (NP (NNP Germany)) (, ,) (NP (NNP Russia)) (CC and) (NP (NNP Austria-Hungary)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNPS French)) (VP (VBD occupied) (NP (NNP Tunisia))))) (, ,) (NP (NNP Bismarck)) (VP (VP (VBD took) (NP (NP (NN advantage)) (PP (IN of) (NP (NP (JJ Italian) (NN resentment)) (PP (IN towards) (NP (NNP France))))))) (CC and) (VP (VBD created) (NP (NP (DT the) (JJ Triple) (NNP Alliance)) (PP (IN between) (NP (NP (NNP Germany)) (, ,) (NP (NNP Italy)) (CC and) (NP (NNP Austria-) (NNP Hungary))))) (PP (IN in) (NP (CD 1882))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN exchange)) (PP (IN for) (NP (NP (NNP Italy) (POS 's)) (NN agreement) (S (VP (TO to) (VP (VB stay) (ADJP (JJ neutral)) (SBAR (IN if) (S (NP (NN war)) (VP (VBD broke) (PRT (RP out)) (PP (IN between) (NP (NNP Austria-Hungary) (CC and) (NNP Russia))))))))))))) (, ,) (NP (NNP Germany) (CC and) (NNP Austria-Hungary)) (VP (MD would) (VP (VB protect) (NP (NNP Italy)) (PP (IN from) (NP (NNP France))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Russia)) (CC and) (NP (NNP Austria-Hungary))) (VP (VBD grew) (ADJP (JJ suspicious) (PP (IN of) (NP (DT each) (JJ other)))) (PP (IN over) (NP (NP (NNS conflicts)) (PP (IN in) (NP (DT the) (NNP Balkans))))) (PP (IN in) (NP (CD 1887))))) (, ,) (CC but) (S (NP (NNP Bismarck)) (VP (VBD repaired) (NP (NP (DT the) (NN damage)) (PP (TO to) (NP (NP (PRP$ his) (NNS alliances)) (PP (IN with) (NP (DT a) (NNP Reinsurance) (NNP Treaty))) (PP (IN with) (NP (NNP Russia)))))) (, ,) (S (VP (VBG allowing) (S (NP (DT both) (NNS powers)) (VP (TO to) (VP (VB stay) (ADJP (JJ neutral)) (SBAR (IN if) (S (NP (DT the) (JJ other)) (VP (AUX was) (PP (IN at) (NP (NN war))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Collapse)) (PP (IN of) (NP (JJ Bismarckian) (NNS Alliances)))) (ADVP (RB However)) (, ,) (SBAR (IN after) (S (NP (NNP Bismarck)) (VP (AUX was) (VP (VBN fired) (PP (IN by) (NP (NNP Kaiser) (NNP William) (NNP II))) (PP (IN in) (NP (CD 1890))))))) (, ,) (NP (NP (DT the) (JJ traditional) (NN dislike)) (PP (IN of) (NP (NNP Slavs)))) (VP (VBD kept) (NP (NP (NNP Bismarck) (POS 's)) (NNS successors)) (PP (IN from) (S (VP (VBG renewing) (NP (NP (DT the) (NN understanding)) (PP (IN with) (NP (NNP Russia)))))))) (. .)))
+
+(S1 (S (S (NP (NNP France)) (VP (VBD took) (NP (NP (NN advantage)) (PP (IN of) (NP (DT this) (NN opportunity) (S (VP (TO to) (VP (VB get) (NP (DT an) (NN ally)))))))))) (, ,) (CC and) (S (NP (DT the) (JJ Franco-) (NNP Russian) (NNP Entente)) (VP (AUX was) (VP (VBN formed) (PP (IN in) (NP (NP (CD 1891)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD became) (NP (DT a) (JJ formal) (NN alliance)) (PP (IN in) (NP (CD 1894))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Kruger) (NN telegram) (NNP William) (NNP II)) (VP (VBD sent) (S (VP (TO to) (VP (VB congratulate) (NP (NP (DT the) (NN leader)) (PP (IN of) (NP (DT the) (NNPS Boers)))) (PP (IN for) (S (VP (VBG defeating) (NP (DT the) (NNPS British)) (PP (IN in) (NP (CD 1896)))))) (, ,) (S (NP (NP (PRP$ his) (NNS instructions)) (PP (TO to) (NP (DT the) (NNP German) (NNS soldiers)))) (VP (TO to) (VP (VB behave) (PP (IN like) (NP (NNP Huns))) (PP (IN in) (NP (NNP China))) (PP (IN during) (NP (NP (DT the) (NN Boxer) (NN Rebellion)) (, ,) (CC and) (ADVP (RB particularly)) (NP (NP (DT the) (JJ large-) (NN scale) (NN navy)) (SBAR (S (NP (PRP he)) (VP (AUX was) (VP (VBG building) (NP (NP (DT all)) (SBAR (S (VP (VBN contributed) (PP (TO to) (NP (NP (JJ British) (NN distrust)) (PP (IN of) (NP (NNP Germany))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NNP Britain)) (CC and) (NP (NNP France))) (VP (VP (VBD overlooked) (NP (NP (DT all) (JJ major) (JJ imperialistic) (NN conflict)) (PP (IN between) (NP (PRP them))))) (CC and) (VP (VBD formed) (NP (DT the) (NNP Entente) (NNP Cordiale)) (PP (IN in) (NP (CD 1904))))) (. .)))
+
+(S1 (S (NP (NNP Russia)) (VP (VBD formed) (NP (NP (DT an) (NN Entente)) (PP (IN with) (NP (NNP Britain)))) (PP (IN in) (NP (CD 1907))) (SBAR (IN after) (S (NP (PRP they)) (VP (AUX had) (VP (VBN reached) (NP (NP (DT an) (NN understanding)) (PP (IN with) (NP (NP (NP (NNP Britain) (POS 's)) (NN ally)) (SBAR (S (NP (NP (NNP Japan)) (CC and) (NP (NNP William) (NNP II))) (VP (AUX had) (ADVP (RB further)) (VP (VBN alienated) (NP (NNP Russia)) (PP (IN by) (S (VP (VBG supporting) (NP (JJ Austrian) (NNS ambitions)) (PP (IN in) (NP (DT the) (NNP Balkans)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Triple) (NNP Entente)) (, ,) (NP (NP (DT an) (JJ informal) (NN coalition)) (PP (IN between) (NP (NP (NNP Great) (NNP Britain)) (, ,) (NP (NNP France)) (CC and) (NP (NNP Russia))))) (, ,)) (ADVP (RB now)) (VP (VBD countered) (NP (DT the) (JJ Triple) (NNP Alliance))) (. .)))
+
+(S1 (S (NP (JJ International) (NN tension)) (VP (AUX was) (ADVP (RB greatly)) (VP (VBN increased) (PP (IN by) (NP (NP (DT the) (NN division)) (PP (IN of) (NP (NNP Europe))))) (PP (IN into) (NP (CD two) (JJ armed) (NNS camps))))) (. .)))
+
+(S1 (S (NP (NNS Arms) (NN Race)) (NP (NP (DT The) (NN menace)) (PP (IN of) (NP (NP (DT the) (JJ hostile) (NN division)) (VP (VBN led) (PP (TO to) (NP (DT an) (NNS arms) (NN race))))))) (, ,) (S (NP (NP (DT another) (NN cause)) (PP (IN of) (NP (NNP World) (NNP War) (NNP I.)))) (VP (VBG Acknowledging) (SBAR (IN that) (S (NP (NNP Germany)) (VP (AUX was) (NP (NP (DT the) (NN leader)) (PP (IN in) (NP (JJ military) (NN organization) (CC and) (NN efficiency))))))))) (, ,) (NP (NP (DT the) (JJ great) (NNS powers)) (PP (IN of) (NP (NNP Europe)))) (VP (VBN copied) (S (NP (NP (DT the) (JJ universal) (NN conscription)) (, ,) (NP (JJ large) (NNS reserves)) (CC and) (NP (JJ detailed) (NN planning)) (PP (IN of) (NP (DT the) (NNP Prussian) (NN system)))))) (. .)))
+
+(S1 (S (NP (ADJP (JJ Technological) (CC and) (JJ organizational)) (NNS developments)) (VP (VBD led) (PP (TO to) (NP (NP (DT the) (NN formation)) (PP (IN of) (NP (NP (JJ general) (NNS staffs)) (PP (IN with) (NP (NP (JJ precise) (NNS plans)) (PP (IN for) (NP (NN mobilization) (CC and) (NN attack))) (SBAR (WHNP (WDT that)) (S (ADVP (RB often)) (VP (MD could) (RB not) (VP (AUX be) (VP (VBN reversed) (SBAR (IN once) (S (NP (PRP they)) (VP (AUX were) (VP (VBN begun))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP German) (NNP von) (NNP Schlieffen) (NN Plan)) (SBAR (S (VP (TO to) (VP (VB attack) (NP (NNP France)) (PP (IN before) (NP (NNP Russia))) (PP (IN in) (NP (NP (DT the) (NN event)) (PP (IN of) (NP (NN war))) (PP (IN with) (NP (NNP Russia)))))))))) (VP (AUX was) (NP (NP (CD one) (JJ such) (VBN complicated) (NN plan)) (SBAR (WHNP (WDT that)) (S (VP (VBD drew) (NP (JJR more) (NNS countries)) (PP (IN into) (NP (NN war)))))) (SBAR (IN than) (FRAG (ADJP (JJ necessary)))))) (. .)))
+
+(S1 (S (NP (NNS Armies) (CC and) (NNS navies)) (VP (AUX were) (VP (ADVP (RB greatly)) (VBN expanded))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBG standing) (NNS armies)) (PP (IN of) (NP (NP (NNP France)) (CC and) (NP (NNP Germany))))) (VP (VBN doubled) (PP (IN in) (NP (NN size))) (PP (IN between) (NP (CD 1870) (CC and) (CD 1914)))) (. .)))
+
+(S1 (S (NP (JJ Naval) (NN expansion)) (VP (AUX was) (ADVP (RB also)) (ADJP (RB extremely) (JJ competitive)) (, ,) (PP (ADVP (RB particularly)) (IN between) (NP (NP (NNP Germany)) (CC and) (NP (NNP Great) (NNP Britain))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (CD 1889))) (, ,) (NP (DT the) (NNPS British)) (VP (AUX had) (VP (VBN established) (NP (DT the) (NN principle) (SBAR (IN that) (S (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB maintain) (NP (JJ naval) (NN superiority)) (PP (IN in) (NP (NP (DT the) (NN event)) (PP (IN of) (NP (NN war)))))))))) (NP (PRP they)) (VP (MD would) (VP (AUX have) (S (VP (TO to) (VP (AUX have) (NP (DT a) (NN navy)) (NP (NP (QP (CD two) (CC and) (DT a) (NN half)) (NNS times)) (ADJP (ADJP (RB as) (JJ large)) (PP (IN as) (NP (DT the) (JJ second-largest) (NN navy))))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBN motivated) (S (NP (DT the) (NNPS British)) (VP (TO to) (VP (VB launch) (NP (NP (DT the) (NNP Dreadnought)) (, ,) (VP (VBN invented) (PP (IN by) (NP (NP (NN Admiral)) (NP (NNP Sir) (NNP John) (NNP Fisher))))) (, ,)) (PP (IN in) (NP (CD 1906))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Russo-Japanese) (NNP War)) (PP (IN of) (NP (CD 1904-1905)))) (VP (AUX had) (VP (VBN demonstsrated) (SBAR (WHNP (WRB how) (JJ effective)) (S (NP (DT these) (NNS battleships)) (VP (AUX were)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Britain)) (VP (VBD increased) (NP (NP (PRP$ their) (NN output)) (PP (IN of) (NP (NNS battleships))))))) (, ,) (NP (NNP Germany)) (ADVP (RB correspondingly)) (VP (VBD stepped) (PRT (RP up)) (NP (NP (PRP$ their) (JJ naval) (NN production)) (, ,) (PP (VBG including) (NP (DT the) (NNP Dreadnought))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NP (NNS efforts)) (PP (IN for) (NP (NNP worldwide) (NN disarmament)))) (VP (AUX were) (VP (VBN made) (PP (IN at) (NP (NP (DT the) (JJ Hague) (NNS Conferences)) (PP (IN of) (NP (CD 1899) (CC and) (CD 1907))))))))) (, ,) (NP (JJ international) (NN rivalry)) (VP (VBD caused) (S (NP (DT the) (NNS arms) (NN race)) (VP (TO to) (VP (VB continue) (S (VP (TO to) (VP (VB feed) (PP (IN on) (NP (PRP itself)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Crises)) (PP (IN in) (NP (NNP Africa)))) (NP (NP (DT The) (NN friction)) (PP (IN of) (NP (DT an) (VBN armed) (CC and) (VBN divided) (NNP Europe)))) (VP (VBN escalated) (PP (IN into) (NP (NP (JJ several) (NNS crises)) (PP (IN in) (NP (NP (NNP Morocco)) (CC and) (NP (DT the) (NNPS Balkans)))) (SBAR (WHNP (WDT which)) (S (ADVP (RB nearly)) (VP (VBD ended) (PP (IN in) (NP (NN war))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1905))) (, ,) (NP (NNP Germany)) (VP (VBD announced) (NP (NP (PRP$ its) (NN support)) (PP (IN of) (NP (NN independence))) (PP (IN for) (NP (NP (NNP Morocco)) (, ,) (NP (NP (DT the) (JJ African) (NN colony)) (SBAR (WHNP (WDT which)) (S (NP (NNP Britain)) (VP (AUX had) (VP (VBN given) (NP (NNP France)) (PP (IN in) (NP (CD 1904)))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNPS British)) (VP (VBD defended) (NP (DT the) (NNPS French)))) (, ,) (CC and) (S (NP (NN war)) (VP (AUX was) (VP (VBN avoided) (PP (IN by) (NP (NP (DT a) (JJ international) (NN conference)) (PP (IN in) (NP (NP (NNP Algeciras)) (PP (IN in) (NP (CD 1906))) (SBAR (WHNP (WDT which)) (S (VP (VBD allowed) (S (NP (NNP France)) (VP (TO to) (VP (VB make) (S (NP (NNP Morocco)) (NP (DT a) (JJ French) (NN protectorate)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Bosnian) (NN Crisis)) (PP (IN of) (NP (NP (CD 1908)) (NP (DT Another) (NN conflict))))) (VP (AUX was) (VP (VBN incited) (PP (IN by) (NP (NP (DT the) (JJ Austria-Hungarian) (NN annexation)) (PP (IN of) (NP (NP (DT the) (JJ former) (JJ Turkish) (NN province)) (PP (IN of) (NP (NNP Bosnia))))))) (PP (IN in) (NP (CD 1908))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Greater) (NNP Serbian) (NN movement)) (VP (AUX had) (PP (IN as) (NP (DT an) (NN object))) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NNP Slavic) (NNP Bosnia)))))) (, ,) (CC so) (S (NP (NNP Serbia)) (VP (VBD threatened) (NP (NP (NN war)) (PP (IN on) (NP (NNP Austria-Hungary)))))) (. .)))
+
+(S1 (S (NP (NNP Russia)) (VP (AUX had) (VP (VBN pledged) (NP (PRP$ their) (NN support)) (PP (TO to) (NP (NNP Serbia))) (, ,) (SBAR (IN so) (S (NP (PRP they)) (VP (VBD began) (S (VP (TO to) (VP (VP (VB mobilize)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD caused) (S (NP (NP (NNP Germany)) (, ,) (ADJP (JJ allied) (PP (IN with) (NP (NNP Austria-Hungary)))) (, ,)) (VP (TO to) (VP (VB threaten) (NP (NP (NN war)) (PP (IN on) (NP (NNP Russia)))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN beginning)) (PP (IN of) (NP (NNP World) (NNP War) (PRP I)))) (VP (AUX was) (VP (VBN postponed) (SBAR (WHADVP (WRB when)) (S (NP (NNP Russia)) (VP (VBD backed) (PRT (RP down)))))))) (, ,) (CC but) (S (NP (NP (NNS relations)) (PP (IN between) (NP (NNP Austria-) (NNP Hungary) (CC and) (NNP Serbia)))) (VP (AUX were) (ADJP (RB greatly) (VBN strained)))) (. .)))
+
+(S1 (S (NP (NNP Morocco) (NNP II)) (NP (DT A) (JJ second) (NNP Moroccan) (NN crisis)) (VP (VBD occurred) (PP (IN in) (NP (NP (CD 1911)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Germany)) (VP (VBD sent) (NP (DT a) (NN warship)) (PP (TO to) (NP (NP (NNP Agadir)) (PP (IN in) (NP (NN protest))) (PP (IN of) (NP (NP (JJ French) (NN supremacy)) (PP (IN in) (NP (NNP Morocco))))))) (, ,) (S (VP (VBG claiming) (SBAR (S (NP (DT the) (NNP French)) (VP (AUX had) (VP (VBN violated) (NP (DT the) (NN agreement)) (PP (IN at) (NP (NNP Algeciras))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Britain)) (VP (VP (ADVP (RB again)) (VBD rose) (PP (TO to) (NP (NP (NNP France) (POS 's)) (NN defense)))) (CC and) (VP (VBD gave) (NP (DT the) (NNPS Germans)) (NP (JJ stern) (NNS warnings)))) (. .)))
+
+(S1 (S (NP (NNP Germany)) (VP (VBD agreed) (S (VP (TO to) (VP (VB allow) (S (NP (NNP France)) (NP (NP (DT a) (JJ free) (NN hand)) (PP (IN in) (NP (NNP Morocco)))) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NNP French) (NNP Congo)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (NNP Balkan) (NNPS Wars)) (PP (IN of) (NP (CD 1912-13))))) (, ,) (NP (DT the) (NNP Balkan) (NNPS States)) (VP (VP (VBD drove) (NP (DT the) (NNPS Turks)) (ADVP (RB back) (PP (TO to) (NP (NNP Constantinople))))) (CC and) (VP (VBD fought) (PP (IN among) (NP (PRP themselves))) (PP (IN over) (NP (NN territory))))) (. .)))
+
+(S1 (S (NP (NP (NNS Tensions)) (PP (IN between) (NP (NNP Serbia) (CC and) (NNP Austria-Hungary)))) (VP (VBD increased) (SBAR (WHADVP (WRB when)) (S (NP (NNP Austria-Hungary)) (VP (VBD forced) (S (NP (NNP Serbia)) (VP (TO to) (VP (VB abandon) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNS gains))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Assassination)) (PP (IN in) (NP (NNP Sarajevo) (NNP Europe)))) (VP (AUX had) (VP (VBN reached) (NP (NP (PRP$ its) (JJ breaking) (NN point)) (SBAR (WHADVP (WRB when)) (S (PP (IN on) (NP (NNP June) (CD 28) (, ,) (CD 1914))) (, ,) (NP (NP (NNP Archduke) (NNP Francis) (NNP Ferdinand)) (, ,) (NP (NP (NN heir)) (PP (TO to) (NP (DT the) (JJ Austria-Hungarian) (NN throne)))) (, ,)) (VP (AUX was) (VP (VBN assassinated) (PP (IN in) (NP (NP (NNP Sarajevo)) (, ,) (NP (NNP Bosnia)) (, ,))) (PP (IN by) (NP (NP (DT a) (NNP Serbian)) (VP (ADVP (JJ nationalist)) (VBG belonging) (PP (TO to) (NP (NP (DT an) (NN organization)) (VP (VBN known) (PP (IN as) (NP (DT the) (JJ Black) (NN Hand))) (NP (NNP Narodna) (NNP Obrana))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Immediately)) (PP (VBG following) (NP (DT the) (NN assassination))) (NP (NNP Germany)) (VP (VBD pledged) (NP (PRP$ its) (JJ full) (NN support) (JJ blank) (NN check)) (PP (TO to) (NP (NNP Austria-Hungary))) (, ,) (S (VP (VBG pressuring) (S (NP (PRP them)) (VP (TO to) (VP (VB declare) (NP (NN war)) (PP (IN on) (NP (NNP Serbia))) (, ,) (SBAR (IN while) (S (NP (NNP France)) (VP (VBD strengthened) (NP (NP (PRP$ its) (NN backing)) (PP (IN of) (NP (NNP Russia))))))))))))) (. .)))
+
+(S1 (S (PP (VBN Convinced) (SBAR (IN that) (S (NP (DT the) (NNP Serbian) (NN government)) (VP (AUX had) (VP (VBD conspired) (PP (IN against) (NP (PRP them)))))))) (, ,) (NP (NNP Austria-Hungary)) (VP (VBD issued) (NP (NNP Serbia)) (NP (NP (DT an) (JJ unacceptable) (NN ultimatum)) (, ,) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (NNP Serbia)) (VP (VBD consented) (ADVP (RB almost) (RB entirely))))))) (. .)))
+
+(S1 (S (PP (VBG Falling) (NP (NNP Dominoes) (NNP Unsatisfied))) (, ,) (NP (NNP Austria-Hungary)) (VP (VBD declared) (NP (NP (NN war)) (PP (IN on) (NP (NNP Serbia))) (PP (IN on) (NP (NNP July) (CD 28) (, ,) (CD 1914))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP July) (CD 29))) (, ,) (NP (NNP Russia)) (VP (VBD ordered) (NP (NP (DT a) (JJ partial) (NN mobilization) (RB only)) (PP (IN against) (NP (NNP Austria-Hungary)))) (PP (IN in) (NP (NP (NN support)) (PP (IN of) (NP (NP (NNP Serbia)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD escalated) (PP (IN into) (NP (DT a) (JJ general) (NN mobilization))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Germans)) (VP (VBD threatened) (S (VP (NN war) (PP (IN on) (NP (NNP July) (CD 31))) (SBAR (IN if) (S (NP (DT the) (NNPS Russians)) (VP (AUX did) (RB not) (VP (VB demobilize)))))))) (. .)))
+
+(S1 (S (PP (IN Upon) (S (VP (AUXG being) (VP (VBD asked) (PP (IN by) (NP (NNP Germany))) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (MD would) (VP (AUX do) (PP (IN in) (NP (NP (DT the) (NN event)) (PP (IN of) (NP (DT a) (NNP Russo-German) (NNP War))))))))))))) (, ,) (NP (NNP France)) (VP (VP (VBD responded) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB act) (PP (IN in) (NP (PRP$ its) (JJ own) (NNS interests)))))))) (CC and) (VP (VBD mobilized))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP August) (CD 1))) (, ,) (NP (NNP Germany)) (VP (VP (VBD declared) (NP (NP (NN war)) (PP (IN on) (NP (NNP Russia))))) (, ,) (CC and) (ADVP (NP (CD two) (NNS days)) (RB later)) (, ,) (PP (IN on) (NP (NNP France)))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (JJ German) (NN invasion)) (PP (IN of) (NP (NNP Belgium))) (S (VP (TO to) (VP (VB attack) (NP (NNP France)))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD violated) (NP (NP (NNP Belgium) (POS 's)) (JJ official) (NN neutrality))))) (, ,)) (VP (VBD prompted) (S (NP (NNP Britain)) (VP (TO to) (VP (VB declare) (NP (NP (NN war)) (PP (IN on) (NP (NNP Germany)))))))) (. .)))
+
+(S1 (S (NP (NNP World) (NNP War) (PRP I)) (VP (AUX had) (VP (VBN begun))) (. .)))
+

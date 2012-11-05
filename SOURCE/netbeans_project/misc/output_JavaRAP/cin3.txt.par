@@ -1,0 +1,82 @@
+(S1 (S (ADVP (NP (JJ Long) (JJ long) (NN time)) (RB ago)) (, ,) (ADVP (RB far) (RB far) (RB away)) (, ,) (NP (EX there)) (VP (VP (VBN lived) (NP (NP (DT a) (JJ beautiful) (NN maiden)) (SBAR (WHNP (WP who)) (S (VP (AUX was) (ADJP (JJ soft) (CC and) (JJ loving))))))) (, ,) (NP (NP (RB just) (DT the) (NN way)) (SBAR (S (NP (PRP$ her) (NNS parents)) (VP (AUX had) (VP (VBN raised) (NP (PRP her)))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP she)) (VP (MD would) (VP (VB sit) (PP (IN near) (NP (NP (DT the) (NNS banks)) (PP (IN of) (NP (DT the) (NN river))))))))) (, ,) (NP (NP (PDT all) (DT the) (NNS birds)) (CC and) (NP (DT the) (NNS bees))) (VP (MD would) (VP (VB hover) (PP (IN around) (NP (PRP her))) (, ,) (S (VP (VBG whispering) (NP (JJ sweet) (NNS nothings)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBD loved) (NP (PRP her)) (PP (IN like) (NP (NP (NN everyone)) (PP (IN in) (NP (NP (DT the) (NN village)) (PP (IN for) (S (VP (AUXG being) (NP (NP (DT a) (NNP princess)) (SBAR (S (NP (PRP she)) (VP (AUX was) (ADJP (ADJP (JJ humble)) (CC and) (ADJP (RB ever) (JJ loving))))))))))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NN tragedy)) (VP (VBD struck))) (CC and) (S (NP (NNP Cinderella)) (VP (VBD lost) (NP (PRP$ her) (NN mother)))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VP (VBD made) (S (NP (NNP Cinderella)) (VP (VB withdraw) (PP (IN from) (NP (DT the) (NN world)))))) (CC and) (VP (AUX was) (VP (ADVP (RB completely)) (VBN reserved)))) (. .)))
+
+(S1 (S (S (VP (VBG Looking) (PP (IN at) (NP (NP (DT the) (NN plight)) (PP (IN of) (NP (PRP$ his) (NN daughter))))))) (, ,) (NP (NP (DT the) (NN father)) (VP (VBN thought) (S (NP (PRP it)) (ADVP (RB best)) (VP (TO to) (VP (VB get) (VP (VBN married) (ADVP (RB again)) (PP (IN as) (NP (DT a) (NN mother))))))))) (VP (VBZ plays) (NP (NP (DT a) (JJ vital) (NN role)) (PP (IN in) (NP (DT every) (JJ child’s) (NN development))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ second) (NN marriage)) (VP (VBD took) (NP (NN place)))) (, ,) (CC but) (S (NP (DT the) (NN step-mother)) (ADVP (RB never)) (VP (VBD replaced) (SBAR (S (NP (DT the) (JJ real) (NN mother)) (, ,) (PP (IN in) (NP (NN fact))) (NP (PRP it)) (ADVP (RB only)) (VP (VBD got) (ADJP (JJR worse))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (DT the) (CD two) (NNS step-sisters)) (VP (VBD entered) (NP (DT the) (NN scene))))) (, ,) (NP (NNP Cinderella)) (VP (VP (AUX was) (VP (VBN reduced) (PP (TO to) (NP (DT a) (NN slave) (NN –))))) (CC and) (VP (AUX was) (VP (VBN made) (S (VP (TO to) (VP (AUX do) (NP (PDT all) (DT the) (VBG washing) (, ,) (VBG cleaning) (CC and) (VBG cooking)))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ Her) (NNS days)) (ADVP (RB never)) (VP (VBN ended))) (CC and) (S (NP (DT the) (JJ wicked) (NNS siblings) (RB only)) (VP (VBD made) (S (NP (PRP it)) (ADJP (JJR worse))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VP (VBD gave) (NP (PRP her)) (NP (PRP$ their) (JJ old) (JJ torn) (NNS clothes)) (S (VP (TO to) (VP (VB wear))))) (CC and) (VP (ADVP (RB never)) (VBD allowed) (NP (PRP her)) (PP (IN out) (PP (IN of) (NP (DT the) (NN house)))))) (. .)))
+
+(S1 (S (NP (NNP Poor) (NNP Cinderella)) (VP (MD would) (VP (VB cry) (NP (DT every) (NN day)) (PP (TO to) (NP (PRP herself))))) (. .)))
+
+(S1 (S (ADVP (RB Nevertheless)) (, ,) (S (NP (DT the) (NNS days)) (VP (VBD passed) (PP (IN into) (NP (NP (NNS months)) (CC and) (NP (NNS months)))) (PP (IN into) (NP (NNS years))))) (CC and) (S (NP (NNP Cinderella)) (VP (VBD blossomed) (PP (IN into) (NP (DT a) (JJ beautiful) (NN girl))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBD made) (S (NP (PRP$ her) (NNS step-sisters)) (ADJP (RB very) (JJ jealous)))) (. .)))
+
+(S1 (S (NP (NP (CD One) (NN day)) (NP (DT the) (NN king)) (PP (IN of) (NP (DT the) (NN land)))) (VP (AUX had) (NP (NP (DT a) (NN ball)) (PP (IN for) (NP (PRP$ his) (NN son) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NN love)) (PP (IN of) (NP (PRP$ his) (NN life))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (RB so) (DT the) (NNS soldiers)) (VP (VBD came) (PP (TO to) (NP (NP (DT every) (NN home)) (SBAR (WHNP (WDT that)) (S (VP (VP (AUX had) (NP (JJR spinster) (NNS girls))) (CC and) (VP (VBD read) (PRT (RP out)) (NP (DT the) (NN invitation))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS step-sisters)) (VP (VBD rejoiced) (CC and) (VBD got) (PP (TO to) (S (VP (VBG thinking) (PP (IN about) (NP (DT the) (NN ball)))))))) (CC and) (SBARQ (WHNP (WP what)) (SQ (MD would) (NP (PRP they)) (VP (VB wear) (S (VP (TO to) (VP (VB appease) (NP (DT the) (NN prince))))))) (. .))))
+
+(S1 (SINV (PP (IN At) (NP (DT the) (NN back))) (VP (AUX was)) (NP (NP (NNP Cinderella)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD heard) (NP (DT the) (NN invitation))) (CC and) (VP (VBD yearned) (S (VP (TO to) (VP (AUX be) (PP (IN at) (NP (DT the) (NN party))))))))))) (. .)))
+
+(S1 (FRAG (CC But) (WHADVP (WRB how)) (. ?)))
+
+(S1 (S (PP (IN On) (NP (NP (DT the) (NN day)) (PP (IN of) (NP (DT the) (NN ball))))) (, ,) (S (NP (DT the) (NNS sisters)) (VP (VBD looked) (NP (PRP$ their) (JJ prime)))) (CC and) (S (NP (DT the) (NN mother)) (VP (VP (VBD tucked) (NP (PRP$ her) (NN waist)) (PP (TO to) (SBAR (WHADVP (WRB where)) (S (NP (PRP she)) (VP (MD could) (RB not) (VP (VB breathe))))))) (CC and) (VP (VBD left) (NP (PRP$ her) (NN slave) (NN daughter)) (S (VP (TO to) (VP (AUX do) (NP (DT the) (NN cleaning)))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Cinderella)) (VP (VBD sat) (PP (IN in) (NP (DT the) (NN kitchen)))))) (VP (VBD crying) (SBAR (SBAR (S (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN burst)) (PP (IN of) (NP (NN light))))))) (CC and) (SBAR (IN in) (S (NP (PRP it)) (VP (VBD appeared) (S (NP (DT a) (NN lady)) (VP (VBN dressed) (PP (IN in) (NP (JJ white)))))))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP Who)) (SQ (AUX are) (NP (NP (PRP you)) (, ,) (NP (PRP she))) (VP (VBN cried))) (. .)))
+
+(S1 (S (NP (PRP$ Your) (NN fairy) (NN godmother)) (VP (VBD said) (NP (DT the) (NN lady))) (. .)))
+
+(S1 (SBARQ (CC And) (WHADVP (WRB why)) (SQ (AUX are) (NP (PRP you)) (ADJP (RB here))) (. .)))
+
+(S1 (S (VP (TO To) (VP (VB dress) (NP (PRP you)) (PRT (RP up)) (PP (IN for) (NP (DT the) (NN ball))))) (. .)))
+
+(S1 (S (CC But) (ADVP (WRB how)) (, ,) (VP (VBD said) (NP (NNP Cinderella)) (SBAR (S (NP (PRP I)) (VP (AUX have) (NP (NP (RB only) (JJ old) (NNS rags)) (SBAR (S (VP (TO to) (VP (VB dress) (S (INTJ (UH in.) (UH Well)) (VP (VB that’s) (SBAR (WHADVP (WRB why)) (S (S (NP (NNP I’m)) (VP (ADVP (RB here)) (VBD said) (NP (DT the) (NN godmother)))) (CC and) (S (PP (IN with) (NP (NP (DT a) (NN swish)) (PP (IN of) (NP (PRP$ her) (NN wand))))) (NP (PRP she)) (VP (VP (VBD dressed) (NP (NNP Cinderella))) (CC and) (VP (VBD made) (NP (PRP$ her) (NN hair)))))))))))))))))) (. .)))
+
+(S1 (S (S (INTJ (UH Wow)) (, ,) (VP (VBD said) (NP (NNP Cinderella)))) (CC but) (SBARQ (WHADVP (WRB how)) (SQ (AUX am) (NP (PRP I)) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NN ball)))))))) (. .)))
+
+(S1 (S (CC And) (PP (IN with) (NP (DT another) (NN swish))) (NP (NP (DT the) (NN melon)) (PP (IN in) (NP (DT the) (NN garden)))) (VP (VBD turned) (PP (IN into) (NP (NP (DT a) (NN carriage)) (CC and) (NP (NP (DT the) (JJ white) (NN mouse)) (SBAR (WHNP (WDT that)) (S (VP (VBD ran) (PRT (RP around)) (PP (IN in) (PP (TO to) (NP (CD two) (JJ mighty) (NNS horses))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Cinderella)) (ADVP (RB hurriedly)) (VP (VBD climbed) (PP (IN into) (NP (DT the) (NN carriage))))) (CC but) (S (SBAR (IN before) (S (NP (PRP she)) (VP (MD could) (VP (VB go) (NP (DT the) (NNP Godmother)))))) (VP (VBD said) (, ,) (S (NP (PRP you)) (VP (AUX have) (NP (NP (NN time)) (SBAR (WHNP (IN till)) (S (NP (DT the) (NN clock)) (VP (VBZ strikes) (UCP (NP (CD 12)) (CC and) (SBAR (IN with) (S (NP (DT that) (NN she)) (VP (VBN vanished))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN prince)) (VP (VBD stood) (ADVP (JJ amazed)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD saw) (S (NP (NNP Cinderella)) (VP (VBG entering) (NP (DT the) (NN ball)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (VP (VBN stunned) (PP (IN by) (NP (PRP$ her) (NN beauty))) (, ,) (S (VP (VBG making) (S (NP (DT every) (NN lady)) (VP (VB turn) (ADJP (JJ green)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD asked) (PP (IN for) (NP (PRP$ her) (NN hand)))) (CC and) (VP (VBD danced) (PRT (RP away)))) (. .)))
+
+(S1 (S (NP (RB Even) (DT the) (NNS step-sisters)) (VP (VBD failed) (S (VP (TO to) (VP (VB recognize) (NP (PRP her)) (SBAR (IN as) (S (NP (PRP she)) (VP (AUX had) (VP (VBN groomed) (NP (PRP herself)) (SBAR (IN like) (S (NP (PRP they)) (VP (AUX had) (ADVP (RB never)) (VP (VBN seen) (ADVP (RB before)))))))))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (NN clock)) (VP (VBD struck) (NP (CD 12)))) (CC and) (S (SBAR (IN before) (S (NP (NNP Cinderella)) (VP (MD could) (VP (VB say) (NP (DT a) (NN word)))))) (NP (PRP she)) (VP (VP (VBD ran) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN prince))))) (CC and) (VP (ADVP (RB immediately)) (VBD turned) (PP (IN into) (NP (PRP$ her) (JJ old) (JJ ragged) (NN self)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN prince)) (VP (VP (AUX was) (VP (VBN devastated))) (CC and) (VP (VBD ran) (PP (IN behind) (NP (PRP her)) (, ,) (ADVP (RB only))) (S (VP (TO to) (VP (VB find) (NP (NP (PRP$ her) (NN glass) (NN slipper)) (CC and) (NP (NP (NN nothing)) (ADJP (RB else))))))))) (. .)))
+
+(S1 (S (NP (DT The) (RB very) (JJ next) (NN day)) (NP (PRP he)) (VP (VBD made) (S (NP (PRP$ his) (NNS soldiers)) (VP (VP (VB take) (NP (DT the) (NN slipper))) (CC and) (VP (VB go) (PRT (RP around)) (NP (DT the) (NN kingdom) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (NN foot)) (SBAR (WHNP (WDT that)) (S (VP (VBZ fits) (PP (IN in) (NP (PRP it))))))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD searched) (PP (IN in) (NP (JJ vain))) (SBAR (IN until) (S (NP (PRP they)) (VP (VBD fell) (PP (IN upon) (NP (DT the) (NN step))) (NP (CD sister’s) (NN house)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS girls)) (VP (VBD tried) (S (VP (TO to) (VP (VB force) (NP (PRP$ their) (NN leg)) (PP (IN in))))))) (CC but) (S (NP (PRP it)) (VP (AUX did) (RB not) (VP (VB fit)))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP they)) (VP (AUX were) (ADVP (IN about)) (S (VP (TO to) (VP (VB go) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))))))))) (VP (VP (VBD spotted) (NP (NNP Cinderella))) (CC and) (VP (VBD asked) (NP (PRP her)) (S (VP (TO to) (VP (VB try)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS sisters)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (AUX was) (NP (DT no) (NN use) (SBAR (IN as) (S (NP (PRP it)) (VP (MD would) (ADVP (RB never)) (VP (AUX have) (VP (AUX been) (NP (PRP$ her)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS soldiers)) (VP (VBD insisted) (SBAR (S (S (CC and) (RB so) (NP (NNP Cinderella)) (VP (VBD stepped) (ADVP (RB forward)))) (CC and) (S (NP (PRP it)) (VP (AUX was) (NP (DT a) (JJ perfect) (NN fit))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN prince)) (VP (AUX had) (VP (VBN found) (NP (NP (DT the) (NN love)) (PP (IN of) (NP (PRP$ his) (NN life))))))) (CC and) (S (NP (PRP they)) (VP (VBD lived) (ADVP (RB happily) (NP (RB ever) (CD after.))))) (. .)))
+

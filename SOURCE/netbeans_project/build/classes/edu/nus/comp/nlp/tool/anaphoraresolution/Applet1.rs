@@ -1,0 +1,4 @@
+edu.nus.comp.nlp.tool.anaphoraresolution.Applet1
+edu.nus.comp.nlp.tool.anaphoraresolution.Applet1_jButton2_actionAdapter
+edu.nus.comp.nlp.tool.anaphoraresolution.Applet1_jButton_SplitSentence_actionAdapter
+edu.nus.comp.nlp.tool.anaphoraresolution.Applet1_jButton_Clear_actionAdapter

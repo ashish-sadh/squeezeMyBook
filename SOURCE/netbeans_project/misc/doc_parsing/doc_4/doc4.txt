@@ -1,0 +1,54 @@
+ARTIFICAL NEURAL NETWORK
+The basics behind artificial neural networks are to model a highly abstracted version of a complex neural biological network by mapping out a structure of interconnected group of neurons found in the brain. All signals that run through these neurons are processed in parallel, thus involving multiple calculations at one particular time.
+In an ANN each connection in the network is assigned a weight which determines the activity of the neural network.
+. FIGURE_TAG doc4_img1 CLOSE_FIGURE_TAG.
+Diagram 1
+ :
+A simple neural network
+Diagram 1 shows a very basic structure of an ANN. Each node (coloured circles) is connected to each other nodes through an artificial link, a synapse, that carries a certain value called a 
+weight
+. This structure works from left to right, corresponding to the input, the hidden and the output layers of the network. These are usual feed-forward artificial networks where the data is passed through each layer until it reaches the output nodes of the network.
+Weights that lay on the links between these nodes allow the data to be transferred to other connecting nodes. When these data enter a particular node as inputs, they are multiplied by their respective weights. This is done to all inputs going into one node. In a particular node, these weights are then added together to produce an 
+activation value
+. This value is then compared to an 
+activation threshold
+ specified for that network or node alone. If the threshold is met then the neuron fires an output to other connected nodes within the network. In a 
+step function
+, when the threshold is met the neuron/node will fire the output of 1, and if not then 0 will be the output value.  The higher the value of a weight on a link, the stronger the effect is on the input and the higher the effect is towards the threshold level.
+. FIGURE_TAG doc4_img2 CLOSE_FIGURE_TAG.
+Diagram 2 : 
+input summation through activation function
+Diagram 2 is an overview of how the inputs are summated through to this 
+activation function
+If we require non-distinct outputs we can simply map the outputs to a logistic sigmoid function. Diagram 3 shows a graded output in relation to the activation values.
+. FIGURE_TAG doc4_img3 CLOSE_FIGURE_TAG.
+Diagram 3 :
+graded outpu
+ in ralation to the acitvation value
+These weights can be modified to create desired outputs from our inputs in the artificial network. Adjusting these values by hand is feasible but when networks become overly complex it is better to solve this problem to using algorithms that will adjust the weights accordingly. Adjusting these weights relates to the term 
+learning
+ or 
+training
+ whereby the networks are allowed to formulate a solution to minimise the error amount between real outputs and expected outputs of a network, which is also an iterative process.
+Machine Learning Algorithms
+In a particular network, there are various techniques available:
+Supervised 
+ This type of learning paradigm, in particular, manipulates the ANN weights allowing network outputs to match that of an example output, or a 
+training set
+. The error value between the two data affects the weight mapping in the network on the next step.  (
+Kotsiantis, S. 2007)
+Unsupervised 
+ This type of approach allows a network to run without any set of example outputs. 
+Reinforcement 
+ The basic principle here is to allow a network to generate its own input data. This data is generated when the neural network is made to interact with its environment. (
+Kaelbling et al. 1996)
+BackPropagation
+Backpropagation algorithm is a form of supervised learning used on feed-forward networks. A set 
+example values 
+are compared to the real output values of a network. This difference is called the 
+error value
+. This error value is first used in adjusting the weights on the links connecting to the output neurons. The weights on links going into the output are usually on synapse from the hidden layers of the neural network. 
+For each hidden layer, an error value is calculated for each neuron by comparing initial output error value and the updated weight values going out of the current neuron. This error value is then used to manipulate the weights going into the hidden layer neurons assuming that this network contains a single hidden layer.  The adjustments of weights works backwards to the input layer hence back propagation. When adjusting the weights, a 
+learning rate
+ value is incorporated into the algorithm. This value simply effects how much the weight is adjusted, the higher the rate the bigger adjustments.
+This cycle iterates until the error amount is within acceptable limits. One of the main limitations to this approach is that it has the tendency to get trapped in its local optima.

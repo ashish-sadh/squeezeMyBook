@@ -1,0 +1,8 @@
+(S1 (S (S (NP (JJ Former) (NNP Vice) (NNP President) (NNP Bhairon) (NNP Singh) (NNP Shekhawat)) (VP (VP (VBD passed) (PRT (RP away)) (PP (IN on) (NP (NNP Saturday))) (, ,) (SBAR (NP (CD two) (NNS days)) (IN after) (S (NP (PRP he)) (VP (AUX was) (VP (VBN admitted) (PP (TO to) (NP (NP (DT a) (NN hospital)) (PP (IN in) (NP (NNP Jaipur))) (VP (VBG complaining) (PP (IN of) (NP (NN uneasiness))))))))))) (CC and) (VP (VBG breathing) (NP (NP (JJ problems.) (JJ 87-year-old) (NN Shekhawat)) (VP (VBD breathed) (NP (PRP$ his) (JJ last)) (PP (IN at) (NP (RB 11.) (CD 10) (RB AM))) (PP (IN at) (NP (DT the) (NNP Swai) (NNP Man) (NNP Singh) (NNP Hospital)))))))) (, ,) (NP (NP (NNP Dr) (NNP Narpat) (NNP Singh)) (, ,) (NP (NP (NN Superintendent)) (PP (IN of) (NP (DT the) (NN hospital)))) (, ,)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (S (NP (NP (NNP Shekhawat) (POS 's)) (NN condition)) (VP (VBD deteriorated) (NP (DT this) (NN morning)))) (CC and) (S (NP (PRP he)) (VP (AUX was) (VP (VBN put) (PP (IN on) (NP (NN ventilator))))))) (, ,) (NP (NP (NP (DT another) (NN doctor)) (PP (IN at) (NP (DT the) (NN hospital)))) (, ,) (NP (NNP Ashok) (NNP Pangaria)) (, ,)) (VP (VBD told) (NP (NNP PTI))) (. .)))
+
+(S1 (S (NP (DT The) (JJ former) (NNP Vice) (NNP President)) (VP (AUX was) (VP (VBN admitted) (PP (TO to) (NP (NP (DT the) (NN ICU)) (PP (IN of) (NP (NP (DT the) (NNP SMS) (NN hospital)) (PP (IN on) (NP (NP (DT the) (NN night)) (PP (IN of) (NP (NNP May) (CD 13))))))))))) (. .)))
+
+(S1 (S (NP (NNS Doctors)) (VP (AUX had) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (AUX was) (VP (VBG suffering) (PP (IN from) (NP (NN lung) (CC and) (NN chest) (NN infection))))))))) (. .)))
+

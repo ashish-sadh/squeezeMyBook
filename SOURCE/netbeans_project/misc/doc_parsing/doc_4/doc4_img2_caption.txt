@@ -1,0 +1,1 @@
+<s> Diagram 2 : input summation through activation functionDiagram 2 is an overview of how the inputs are summated through to this activation functionIf we require non-distinct outputs we can simply map the outputs to a logistic sigmoid function.  </s>

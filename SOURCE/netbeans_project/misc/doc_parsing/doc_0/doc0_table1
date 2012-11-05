@@ -1,0 +1,26 @@
+<table class="Table1">
+<colgroup>
+<col span="2" class="Table1_A">
+<col class="Table1_C">
+</colgroup>
+<tbody>
+<tr>
+<td class="Table1_A1">
+<p class="P3">UVB</p>
+</td><td class="Table1_A1">
+<p class="P3">UVA</p>
+</td><td class="Table1_C1">
+<p class="P3">Global</p>
+</td>
+</tr>
+<tr>
+<td class="Table1_A1">
+<p class="P3">-0.70 dB</p>
+</td><td class="Table1_A1">
+<p class="P3">-0.21 dB</p>
+</td><td class="Table1_C1">
+<p class="P3">-0.09 dB</p>
+</td>
+</tr>
+</tbody>
+</table>

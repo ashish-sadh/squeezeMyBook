@@ -1,0 +1,68 @@
+(S1 (S (NP (DT The) (JJ human) (NN heart)) (VP (AUX is) (NP (NP (DT a) (JJ pear-shaped) (NN structure)) (PP (IN about) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT a) (NN fist))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (AUX is) (NP (DT an) (JJ amazing) (NN organ))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (AUX is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VBG supplying) (NP (NP (DT the) (NN body)) (PP (IN with) (NP (JJ oxygenated) (NN blood))))))))) (. .)))
+
+(S1 (S (NP (DT Each) (NN time)) (NP (DT the) (NN heart)) (VP (VBZ beats) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ exerts) (NP (NP (DT a) (NN pressure)) (PP (IN on) (NP (NP (DT the) (NNS veins) (CC and) (NNS arteries)) (VP (VBN called) (S (NP (NN blood) (NN pressure))))))))))) (. .)))
+
+(S1 (S (NP (NN Blood) (NN pressure)) (VP (VP (AUX is) (ADJP (RB extremely) (JJ important))) (CC and) (VP (MD must) (VP (AUX be) (VP (VBN controlled) (SBAR (IN if) (S (NP (PRP it)) (VP (AUX is) (ADJP (RB too) (JJ high) (CC or) (JJ low))))))))) (. .)))
+
+(S1 (S (NP (NN Blood) (NN pressure)) (VP (MD can) (VP (AUX be) (VP (VBN controlled) (PP (IN by) (NP (NP (NP (NN medication)) (VP (VBN prescribed) (PP (IN by) (NP (PRP$ your) (NN doctor))))) (, ,) (NP (JJ proper) (NN exercise)) (CC and) (NP (NP (DT a) (NN diet)) (VP (VBN filled) (PP (IN with) (NP (NNS plants) (CC and) (NNS vegetables)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (VP (AUX is) (VP (VBN made) (PP (IN of) (NP (NP (DT a) (JJ special) (NN kind)) (PP (IN of) (NP (NN muscle))) (VP (VBN called) (S (NP (NN myocardium)))))))) (, ,) (CC and) (VP (AUX is) (VP (VBN enclosed) (PP (IN in) (NP (NP (DT a) (JJ double-layered) (, ,) (JJ membranous) (NN sac)) (VP (VBN called) (S (NP (DT a) (NN pericardium))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (VBZ lies) (PP (IN in) (NP (NP (DT the) (NN chest) (NN cavity)) (PP (IN between) (NP (DT the) (NNS lungs)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (AUX is) (VP (VBN composed) (PP (IN of) (NP (NP (CD four) (NNS chambers)) (, ,) (NP (JJ many) (JJ large) (NNS arteries)) (CC and) (NP (JJ many) (NNS veins)))))) (. .)))
+
+(S1 (S (NP (DT The) (CD four) (NNS chambers)) (VP (AUX are) (VP (VBN called) (S (NP (NP (NN atrium)) (CC and) (NP (NNS ventricles)))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN wall)) (PP (IN of) (NP (NN muscle)))) (VP (VBZ divides) (NP (NP (DT the) (NN heart)) (PP (IN into) (NP (NP (CD two) (NNS cavities)) (: :) (NP (DT the) (JJ left) (JJ cavity) (NNS pumps) (NN blood))))) (PP (IN throughout) (NP (DT the) (NN body))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ right) (NN cavity) (NNS pumps)) (VP (NN blood) (PP (ADVP (RB only)) (IN through) (NP (DT the) (NNS lungs))))))) (. .)))
+
+(S1 (S (S (S (NP (NP (CD Two) (NNS chambers)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (VBP lie) (PP (IN in) (NP (DT the) (JJ left) (NN cavity))))) (CC and) (S (NP (CD two) (NNS chambers)) (VP (VBP lie) (PP (IN in) (NP (DT the) (JJ right) (JJ cavity.) (JJ human) (NN heart))) (SBAR (S (NP (NP (DT The) (CD two) (JJ upper) (NNS chambers)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (AUX are) (VP (VBN called) (NP (NN atrium))))))))) (, ,) (NP (DT the) (JJ bottom) (NNS chambers)) (VP (AUX are) (VP (VBN called) (S (NP (NNS ventricles))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ right) (NN side)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (VBZ receives) (NP (JJ deoxygenated) (NN blood)) (PP (IN from) (NP (NP (DT all) (NNS parts)) (PP (IN of) (NP (NP (DT the) (NN body)) (PP (IN except) (PP (IN for) (NP (DT the) (NNS lungs))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ left) (NN side)) (PP (IN of) (NP (DT the) (NN heart)))) (VP (VP (VBZ receives) (NP (JJ oxygenated) (NN blood)) (PP (IN from) (NP (DT the) (NNS lungs)))) (CC and) (VP (NNS pumps) (NP (PRP it)) (PP (TO to) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN body))))))) (. .)))
+
+(S1 (S (NP (DT An) (NN adult) (NN heart)) (VP (VBZ beats) (NP (NP (QP (RB approximately) (CD 100,000)) (NNS times)) (NP (DT a) (NN day))) (, ,) (S (VP (VBG pumping) (NP (NP (QP (IN about) (CD 2,000)) (NNS gallons)) (PP (IN of) (NP (NN blood))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (AUX has) (VP (AUX been) (VP (VBN estimated) (SBAR (IN that) (S (NP (DT the) (NN heart)) (VP (MD will) (VP (VB beat) (NP (QP (IN about) (CD 3) (CD billion)) (NNS times)) (PP (IN during) (NP (DT a) (CD 70) (NN year) (NN lifetime)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Your) (NN heart)) (VP (NNS pumps) (NP (NP (QP (RB nearly) (CD five)) (NNS quarts)) (PP (IN of) (NP (NN blood)))) (PP (IN through) (NP (PRP$ your) (NN body))) (NP (DT every) (CD 60) (NNS seconds))) (. .)))
+
+(S1 (S (PP (VBN Given) (NP (NP (NP (DT the) (NN heart) (POS 's)) (JJ arduous) (NN task)) (PP (IN of) (S (VP (VBG supplying) (NP (NP (DT the) (NN body)) (PP (IN with) (NP (NN blood))))))) (NP (DT every) (NN day)))) (, ,) (NP (PRP it)) (VP (MD must) (VP (AUX be) (VP (ADVP (RB well)) (VBN taken) (NP (NN care) (NNS of.)) (NP (NP (DT A) (NN heart)) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (VP (ADVP (RB improperly)) (VBN cared) (SBAR (IN for) (S (VP (MD may) (VP (VB develop) (NP (NN heart) (NN disease)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Heart) (NN disease)) (VP (AUX is) (NP (NP (DT the) (VBG leading) (NN cause)) (PP (IN of) (NP (NN death)))) (PP (IN among) (NP (NNPS Americans)))) (. .)))
+
+(S1 (S (NP (DT Each) (NN year) (EX there)) (VP (AUX are) (NP (NP (QP (JJR more) (IN than) (CD 1.)) (QP (CD 1) (CD million)) (NN heart) (NNS attacks)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))) (. .)))
+
+(S1 (S (ADVP (RB Unfortunately)) (, ,) (PP (IN of) (NP (DT these) (NN heart) (NNS attacks))) (, ,) (NP (CD 250,000)) (VP (AUX are) (ADJP (JJ sudden)) (, ,) (S (VP (VBG causing) (NP (DT the) (NN patient) (S (VP (TO to) (VP (VB die) (PP (IN within) (NP (DT an) (NN hour)))))))))) (. .)))
+
+(S1 (S (NP (NN Heart) (NN disease)) (VP (AUX is) (ADVP (RB often)) (VP (VBN treated) (PP (IN by) (S (VP (VBG eating) (NP (NP (NNS foods)) (PP (IN with) (NP (NP (JJ low) (NN cholesterol)) (, ,) (NP (NN weight) (NN loss)) (, ,) (NP (NN exercise)) (CC and) (NP (JJ medical) (NN treatment)))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB know) (SBAR (IN if) (S (NP (NN weight) (NN loss)) (VP (MD will) (VP (VB decrease) (NP (NP (PRP$ your) (NN chance)) (PP (IN of) (NP (NN heart) (NN disease))))))))))))))) (, ,) (VP (VB determine) (NP (PRP$ your) (NN body) (NN mass) (NN index))) (. .)))
+
+(S1 (S (NP (NP (NN Intake)) (PP (IN of) (NP (NP (JJ healthy) (NNS foods)) (PP (IN like) (NP (NP (NNS oranges)) (, ,) (NP (NNS avocados)) (, ,) (CC and) (NP (NNS broccoli))))))) (VP (MD will) (ADVP (RB also)) (VP (VB decrease) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG developing) (NP (NN heart) (NN disease)))))))) (. .)))
+
+(S1 (S (NP (NP (NN Heart) (NN Attack)) (CC and) (NP (NNS strokes))) (VP (AUX are) (NP (NP (NP (DT the) (JJ outward) (NNS signs)) (PP (IN of) (NP (NN heart) (NN disease)))) (, ,) (ADVP (RB namely)) (NP (NP (DT the) (NN accumulation)) (PP (IN of) (NP (NP (JJ arterial) (NN plaque)) (SBAR (WHNP (WDT which)) (S (VP (VP (ADVP (RB slowly)) (VBZ constricts)) (CC or) (VP (VBZ closes) (NP (JJ arterial) (NNS passageways))) (, ,) (S (VP (VBG causing) (NP (NP (NN life)) (VP (VBG threatening) (NP (NNS conditions)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Heart) (NN disease)) (VP (VP (AUX does) (RB not) (VP (VB happen) (ADVP (RB overnight)))) (, ,) (CC but) (VP (AUX is) (NP (DT a) (JJ life-long) (NN progression)))) (. .)))
+
+(S1 (S (NP (DT The) (NN heart)) (VP (VBZ responds) (PP (TO to) (NP (JJ many) (NN heart) (CC and) (NN circulatory) (NNS conditions))) (PP (IN by) (S (VP (VBG enlarging) (PRT (RP up)) (PP (TO to) (NP (QP (CD 4) (NNS times)) (PRP$ its) (JJ normal) (NN size))))))) (. .)))
+
+(S1 (S (NP (DT An) (JJ enlarged) (NN heart)) (VP (AUX is) (UCP (ADJP (JJ common) (PP (IN in) (NP (JJ atrial) (NN fibrillation)))) (CC and) (VP (ADVP (RB long)) (VBG standing) (NP (JJ high) (NN blood) (NN pressure))) (NP (NNS patients)))) (. .)))
+
+(S1 (NP (NP (NN Athlete) (POS 's)) (NN heart) ('' '')))
+
+(S1 (S (NP (NP (NN Athlete) (POS 's)) (NN heart) ('' '')) (VP (AUX is) (NP (NP (DT a) (JJ common) (NN term)) (PP (IN for) (NP (NP (DT an) (JJ enlarged) (NN heart)) (VP (VBN associated) (PP (IN with) (NP (VBN repeated) (JJ strenuous) (NN exercise)))))))) (. .)))
+
+(S1 (S (PP (JJ Due) (TO to) (NP (NP (DT the) (VBN increased) (NN workload)) (VP (VBN required) (PP (IN of) (NP (PRP it)))))) (, ,) (NP (DT the) (NN heart)) (VP (MD will) (VP (VB increase) (PP (ADVP (RB physiologically)) (IN by) (S (VP (VBG enlarging) (NP (PRP$ its) (NNS chambers) (CC and) (NN muscle) (NN mass))))) (, ,) (S (ADVP (RB thus)) (VP (VBG increasing) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (NP (NN blood)) (VP (VBN pumped) (PP (IN per) (NP (NN stroke))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (NN heart)) (VP (AUX has) (S (VP (TO to) (VP (VP (VB contract) (ADVP (RBR less) (RB frequently))) (CC and) (VP (PP (IN at) (NP (NN rest))) (MD will) (VP (VB beat) (NP (NP (QP (RB as) (JJ few) (IN as) (CD 40)) (NNS times)) (PP (IN per) (NP (NN minute)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN number)) (PP (IN of) (NP (NP (NNS beats)) (PP (IN per) (NP (NP (NN minute)) (PP (IN in) (NP (NP (DT a) (NN non) ('' '') (NN athlete) (POS 's)) (NN heart) ('' '')))))))) (VP (AUX is) (NP (CD 70) (NNS beats))) (. .)))
+
+(S1 (S (S ('' '') (NP (NNS Athletes) (NN heart)) ('' '') (VP (AUX is) (RB not) (ADJP (JJ pathological)))) (, ,) (CC and) (S (NP (EX there)) (VP (AUX is) (ADVP (RB usually)) (NP (NP (DT no) (NN danger)) (PP (IN of) (NP (NP (JJ cardiac) (NN disability)) (VP (VBG arising) (PP (IN from) (NP (PRP it))))))))) (. .)))
+

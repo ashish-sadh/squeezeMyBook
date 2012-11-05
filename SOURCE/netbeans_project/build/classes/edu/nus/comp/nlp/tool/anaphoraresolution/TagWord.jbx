@@ -1,0 +1,40 @@
+[PropertyInfo]
+adjunctHost,DefaultMutableTreeNode,false,false, , ,true,<default>
+antecedent,TagWord,false,false, , ,true,<default>
+argumentHead,DefaultMutableTreeNode,false,false, , ,true,<default>
+argumentHost,DefaultMutableTreeNode,false,false, , ,true,<default>
+containHost,DefaultMutableTreeNode,false,false, , ,true,<default>
+containHost,Vector,false,false, , ,true,<default>
+containHost,java.util.Vector,false,false, , ,true,<default>
+content,String,false,false, , ,true,<default>
+depth,int,false,false, , ,true,<default>
+determinee,DefaultMutableTreeNode,false,false, , ,true,<default>
+determiner,DefaultMutableTreeNode,false,false, , ,true,<default>
+gender,int,false,false, , ,true,<default>
+hasNPAncestor,boolean,false,false, , ,true,<default>
+head,DefaultMutableTreeNode,false,false, , ,true,<default>
+headNP,boolean,false,false, , ,true,<default>
+human,int,false,false, , ,false,<default>
+humanIdx,int,false,false, , ,true,<default>
+isHeadNP,boolean,false,false, , ,false,<default>
+NP,NP,false,false, , ,true,<default>
+NPDomainHost,DefaultMutableTreeNode,false,false, , ,true,<default>
+NPRepresentation,NP,false,false, , ,true,<default>
+npRepresentation,NP,false,false, , ,false,<default>
+number,int,false,false, , ,true,<default>
+offset,int,false,false, , ,true,<default>
+pleonastic,boolean,false,false, , ,true,<default>
+pronounIdx,int,false,false, , ,true,<default>
+PRP,boolean,false,false, , ,true,<default>
+sentenceIdx,int,false,false, , ,true,<default>
+sIdx,int,false,false, , ,false,<default>
+substitutedContent,String,false,false, , ,true,<default>
+tag,String,false,false, , ,true,<default>
+text,String,false,false, , ,true,<default>
+tmpSalience,int,false,false, , ,true,<default>
+word,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

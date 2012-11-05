@@ -1,0 +1,144 @@
+<table class="Table5">
+<colgroup>
+<col class="Table5_A">
+<col class="Table5_B">
+<col class="Table5_C">
+<col class="Table5_D">
+<col class="Table5_E">
+<col class="Table5_F">
+<col class="Table5_G">
+<col class="Table5_H">
+<col class="Table5_I">
+<col class="Table5_F">
+<col class="Table5_K">
+</colgroup>
+<tbody>
+<tr>
+<td class="Table5_A1">
+<p class="P3">   λ(μm)</p>
+</td><td class="Table5_A1">
+<p class="P3">0.20</p>
+</td><td class="Table5_A1">
+<p class="P3">0.250</p>
+</td><td class="Table5_A1">
+<p class="P3">0.300</p>
+</td><td class="Table5_A1">
+<p class="P3">0.370</p>
+</td><td class="Table5_A1">
+<p class="P3">0.400</p>
+</td><td class="Table5_A1">
+<p class="P3">0.500</p>
+</td><td class="Table5_A1">
+<p class="P3">0.600</p>
+</td><td class="Table5_A1">
+<p class="P3">0.700</p>
+</td><td class="Table5_A1">
+<p class="P3">0.800</p>
+</td><td class="Table5_K1">
+<p class="P3">0.900</p>
+</td>
+</tr>
+<tr>
+<td class="Table5_A1">
+<p class="P3">  R [2]  </p>
+</td><td class="Table5_A1">
+<p class="P3">0.05</p>
+</td><td class="Table5_A1">
+<p class="P3">0.10</p>
+</td><td class="Table5_A1">
+<p class="P3">0.15</p>
+</td><td class="Table5_A1">
+<p class="P3">0.30</p>
+</td><td class="Table5_A1">
+<p class="P3">0.35</p>
+</td><td class="Table5_A1">
+<p class="P3">0.40</p>
+</td><td class="Table5_A1">
+<p class="P3">0.45</p>
+</td><td class="Table5_A1">
+<p class="P3">0.65</p>
+</td><td class="Table5_A1">
+<p class="P3">0.60</p>
+</td><td class="Table5_K1">
+<p class="P3">0.50</p>
+</td>
+</tr>
+<tr>
+<td class="Table5_A1">
+<p class="P3"> n  (2)    </p>
+</td><td class="Table5_A1">
+<p class="P3">1.58</p>
+</td><td class="Table5_A1">
+<p class="P3">1.92</p>
+</td><td class="Table5_A1">
+<p class="P3">2.26</p>
+</td><td class="Table5_A1">
+<p class="P3">3.42</p>
+</td><td class="Table5_A1">
+<p class="P3">3.90</p>
+</td><td class="Table5_A1">
+<p class="P3">4.44</p>
+</td><td class="Table5_A1">
+<p class="P3">5.07</p>
+</td><td class="Table5_A1">
+<p class="P3">9.32</p>
+</td><td class="Table5_A1">
+<p class="P3">7.87</p>
+</td><td class="Table5_K1">
+<p class="P3">5.83</p>
+</td>
+</tr>
+<tr>
+<td class="Table5_A1">
+<p class="Standard">
+<span class="T1">P</span><span class="T1">r</span><span class="T1">(dB)</span>
+</p>
+</td><td class="Table5_A1">
+<p class="P3">0.22</p>
+</td><td class="Table5_A1">
+<p class="P3">0.46</p>
+</td><td class="Table5_A1">
+<p class="P3">0.71</p>
+</td><td class="Table5_A1">
+<p class="P3">1.55</p>
+</td><td class="Table5_A1">
+<p class="P3">1.87</p>
+</td><td class="Table5_A1">
+<p class="P3">2.22</p>
+</td><td class="Table5_A1">
+<p class="P3">2.60</p>
+</td><td class="Table5_A1">
+<p class="P3">4.56</p>
+</td><td class="Table5_A1">
+<p class="P3">3.98</p>
+</td><td class="Table5_K1">
+<p class="P3">3.01</p>
+</td>
+</tr>
+<tr>
+<td class="Table5_A1">
+<p class="P3">σ(S/m)</p>
+</td><td class="Table5_A1">
+<p class="P3">1700</p>
+</td><td class="Table5_A1">
+<p class="P3">1500</p>
+</td><td class="Table5_A1">
+<p class="P3">1500</p>
+</td><td class="Table5_A1">
+<p class="P3">1300</p>
+</td><td class="Table5_A1">
+<p class="P3">1300</p>
+</td><td class="Table5_A1">
+<p class="P3">900</p>
+</td><td class="Table5_A1">
+<p class="P3">540</p>
+</td><td class="Table5_A1">
+<p class="P3">17</p>
+</td><td class="Table5_A1">
+<p class="P3">10</p>
+</td><td class="Table5_K1">
+<p class="P3">8</p>
+</td>
+</tr>
+</tbody>
+</table>

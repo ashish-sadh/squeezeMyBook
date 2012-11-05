@@ -1,0 +1,1 @@
+<s> Diagram 1 :A simple neural networkDiagram 1 shows a very basic structure of an ANN.  </s>

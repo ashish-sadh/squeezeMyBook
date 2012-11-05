@@ -1,0 +1,60 @@
+(S1 (S (NP (NNP Zahiruddin) (NNP Muhammad) (NNP Babur)) (VP (VBD founded) (NP (DT the) (NNP Mughal) (NNP Empire)) (PP (IN in) (NP (NNP India))) (PP (IN after) (S (VP (VBG defeating) (NP (NP (NNP Ibrahim) (NNP Lodhi)) (PP (IN in) (NP (NP (DT the) (NNP Battle)) (PP (IN of) (NP (NNP Panipat)))))) (PP (IN in) (NP (CD 1526))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 14))))) (, ,) (NP (NNP Babur)) (VP (VBD ascended) (NP (NP (DT the) (NN throne)) (PP (IN of) (NP (NP (DT the) (NNP Central) (NNP Asian) (NN kingdom)) (PP (IN of) (NP (NNP Farghana))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (JJS greatest) (NN ambition)) (VP (AUX was) (S (VP (TO to) (VP (VB rule) (NP (NNP Samarkand)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD fought) (NP (JJ many) (NNS battles)) (PP (IN in) (NP (NP (DT the) (NN pursuit)) (PP (IN of) (NP (DT this) (NN goal))))) (, ,) (S (VP (VBG winning) (CC and) (VBG losing) (NP (PRP$ his) (NN kingdom)) (PP (NP (JJ many) (NNS times)) (IN in) (NP (DT the) (NN process)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1504))) (, ,) (NP (PRP he)) (VP (VP (VBD ventured) (PP (IN into) (SBAR (WHNP (WP what)) (S (VP (AUX is) (ADVP (RB now)) (NP (NNP Afghanistan))))))) (CC and) (VP (VBD conquered) (NP (NNP Kabul)))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NN position)) (PP (IN in) (NP (NNP Central) (NNP Asia)))) (VP (AUX was) (ADJP (JJ precarious) (ADVP (IN at) (JJS best)))) (. .)))
+
+(S1 (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB consolidate) (NP (PRP$ his) (NN rule)))))) (, ,) (NP (PRP he)) (VP (VBD invaded) (NP (NNP India) (CD five) (NNS times)) (, ,) (S (VP (VBG crossing) (NP (DT the) (NNP River) (NNP Indus)) (NP (DT each) (NN time))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ fifth) (NN expedition)) (VP (VBD resulted) (PP (IN in) (NP (NP (PRP$ his) (NN encounter)) (PP (IN with) (NP (NNP Ibrahim) (NNP Lodhi))))) (PP (IN in) (NP (NP (DT the) (JJ first) (NN battle)) (PP (IN of) (NP (NNP Panipat))))) (PP (IN in) (NP (NNP April) (CD 1526)))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Babur) (POS 's)) (NN army)) (VP (AUX was) (ADJP (RBR better) (VBN equipped) (PP (IN than) (NP (NNP Lodhi) (POS 's)))))) (: ;) (S (NP (PRP he)) (VP (AUX had) (NP (NNS guns)) (SBAR (IN while) (S (NP (DT the) (NN sultan)) (VP (VBD relied) (PP (IN on) (NP (NNS elephants)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (RBS most) (JJ successful))) (PP (IN of) (NP (NP (NNP Babur) (POS 's)) (NNS innovations)))) (VP (AUX was) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (NP (NN gunpowder)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (AUX had) (ADVP (RB never)) (VP (AUX been) (VP (VBN used) (ADVP (RB before)) (PP (IN in) (NP (DT the) (NNP Sub-continent)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT This)) (VP (VBN combined) (PP (IN with) (NP (NP (NNP Babur) (POS 's)) (JJR newer) (NNS tactics))))) (VP (VBD gave) (NP (PRP him)) (NP (DT a) (JJR greater) (NN advantage))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Babur) (POS 's)) (NN strategy)) (VP (VBD won) (NP (DT the) (NN war)))) (CC and) (S (NP (NNP Ibrahim) (NNP Lodhi)) (VP (VBD died) (S (VP (VBG fighting))))) (. .)))
+
+(S1 (S (NP (NNP Panipat)) (VP (AUX was) (ADVP (RB merely)) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT the) (JJ Mughal) (NN rule))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VBD laid) (NP (PRP$ its) (JJ real) (NN foundation)) (PP (IN in) (NP (CD 1556)))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NP (DT the) (NN battle)) (PP (IN of) (NP (NNP Panipat))))))) (, ,) (NP (NP (DT the) (JJ political) (NN power)) (PP (IN in) (NP (NNP India)))) (VP (AUX was) (VP (VBN shared) (PP (IN by) (NP (NP (DT the) (NNPS Afghans)) (CC and) (NP (DT the) (NNPS Rajputs)))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NNP Panipat))) (, ,) (NP (DT the) (NNP Hindu) (NNS princes)) (VP (VBN united) (PP (IN under) (NP (NP (NNP Rana) (NNP Sanga)) (, ,) (NP (NP (DT the) (NNP Raja)) (PP (IN of) (NP (NNP Mewar)))))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (DT a) (JJ sizable) (NN force)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Babur) (POS 's)) (NN army)) (VP (VBD showed) (NP (NP (NNS signs)) (PP (IN of) (NP (NN panic)))) (PP (IN at) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (JJ huge) (JJ opposing) (NN army)))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB prevent) (NP (PRP$ his) (NNS forces) (NN retreat))))) (, ,) (NP (NNP Babur)) (VP (VP (VBD tried) (S (VP (TO to) (VP (VB instill) (NP (NP (NN confidence)) (PP (IN in) (NP (PRP$ his) (NNS soldiers)))) (PP (IN by) (S (VP (VBG breaking) (NP (PDT all) (PRP$ his) (NN drinking) (NNS cups) (CC and) (NNS vessels))))))))) (, ,) (CC and) (VP (VBD vowed) (S (ADVP (RB never)) (VP (TO to) (VP (VB drink) (ADVP (RB again)) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD won))))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ His) (NNS soldiers)) (VP (VBD took) (NP (NN heart)))) (, ,) (CC and) (S (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS armies)) (VP (VBD met) (PP (IN in) (NP (DT the) (NN battle))) (PP (IN at) (NP (NNP Kanwaha))) (, ,) (PP (IN near) (NP (NNP Agra))) (PP (IN on) (NP (NNP March) (CD 16) (, ,) (CD 1527)))))) (, ,) (NP (NNP Babur)) (VP (AUX was) (ADJP (JJ able) (S (VP (TO to) (VP (VB win) (ADVP (RB decisively)))))))) (. .)))
+
+(S1 (S (NP (NNP Kanwaha)) (VP (VBD confirmed) (CC and) (VBD completed) (NP (NP (NP (NNP Babur) (POS 's)) (NN victory)) (PP (IN at) (NP (NNP Panipat))))) (. .)))
+
+(S1 (S (NP (NNP Babur)) (ADVP (RB thus)) (VP (VBD became) (NP (NP (DT the) (NN king)) (PP (IN of) (NP (NNP Central) (NNP India))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1528))) (, ,) (S (NP (PRP he)) (VP (VBD captured) (NP (NNP Chanderi)) (PP (IN from) (NP (DT the) (NNP Rajput) (NN chief) (NNP Medini) (NNP Rao))))) (, ,) (CC and) (S (ADVP (NP (DT a) (NN year)) (RB later)) (NP (PRP he)) (VP (VBD defeated) (NP (NP (DT the) (JJ Afghan) (NNS chiefs)) (PP (IN under) (NP (NNP Mahmud) (NNP Lodhi)))) (PP (IN in) (NP (NP (DT the) (NN battle)) (PP (IN of) (NP (NNP Ghagra))))) (PP (IN at) (NP (NNP Bihar))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS conquests)) (VP (VBD made) (NP (NNP Babur) (DT the))) ('' '')))
+
+(S1 (NP (NP (NN Master)) (PP (IN of) (NP (NNP Hindustan) ('' ''))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (RB not) (VP (VBN destined) (S (VP (TO to) (VP (VB enjoy) (NP (NP (DT the) (NNS fruits)) (PP (IN of) (NP (PRP$ his) (NNS conquests)))) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD died) (ADVP (RB shortly) (RB afterwards)) (PP (IN in) (NP (NNP Agra))) (PP (IN on) (NP (NNP December) (CD 26) (, ,) (CD 1530))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (VP (VBN buried) (PP (IN at) (NP (NNP Kabul))) (PP (IN in) (NP (NP (NN accordance)) (PP (IN with) (NP (PRP$ his) (NN wish))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Mughal) (NN age)) (VP (AUX is) (ADJP (JJ famous) (PP (IN for) (NP (PRP$ its) (JJ many-faceted) (JJ cultural) (NNS developments))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Timurids)) (VP (AUX had) (NP (NP (DT a) (JJ great) (JJ cultural) (NN tradition)) (PP (IN behind) (NP (PRP them))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ Their) (JJ ancestral) (NN kingdom)) (PP (IN at) (NP (NNP Samarkand)))) (VP (AUX was) (NP (NP (DT the) (VBG meeting) (NN ground)) (PP (IN of) (NP (NP (DT the) (JJ cultural) (NNS traditions)) (PP (IN of) (NP (NNP Central) (CC and) (NNP West) (NNP Asia))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Mughals)) (VP (VBD brought) (PP (IN with) (NP (PRP them))) (NP (NNP Muslim) (JJ cultural) (NNS traditions)) (PP (IN from) (NP (NP (JJ Turko-Iranian) (NNS areas)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD inspired) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (DT the) (JJ Indo-Muslim) (NN culture)))))))))) (. .)))
+

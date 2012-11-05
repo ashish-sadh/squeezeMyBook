@@ -1,0 +1,2 @@
+findcaption.NewString
+findcaption.Porter

@@ -1,0 +1,28 @@
+**** Multi-Order Evalution Tool
+This tool evaluates an order with multiple gold standard orders.
+
+- (c) 2011 by Hyun Duk Kim. All rights reserved.
+- Written by Hyun Duk Kim (http://gildong2.com)  For any comments or bug reports, feel free to contact authors.
+- Please refer to the following paper for more details.
+   Hyun Duk Kim, ChengXiang Zhai and Jiawei Han, Aggregation of Multiple Judgments for Evaluating Ordered Lists, Proceedings of the 32nd European Conference on Information Retrieval (ECIR'10), Milton Keynes, UK.
+
+- Requirement:
+   You need python to execute this software. If your machine doesn't have it, check http://www.python.org/ .
+   
+- Usage:
+python multiOrderEval.py target_order_file_to_evaluate multiple_standard_order_file [option] 
+example: python multiOrderEval.py example/systemOrder.txt example/humanOrders.txt 0
+	option = 0: FreSPA (default) Frequent Sequential Pattern-based Aggregation
+			Known to be the best among methods proposed in the paper
+			Parameters for FreSPA is preset based on the experiments.
+			You can change 'parameter' section at the top of the code.
+		1: WCA Weighted Correlation Aggregation with Kendall's tau
+		2: WCA Weighted Correlation Aggregation with Spearman's rank correlation
+		3: RBA Rank-based Aggregation with Kendall's tau with Kendall's tau
+		4: RBA Rank-based Aggregation with Kendall's tau with Spearman's rank correlation
+
+- Input file format
+   The 'target_order_file_to_evaluate' should have only one order to evaluate, and 'multiple_standard_order_file' have multiple gold standard orders to compare. If there is multiple orders in 'target_order_file_to_evaluate', only the first line is used to evaluate.
+   Each line of file is one order, which starts with index of order (any indicator), and a list of symbols of items. Each items are separated by space. You can use any types of symbols without space. The sample symbols should be used in both input files.
+   For example, look up files in the example folder.
+

@@ -1,0 +1,2 @@
+stemstop.Porter
+stemstop.NewString

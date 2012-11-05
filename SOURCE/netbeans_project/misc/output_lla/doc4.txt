@@ -1,0 +1,8 @@
+doc4.txt under processing...seperating sentences...Thu Nov 10 01:17:02 IST 2011
+doc4.txt under processing...reading...Thu Nov 10 01:17:02 IST 2011
+doc4.txt under processing...parsing...Thu Nov 10 01:17:03 IST 2011
+doc4.txt under processing...resolving...Thu Nov 10 01:17:03 IST 2011
+***********Head of Results**************
+null
+***********End of Results***************
+

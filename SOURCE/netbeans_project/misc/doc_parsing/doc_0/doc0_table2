@@ -1,0 +1,92 @@
+<table class="Table2">
+<colgroup>
+<col span="4" class="Table2_A">
+<col class="Table2_E">
+<col class="Table2_F">
+</colgroup>
+<tbody>
+<tr>
+<td class="Table2_A1">
+<p class="P3">Period(t)</p>
+</td><td class="Table2_A1">
+<p class="P3">UVB</p>
+</td><td class="Table2_A1">
+<p class="P3">UVA</p>
+</td><td class="Table2_A1">
+<p class="P3">GLOBAL</p>
+</td><td class="Table2_A1">
+<p class="P3">UVA/UVB</p>
+</td><td class="Table2_F1">
+<p class="P3">UVA/GLOBAL</p>
+</td>
+</tr>
+<tr>
+<td class="Table2_A1">
+<p class="P3">June</p>
+<p class="P3">11t12 AM</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">8.34 10</span><span class="T1">-2</span>
+</p>
+</td><td class="Table2_A1">
+<p class="P3">19</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">3.6  10</span><span class="T1">2</span>
+</p>
+</td><td class="Table2_A1">
+<p class="P3">228</p>
+<p class="P3">23.6 dB</p>
+</td><td class="Table2_F1">
+<p class="P3">5.27 %</p>
+<p class="P3">-12.8 dB</p>
+</td>
+</tr>
+<tr>
+<td class="Table2_A1">
+<p class="P3">Annual</p>
+<p class="P3">11t12 AM</p>
+</td><td class="Table2_A1">
+<p class="P3">0.65</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">1.65 10</span><span class="T1">2</span>
+</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">3.3 10</span><span class="T1">3</span>
+</p>
+</td><td class="Table2_A1">
+<p class="P3">254</p>
+<p class="P3">24.0 dB</p>
+<p class="P3">
+<br>
+</p>
+</td><td class="Table2_F1">
+<p class="P3">5.00%</p>
+<p class="P3">-13.0 dB</p>
+</td>
+</tr>
+<tr>
+<td class="Table2_A1">
+<p class="P3">Annual</p>
+</td><td class="Table2_A1">
+<p class="P3">3.7</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">1.15 10</span><span class="T1">3</span>
+</p>
+</td><td class="Table2_A1">
+<p class="Standard">
+<span class="T1">2.4 10 </span><span class="T1">4</span>
+</p>
+</td><td class="Table2_A1">
+<p class="P3">311</p>
+<p class="P3">24.9 dB</p>
+</td><td class="Table2_F1">
+<p class="P3">4.79%</p>
+<p class="P3">-13.2 dB</p>
+</td>
+</tr>
+</tbody>
+</table>

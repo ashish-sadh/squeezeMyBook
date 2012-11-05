@@ -1,0 +1,49 @@
+<table class="Table3">
+<colgroup>
+<col span="4" class="Table3_A">
+<col class="Table3_E">
+</colgroup>
+<tbody>
+<tr>
+<td class="Table3_A1">
+<p class="P6">λ in μm</p>
+</td><td class="Table3_A1">
+<p class="P5">0.297</p>
+</td><td class="Table3_A1">
+<p class="P5">0.315</p>
+</td><td class="Table3_A1">
+<p class="P5">0.320</p>
+</td><td class="Table3_E1">
+<p class="P5">0.330</p>
+</td>
+</tr>
+<tr>
+<td class="Table3_A1">
+<p class="P5">P  (1)</p>
+<p class="P1">
+<span class="T1">(J/cm</span><span class="T2">2</span><span class="T1">.s )</span>
+</p>
+</td><td class="Table3_A1">
+<p class="P2">
+<span class="T1">5.8 10</span><span class="T2">-6</span>
+</p>
+<p class="P4">0 dB</p>
+</td><td class="Table3_A1">
+<p class="P2">
+<span class="T1">1.1 10</span><span class="T2">-7</span>
+</p>
+<p class="P4">-17 dB</p>
+</td><td class="Table3_A1">
+<p class="P2">
+<span class="T1">4.1 10</span><span class="T2">-8</span>
+</p>
+<p class="P4">-21.5 dB</p>
+</td><td class="Table3_E1">
+<p class="P2">
+<span class="T1">5.8 10</span><span class="T2">-9</span>
+</p>
+<p class="P4">-30 dB</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,39 @@
+ artif neural networkth basic artifici neural network model highli abstract version complex neural biolog network map structur interconnect group neuron brain
+ signal neuron process parallel involv multipl calcul time
+ ann connec network assign weight determin activ neural network
+ figuretag docimg closefiguretag
+ diagram simpl neural networkdiagram basic structur ann
+ node colour circl connect node artifici link synaps carri call weight
+ structur work left correspond input hidden output layer network
+ usual feedforward artifici network data pass layer reach output node network
+ weight lai link node allow data transfer connect node
+ data enter node input multipli respect weight
+ input go node
+ node weight produc activ
+ compar activ threshold network node
+ threshold met neuron fire output connect node network
+ step function threshold met neuronnod will fire output will output
+ higher weight link stronger input higher threshold level
+ figuretag docimg closefiguretag
+ diagram input summat activ functiondiagram overview input summat activ functionif requir nondistinct output simpli map output logist sigmoid function
+ diagram grade output relat activ valu
+ figuretag docimg closefiguretag
+ diagram grade outpu ralat acitv valuethes weight modifi creat desir output input artifici network
+ adjust valu hand feasibl network overli complex better solv problem algorithm will adjust weight
+ adjust weight relat term learn train network allow formul solution minim error amount real output expect output network iter process
+ machin learn algorithmsin network techniqu availablesupervis type learn paradigm manipul ann weight allow network output match exampl output train set
+ error data weight map network step kotsianti unsupervis type approach allow network set exampl output
+ reinforc basic principl allow network gener input data
+ data gener neural network interact environ kaelbl al backpropagationbackpropag algorithm form supervis learn feedforward network
+ set exampl valu compar real output valu network
+ differ call error
+ error adjust weight link connect output neuron
+ weight link go output synaps hidden layer neural network
+ hidden layer error calcul neuron compar initi output error updat weight valu go current neuron
+ error manipul weight go hidden layer neuron assum network singl hidden layer
+ adjust weight work backward input layer propag
+ adjust weight learn rate incorpor algorithm
+ simpli effect weight adjust higher rate bigger adjust
+ cycl iter error amount accept limit
+ main limit approach tendenc trap local optima
+

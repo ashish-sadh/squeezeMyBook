@@ -1,0 +1,146 @@
+(S1 (S (NP (NNP Muslim) (, ,) (NNP Indian) (, ,) (CC and) (NNP Western) (NNS historians)) (DT all) (VP (VBP see) (NP (NNP Akbar)) (PP (IN as) (NP (NP (DT the) (JJS greatest) (NN ruler)) (PP (IN of) (NP (JJ Indian) (NN history)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Humayun)) (, ,)) (VP (VBD died) (PP (IN in) (NP (CD 1556)))))) (, ,) (NP (NNP Akbar)) (VP (VBD became) (NP (NP (INTJ (UH padshah)) ('' '') (NN ruler)) (PP (IN of) (NP (NP (DT the) (NN empire)) ('' '') (PP (IN at) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (NNS thirteen))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (DT the) (NN guidance)) (PP (IN of) (NP (NP (NNP Bairam) (NNP Khan)) (, ,) (SBAR (WHNP (WP who)) (S (VP (AUX had) (VP (AUX been) (ADJP (JJ instrumental) (PP (IN in) (NP (NP (NP (NNP Humayun) (POS 's)) (NNS reconquests)) (PP (IN of) (NP (NNP Panipat) (, ,) (NNP Dehli) (, ,) (CC and) (NNP Agra)))))))))))))) (, ,) (NP (NNP Akbar)) (ADVP (RB instantly)) (VP (VBD began) (S (VP (VBG seizing) (NP (JJR more) (NN territory)) (PP (IN throughout) (NP (NNP Hindustan)))))) (. .)))
+
+(S1 (S (S (NP (NNP Bairam) (NNP Khan)) (VP (VBD fell) (PP (IN from) (NP (NN power))) (PP (IN in) (NP (CD 1560))))) (, ,) (CC but) (S (NP (NNP Akbar)) (VP (VBD continued) (NP (NP (PRP$ his) (NN conquest)) (PP (IN of) (NP (NP (NNP India)) (CC and) (NP (NNP Afghanistan))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN time)) (SBAR (S (NP (PRP he)) (VP (VBD died) (PP (IN in) (NP (CD 1605))) (SBAR (S (NP (NP (PRP$ his) (NN reign)) (, ,) (NP (QP (CD 1556) (TO to) (CD 1605))) (, ,)) (VP (VBZ corresponds) (ADVP (RB almost) (RB exactly)) (PP (TO to) (NP (NP (DT that)) (PP (IN of) (NP (NP (NNP Elizabeth) (NNP I)) (PP (IN of) (NP (NNP England))))))))))))))) (, ,) (NP (PRP$ his) (NNP Empire)) (VP (VP (AUX was) (ADJP (JJR greater) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (NP (NNP Babur))))))) (CC and) (VP (VBN included) (NP (NP (RB almost) (DT all)) (PP (IN of) (NP (JJ northern) (NNP India)))))) (. .)))
+
+(S1 (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB govern) (NP (DT this) (NN territory)))))) (, ,) (NP (NNP Akbar)) (VP (VBD developed) (NP (NP (DT a) (NN bureaucracy)) (CC and) (NP (NP (DT a) (NN system)) (PP (IN of) (NP (NP (NN autonomy)) (PP (IN for) (NP (DT the) (JJ imperial) (NNS provinces)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Akbar) (POS 's)) (NN bureaucracy)) (VP (AUX was) (PP (IN among) (NP (NP (DT the) (ADJP (RBS most) (JJ efficient))) (PP (IN in) (NP (DT the) (NN world)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD put) (NP (NP (JJ military) (NNS governors)) (, ,) (CC or) (NP (NNS mansabars)) (, ,)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (DT each) (NN region)))))) (. .)))
+
+(S1 (S (NP (DT Each) (NN governor)) (VP (VP (AUX was) (ADJP (JJ responsible) (PP (IN for) (NP (DT the) (JJ provincial) (NN military))))) (CC and) (PRN (, ,) (PP (IN as) (PP (IN in) (NP (DT the) (NNP Ottoman) (NN state)))) (, ,)) (VP (AUX was) (ADJP (RB directly) (JJ responsible) (PP (IN for) (NP (DT all) (NNS abuses)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Abuses)) (PP (IN of) (NP (NP (NN power) (CC and) (NN mistreatment)) (PP (IN of) (NP (NP (DT the) (JJ poor)) (CC or) (NP (JJ weak))))))) (VP (VBD resulted) (PP (IN in) (NP (NP (JJ severe) (NNS punishments)) (CC and) (NP (NN death)))) (, ,) (ADVP (ADVP (RB just) (RB as)) (PP (IN in) (NP (DT the) (NNP Ottoman) (NNP Empire))))) (. .)))
+
+(S1 (S (NP (DT Each) (JJ military) (NN governor)) (VP (AUX was) (VP (VBN put) (PP (IN in) (NP (NP (NN charge)) (PP (IN by) (NP (DT the) (NN padshah))))) (NP (PRP himself)) (, ,) (SBAR (IN so) (S (NP (PRP he)) (VP (MD could) (VP (AUX be) (VP (VBN dismissed) (PP (IN at) (NP (NN will)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (RBS most) (JJ important)) (NN part)) (PP (IN of) (NP (DT the) (NN bureaucracy)))) (VP (AUX was) (NP (NN tax) (NN collection))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VBD made) (NP (JJ several) (NNS innovations))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN tax)) (, ,) (PP (IN like) (NP (DT all) (JJ other) (NNS states))) (, ,) (VP (AUX was) (NP (NP (DT a) (NN land) (NN tax)) (SBAR (WHNP (WDT that)) (S (VP (VBD amounted) (PP (TO to) (NP (NP (NN one-third)) (PP (IN of) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NP (DT the) (NNS crops)) (VP (VBN produced) (PP (IN on) (NP (PRP it))) (NP (DT each) (NN year)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NN tax)) (VP (AUX was) (VP (VBN assessed) (ADVP (RB equally)) (PP (IN on) (NP (NP (DT every) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ empire—a) (JJ radical) (NN innovation)) (VP (VBG considering) (SBAR (IN that) (S (NP (NP (DT every) (JJ other) (NN state)) (PP (IN in) (NP (DT the) (JJ sixteenth) (NN century)))) (ADVP (RB rarely)) (VP (VBD taxed) (NP (DT the) (NN nobility)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD eliminated) (NP (NP (DT the) (NN tax)) (VP (VBN assessed) (PP (IN on) (NP (NNS non-Muslims)))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (DT the) (NNP Islamic) (NN expansion))))) (, ,) (NP (DT a) (JJ special) (NN tax)) (VP (AUX was) (VP (VBD levied) (PP (IN on) (NP (NNS non-believers))))) (. .)))
+
+(S1 (S (NP (NP (DT This) (JJ special) (NN tax)) (, ,) (VP (VBN called) (S (NP (DT the) (NNP jizya)))) (, ,)) (VP (AUX was) (VP (ADVP (RB bitterly)) (VBD resented) (NP (DT all)) (PP (IN during) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (NNP Muslim) (NN rule))))) (PP (IN in) (NP (NNP India))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NNP Muslim) (NNS rulers)) (PP (IN in) (NP (NNP India)))) (VP (VBD charged) (NP (NP (DT a) ('' '') (NN pilgrimage) ('' '') (NN tax)) (PP (IN on) (NP (NNS unbelievers)))) (PP (VBG travelling) (PP (TO to) (NP (JJ various) (NNP Hindu) (NN pilgrimage) (NNS sites))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (VP (VBD eliminated) (NP (DT this) (NN tax)) (PP (IN in) (NP (CD 1564)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ large) (NN part)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (JJ administrative) (NNS efforts)))) (VP (AUX were) (VP (VBG winning) (PP (IN over) (NP (NNP Hindu) (NNS populations))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Rajput) (NNS kingdoms)) (VP (AUX had) (ADVP (RB never)) (VP (ADVP (RB fully)) (VBN accepted) (NP (NNP Islamic) (NN rule))))) (, ,) (CC but) (S (NP (NP (NP (DT the) (NN revocation)) (PP (IN of) (NP (DT the) (NN jizyat)))) (CC and) (NP (DT the) (NN pilgrimage) (NNS taxes))) (VP (VBD helped) (S (VP (TO to) (VP (VB calm) (NP (PRP$ their) (NN restiveness))))))) (. .)))
+
+(S1 (S (S (NP (NNP Akbar)) (ADVP (RB also)) (VP (VBD included) (NP (NP (JJ vast) (NN number)) (PP (IN of) (NP (NP (NNP Hindus)) (PP (IN in) (NP (DT the) (JJ official) (NN bureaucracy)))))))) (: ;) (S (PP (IN by) (NP (PRP$ his) (NN death))) (, ,) (NP (NP (RB almost) (JJ one-third)) (PP (IN of) (NP (DT the) (JJ imperial) (NN bureaucracy)))) (VP (AUX were) (NP (NNP Hindu)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD cemented) (NP (NP (NNS relations)) (PP (IN with) (NP (DT the) (JJ various) (NNS kingdoms)))) (PP (IN by) (S (VP (VBG marrying) (NP (NP (DT the) (NNS daughters)) (PP (IN of) (NP (DT the) (NNS kings)))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT this) (NN process))))) (NP (PRP he)) (VP (AUX had) (NP (NP (QP (IN over) (CD five) (CD thousand)) (NNS wives)) (, ,) (SBAR (WHNP (NP (RB almost) (DT all)) (WHPP (IN of) (WHNP (WP whom)))) (S (NP (PRP he)) (VP (VBD married) (PP (IN for) (NP (JJ political) (NNS reasons)))))))) (. .)))
+
+(S1 (S (S (NP (NP (PRP$ His) (JJ favorite) (NN wife)) (PRN (, ,) (ADVP (RB however)) (, ,))) (VP (AUX was) (NP (DT a) (NNP Hindu)))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBD gave) (NP (NN birth)) (PP (TO to) (NP (NP (PRP$ his) (NN successor)) (, ,) (NP (NNP Jahangir)))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (ADJP (RBS most) (JJ successful)) (JJ administrative) (NN coup)) (, ,) (ADVP (RB however)) (, ,) (VP (AUX was) (VP (VBG allowing) (S (NP (NNP Hindu) (NNS territories)) (VP (TO to) (VP (VB retain) (NP (NP (DT a) (JJ large) (NN degree)) (PP (IN of) (NP (NN autonomy))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT all) (JJ other) (NNP Muslim) (NNS kingdoms))) (, ,) (NP (NNS non-Muslims)) (VP (VBD came) (PP (IN under) (NP (DT the) (JJ same) (NN law))) (, ,) (NP (NP (NP (DT the) (NNP Shari) (POS ')) (NN a)) (, ,) (PP (IN as) (NP (DT all) (NNPS Muslims))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD allowed) (S (NP (DT the) (NNP Hindus)) (VP (VP (TO to) (VP (VB remain) (PP (IN under) (NP (NP (PRP$ their) (JJ own) (NN law)) (, ,) (VP (VBN called) (S (NP (DT the) (NNP Dharmashastra)))) (, ,))))) (CC and) (VP (TO to) (VP (VB retain) (NP (PRP$ their) (JJ own) (NNS courts))))))) (. .)))
+
+(S1 (S (NP (NP (DT This) (JJ loose) (NN style)) (PP (IN of) (NP (NN government))) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS territories)) (VP (AUX were) (UCP (PP (IN under) (NP (NP (DT the) (NN control)) (PP (IN of) (NP (DT the) (NNP Emperor))))) (CC but) (RB still) (ADJP (RB largely) (JJ independent)))))) (, ,)) (VP (VBD became) (NP (DT the) (NN model) (SBAR (IN that) (S (NP (DT the) (NNPS British)) (VP (MD would) (VP (VB emulate) (SBAR (IN as) (S (NP (PRP they)) (ADVP (RB slowly)) (VP (VBD built) (NP (NP (DT the) (NN colonial) (NN model)) (PP (IN of) (NP (NN government)))) (PP (IN in) (NP (DT the) (JJ eighteenth) (CC and) (JJ nineteenth) (NNS centuries)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Political) (NN Theory)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (NNP State)))) (NP (EX There)) (VP (AUX was) (NP (NP (JJ considerable) (NN disagreement)) (PP (ADVP (DT all) (PP (IN during) (NP (NP (DT the) (NNS reigns)) (PP (IN of) (NP (NNP Babur) (, ,) (NNP Humayun) (, ,) (CC and) (NNP Akbar)))))) (IN over) (NP (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (NN monarchy)))) (CC and) (NP (NP (PRP$ its) (NN place)) (PP (IN in) (NP (NNP Islamic) (NN society)))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many) (JJ Islamic) (NNS scholars)) (PP (IN under) (NP (NNP Babur) (CC and) (NNP Akbar)))) (VP (VBD believed) (SBAR (IN that) (S (NP (DT the) (NNP Indian) (NNS monarchies)) (VP (AUX were) (ADJP (RB fundamentally) (JJ un-Islamic)))))) (. .)))
+
+(S1 (SINV (PP (IN At) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (DT the) (NN problem))))) (AUX was) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (NN none)) (PP (IN of) (NP (DT the) (VBG invading) (NNS monarchs)))) (VP (VP (AUX were) (VP (VBN approved) (PP (IN by) (NP (DT the) (NNP Caliph))))) (, ,) (CC but) (VP (ADVP (RB rather)) (AUX were) (VP (VBG acting) (PP (ADVP (RB solely)) (IN on) (NP (PRP$ their) (JJ own))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN majority)) (PP (IN of) (NP (NNP Islamic) (NNS scholars)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBD concluded) (SBAR (SBAR (IN that) (S (NP (DT the) (NNP monarch)) (VP (AUX was) (VP (ADVP (RB divinely)) (VBN appointed) (PP (IN by) (NP (NNP God))) (S (VP (TO to) (VP (VB serve) (NP (NN humanity))))))))) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NNP Indian) (NN sultanate)) (CC or) (NP (DT the) (NNP Mughal) (NN padshah))) (VP (AUX was) (VP (VBG acting) (PP (IN in) (NP (NP (DT the) (NN place)) (PP (IN of) (NP (DT the) (NNP Caliph))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NX (NX (JJ political) (NNS theorists)) (CC and) (NX (JJ Islamic) (NNS scholars)))) (VP (VBG surrounding) (NP (NNP Akbar)))) (VP (AUX were) (VP (ADVP (RB deeply)) (VBN influenced) (PP (IN by) (NP (NP (NNP Shi) (POS ')) (NNP a) (NNP Islam))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ particular))) (, ,) (S (NP (PRP they)) (VP (VBN subscribed) (PP (TO to) (NP (NP (DT the) (NNP Shi) (POS ')) (DT a) (NN notion) (SBAR (IN that) (S (NP (NNP God)) (VP (AUX had) (VP (VBN created) (NP (NP (DT a) (NNP Divine) (NN Light)) (SBAR (WHNP (WDT that)) (S (VP (AUX is) (VP (VBN passed) (PRT (RP down)) (PP (IN in) (NP (NP (DT an) (NN individual)) (PP (IN from) (NP (NN generation))))) (PP (TO to) (NP (NN generation)))))))))))))))) (: ;) (S (NP (DT this) (NN individual)) (VP (AUX is) (VP (VBN known) (PP (IN as) (NP (DT the) (NNP Imam)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ central) (NN theorist)) (PP (IN of) (NP (NP (NNP Akbar) (POS 's)) (NN reign)))) (VP (AUX was) (NP (NP (NP (NP (NNP Abu) (POS ')) (NNP l) (NNP Faz) (POS ')) (NNP l)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD joined) (NP (NP (NNP Akbar) (POS 's)) (NN court)) (PP (IN in) (NP (CD 1574)))) (CC and) (VP (AUX is) (VP (VBN considered) (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS greatest) (JJ political) (NNS theorists)) (PP (IN in) (NP (NNP Islamic) (NN history)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD believed) (SBAR (IN that) (S (NP (DT the) (NNP Imamate)) (VP (VBD existed) (PP (IN in) (NP (DT the) (NN world))) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (JJ just) (NNS rulers))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Imam)) (, ,) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (DT a) (JJ just) (NN ruler))))) (, ,) (VP (VP (AUX had) (NP (NP (JJ secret) (NN knowledge)) (PP (IN of) (NP (NNP God))))) (, ,) (VP (AUX was) (ADJP (JJ free) (PP (IN from) (NP (NN sin))))) (, ,) (CC and) (VP (AUX was) (ADJP (RB primarily) (JJ responsible) (PP (IN for) (NP (NP (DT the) (JJ spiritual) (NN guidance)) (PP (IN of) (NP (NN humanity)))))))) (. .)))
+
+(S1 (S (NP (DT This)) (, ,) (PP (TO to) (NP (DT a) (JJ certain) (NN extent))) (, ,) (VP (VBN made) (S (NP (DT the) (NN padshah)) (ADJP (JJ superior) (PP (TO to) (NP (NP (NP (DT the) (NNP Shari) (POS ')) (NN a)) (, ,) (CC or) (NP (JJ Islamic) (NN law)) (, ,) (CC and) (NP (NP (DT the) (JJ Islamic) (NNS scholars)) (SBAR (WHNP (WDT that)) (S (VP (VBD interpreted) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (S (ADJP (JJ Needless) (S (VP (TO to) (VP (VB say)))))) (, ,) (NP (JJ orthodox) (NNP Islamic) (NNS scholars)) (VP (VP (ADVP (RB bitterly)) (VBD opposed) (NP (DT this) (JJ political) (NN theory))) (, ,) (CC but) (VP (ADVP (RB instead)) (VBN advocated) (NP (NP (DT a) (JJ close) (NN partnership)) (PP (IN between) (NP (NP (DT the) (FW ulama)) (, ,) (CC or) (NP (NNP Islamic) (JJ religious) (CC and) (JJ legal) (NNS scholars)) (, ,) (CC and) (NP (DT the) (NNP Sultan)) (CC or) (NP (NN padshah))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Abu) (POS ')) (NNP l) (NNP Fazl)) (VP (AUX was) (ADVP (RB also)) (VP (ADVP (RB deeply)) (VBN influenced) (PP (IN by) (NP (JJ Platonic) (NN philosophy))) (SBAR (IN as) (S (NP (PRP it)) (VP (AUX had) (VP (AUX been) (VP (VBN handed) (PRT (RP down)) (PP (IN by) (NP (NNP Muslim) (NNS philosophers)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (PRP he)) (VP (VBD argued) (PP (IN for) (NP (NP (NP (NNP Plato) (POS 's)) (NN concept)) (PP (IN of) (NP (DT the) ('' '') (NP (NN philosopher-king)) (, ,) ('' '') (SBAR (WHNP (WP who)) (S (, ,) (PP (IN by) (NP (NP (NN virtue)) (PP (IN of) (NP (PRP$ his) (NN talent) (, ,) (NN wisdom) (, ,) (CC and) (NN learning))))) (, ,) (VP (VBD deserved) (S (VP (TO to) (VP (AUX be) (VP (VBN obeyed) (PP (IN by) (NP (DT all) (NNS others))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD saw) (NP (NNP Akbar)) (PP (IN as) (NP (NP (DT the) (NN embodiment)) (PP (IN of) (NP (DT the) (JJ perfect) (NN philosopher-king)))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (DT a) (JJ religious) (NN standpoint))) (, ,) (NP (NP (NNP Akbar) (POS 's)) (NN state)) (VP (AUX was) (VP (VP (VBN built) (PP (IN on) (NP (DT the) (NN principle) (NN sulahkul)))) (, ,) (CC or) (VP ('' '') (NP (JJ universal) (FW tolerance.) ('' '')))))))
+
+(S1 (S (S (NP (DT All) (NNS religons)) (VP (AUX were) (S (VP (TO to) (VP (AUX be) (ADJP (RB equally) (JJ tolerated)) (PP (IN in) (NP (NP (DT the) (NN administration)) (PP (IN of) (NP (DT the) (NN state)))))))))) (: ;) (FRAG (ADVP (RB hence)) (NP (NP (DT the) (NN repeal)) (PP (IN of) (NP (NP (DT the) (NNS jizya)) (CC and) (NP (DT the) (NN pilgrimage) (NNS taxes)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NP (NNP Akbar) (POS 's)) (NN theory)) (PP (IN of) (NP (NN government))))) (, ,) (NP (NP (DT the) (NN ruler) (POS 's)) (NN duty)) (VP (AUX is) (S (VP (TO to) (VP (VB ensure) (NP (NP (NP (NN justice) (POS ')) (NN adale)) (PP (IN for) (NP (NP (PDT all) (DT the) (NNS people)) (PP (IN in) (NP (PRP$ his) (NN care)))))) (ADVP (DT no) (NN matter) (SBAR (WHNP (WP what)) (FRAG (NP (PRP$ their) (NN religion))))))))) (. .)))
+
+(S1 (S (NP (NNP Din-i) (NNP Ilahi) (NNP Akbar)) (VP (VBD took) (ADVP (RB very) (RB seriously)) (NP (NP (NP (NNP Abu) (POS ')) (NNP l) (NNP Fazl) (POS 's)) (NN idea) (SBAR (IN that) (S (S (NP (PRP he)) (VP (AUX was) (NP (NP (DT a) (JJ spiritual) (NN leader)) (PP (IN of) (NP (PRP$ his) (NNS people)))))) (CC and) (S (NP (PRP he)) (VP (VBN devoted) (NP (NP (JJ considerable) (NNS amounts)) (PP (IN of) (NP (NN time) (CC and) (NNS resources)))) (PP (TO to) (S (VP (VBG sorting) (PRT (RP out)) (NP (NP (DT the) (JJ common) (NN truth)) (PP (IN in) (NP (NP (DT the) (JJ multiple) (NNS religions)) (SBAR (S (NP (PRP he)) (VP (VBD ruled) (PRT (RP over))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (DT this) (NN concern))) (NP (PRP he)) (VP (VBD developed) (NP (NP (DT a) (JJ new) (NN religion)) (SBAR (S (NP (PRP he)) (VP (VP (VBD called) (S (NP (NNP Din-i) (NNP Ilahi)))) (, ,) (CC or) (VP ('' '') (NP (NP (DT The) (NN Religion)) (PP (IN of) (NP (NNP God)))))))))) (. .)))
+
+(S1 (S ('' '') (S (VP (VBG Believing) (PRN (, ,) (SBAR (IN as) (S (NP (NNPS Muslims)) (VP (AUX do)))) (, ,)) (SBAR (IN that) (S (NP (DT every) (NN faith)) (VP (VBD contained) (NP (DT the) (JJ essential) (NN truth) (SBAR (IN that) (S (NP (NNP God)) (VP (AUX is) (UCP (ADJP (JJ unified)) (CC and) (NP (CD one) (NN thing)))))))))))) (, ,) (NP (PRP he)) (VP (VBD sought) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (JJ unifying) (NNS aspects)) (PP (IN of) (NP (DT all) (NNS religions)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB originally)) (VP (VBD began) (NP (DT this) (NN project)) (, ,) (SBAR (ADVP (RB long)) (IN before) (S (NP (PRP he)) (VP (VBD came) (PRT (RP up)) (PP (IN with) (NP (NNP Din-i) (NNP Ilahi))) (, ,) (PP (IN by) (S (VP (VBG sponsoring) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS debates)))) (PP (IN at) (NP (NP (PRP$ his) (NN court)) (PP (IN between) (NP (NP (NNS representatives)) (PP (IN of) (NP (NP (DT the) (JJ various) (NNS religions)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (NNP Christianity) (NNP Catholic) (NNPS Jesuits)) (, ,) (NP (NNP Hindus)) (, ,) (NP (NNPS Zoroastrians)) (, ,) (CC and) (NP (NNPS Jains))))))))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Eventually)) (NP (PRP he)) (VP (VBD included) (NP (NP (NNS members)) (PP (IN of) (NP (DT the) (NN ulama)))))) (, ,) (CC but) (S (NP (DT the) (NNS debates)) (VP (AUX did) (RB not) (VP (VB go) (PP (ADVP (RB well)) (IN because) (IN of) (NP (NP (DT the) (JJ intolerant) (NN attitude)) (CC and) (NP (NP (NNS behaviors)) (PP (IN of) (NP (NP (DT the) (JJ Jesuit) (NNS participants)) (SBAR (WHNP (WP who)) (S (VP (VBD wanted) (S (VP (TO to) (VP (VP (VB convert) (NP (NNP Akbar))) (, ,) (RB not) (VP (VB discuss) (NP (NP (DT the) (NN formation)) (PP (IN of) (NP (DT a) (JJ universal) (NN religion))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Akbar)) (VP (AUX was) (NP (NP (DT a) (JJ devout)) (CC and) (PRN (, ,) (S (RB so) (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (DT an) (JJ orthodox) (NNP Muslim))))) (: ;) (S (ADVP (RB still)) (, ,) (NP (NP (NNS aspects)) (PP (IN of) (NP (PRP$ his) (NN belief)))) (VP (AUX were) (PP (IN in) (NP (NP (NN part)) (VP (VBN derived) (PP (IN from) (NP (NNP Shi) (POS '))) (NP (DT a) (NNP Islam))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Din-i) (NNP Ilahi)) (, ,) (NP (NP (DT the) (NN religion)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB synthesize) (NP (NP (DT the) (NN world) (POS 's)) (NNS religions)) (PP (IN into) (NP (NP (DT a) (JJ single) (NN religion)) (, ,) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBD established)))))))))))) (VP (AUX was) (ADVP (RB predominantly)) (VP (VBN based) (PP (IN on) (NP (NNP Islam))))) (. .)))
+
+(S1 (S (S (PP (IN Like) (NP (NNP Islam))) (, ,) (NP (PRP it)) (VP (VP (AUX was) (ADJP (JJ rationalistic))) (CC and) (VP (AUX was) (VP (VBN based) (PP (IN on) (NP (NP (CD one) (JJ overriding) (NN doctrine)) (, ,) (NP (NP (DT the) (NN doctrine)) (PP (IN of) (NP (NN tawhid)))))))))) (: :) (S (NP (NNP God)) (VP (VP (AUX is) (NP (CD one) (NN thing))) (CC and) (VP (AUX is) (ADJP (JJ singular) (CC and) (JJ unified))))) (. .)))
+
+(S1 (S (NP (NNP Akbar)) (ADVP (RB also)) (VP (VP (VBD elevated) (NP (NP (DT the) (NN notion)) (PP (IN of) (NP (JJ wahdat-al) (NN wujud))))) (, ,) (CC or) (VP ('' '') (NP (NP (NN unity)) (PP (IN of) (NP (DT the) (NN real))))) (, ,) ('' '') (PP (TO to) (NP (NP (DT a) (JJ central) (JJ religious) (NN idea)) (PP (IN in) (NP (PRP$ his) (JJ new) (NN religion)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN world)) (, ,) (PP (IN as) (NP (NP (DT a) (NN creation)) (PP (IN of) (NP (NNP God))))) (, ,) (VP (AUX is) (NP (NP (DT a) (ADJP (JJ single) (CC and) (JJ unified)) (NN place)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reflects) (NP (NP (DT the) (NN singularity) (CC and) (NN unity)) (PP (IN of) (NP (PRP$ its) (NN creator))))))))) (. .)))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (NP (NNP Akbar)) (VP (ADVP (RB fully)) (VBN subscribed) (PP (TO to) (NP (NP (DT the) (JJ Islamic) (NN idea)) (PP (IN of) (NP (NP (DT the) (NNP Perfect) (NNP Man)) (VP (VBN represented) (PP (PP (IN by) (NP (NP (DT the) (NN life)) (PP (IN of) (NP (DT the) (NNP Prophet))))) (CC or) (PP (IN by) (NP (NP (DT the) (NNP Shi) (POS ')) (JJ ite) (NNP Imamate)))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (AUX is) (NP (JJ little) (NN question) (SBAR (IN that) (S (NP (NNP Akbar)) (VP (VBD accepted) (NP (NP (NNP Abu) (POS ')) (NN l)) (NP (NP (NNP Fazl) (POS 's)) (NN notion) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (AUX was) (NP (DT the) (NNP Divine) (NNP Light))) (CC and) (VP (AUX was) (NP (DT a) (JJ Perfect) (NN Man)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD assumed) (NP (DT the) (NN title))) (, ,) ('' '')))
+
+(S1 (NP (NP (NN Revealer)) (PP (IN of) (NP (DT the) (NNP Internal) (CC and) (NNP Depictor))) (PP (IN of) (NP (NP (DT the) (NNP Real)) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD defined) (NP (PRP$ his) (NN role)) (PP (IN as) (NP (NP (NP (DT a) (NN disseminator)) (PP (IN of) (NP (NP (JJ secret) (NN knowledge)) (PP (IN of) (NP (NNP God)))))) (CC and) (NP (NP (PRP$ his) (NN function)) (PP (IN of) (S (VP (VBG fashioning) (NP (DT the) (NN world)) (PP (IN in) (NP (NP (DT the) (NN light)) (PP (IN of) (NP (DT this) (NN knowledge)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (NNP Islam))))) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NNP Din-i) (NNP Ilahi)) (ADVP (RB also)) (VP (VBD contained) (NP (NP (NNS aspects)) (PP (IN of) (NP (NNP Jainism) (, ,) (NNP Zoroastrianism) (, ,) (CC and) (NNP Hinduism))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Din-i) (NNP Ilahi)) (VP (VP (VBD borrowed) (PP (IN from) (NP (NNP Jainism))) (NP (DT a) (NN respect))) (CC and) (VP (VBP care) (PP (IN for) (NP (DT all) (NN living) (NNS things)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBN derived) (PP (IN from) (NP (NP (NNP Zoroastrianism) (NN sun-worship)) (CC and) (PRN (, ,) (ADVP (RB especially)) (, ,)) (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (NNP divine) (NN kingship)))))))) (. .)))
+
+(S1 (S (S (NP (DT This) (JJ latter) (NN innovation)) (VP (ADVP (RB deeply)) (VBN disturbed) (NP (DT the) (NN ulama)))) (: ;) (S (NP (PRP they)) (VP (VBD regarded) (NP (PRP it)) (PP (IN as) (NP (JJ outright) (NN heresy))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN notion)) (PP (IN of) (NP (NNP divine) (NN kingship)))) (, ,) (ADVP (RB however)) (, ,) (VP (MD would) (VP (VB last) (PP (IN throughout) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (DT the) (NNP Mughal) (NNP Empire))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Fatehpur) (NNP Sikri) (NNP Akbar) (POS 's)) (ADJP (ADJP (JJS closest)) (CC and) (ADJP (RBS most) (JJ beloved))) (JJ religious) (NNP advisor)) (VP (AUX was) (NP (NP (DT an) (JJ Islamic) (JJ Sufi) (NN mystic)) (, ,) (NP (NNP Shayk) (NNP Salim) (NNP Chishti)))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (NNS years)) (PP (IN of) (S (VP (AUXG having) (NP (DT no) (NN son) (CC and) (NN heir))))))) (, ,) (NP (NP (DT the) (NN birth)) (PP (IN of) (NP (NNP Jahangir)))) (VP (VBD seemed) (S (VP (TO to) (VP (VB fulfill) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Salim) (NNP Chishti) (POS 's)) (NNS prophecies)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN gratitude)) (PP (PP (TO to) (NP (PRP$ his) (JJ former) (JJ religious) (NNP advisor))) (CC and) (PP (TO to) (NP (NNP Allah)))))) (, ,) (NP (NNP Akbar)) (VP (VBD set) (PP (IN about) (S (VP (VBG building) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD theorized) (PP (IN as) (NP (DT the) ('' '') (NP (JJ perfect) (NN city)) (, ,) ('' '') (NP (NP (NN one)) (SBAR (WHNP (WDT that)) (S (VP (VP (MD would) (VP (VB represent) (NP (NP (NP (DT the) (NN power)) (PP (IN of) (NP (PRP$ his) (NN empire)))) (, ,) (NP (NP (DT the) (NN meaning)) (PP (IN of) (NP (NP (NP (NNP God) (POS 's)) (NN message)) (PP (TO to) (NP (NN humanity))))))))) (, ,) (CC and) (VP (MD would) (VP (VB ensure) (NP (JJ perfect) (NN harmony))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Above) (NP (DT all))) (, ,) (NP (DT the) (NN city)) (VP (MD would) (VP (VB represent) (NP (NNP Islam)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD completed) (NP (NP (PRP$ his) (JJ new) (NN city)) (, ,) (NP (NNP Fatehpur) (NNP Sikri)) (, ,)) (PP (IN in) (NP (CD 1578)))) (. .)))
+
+(S1 (S (NP (DT The) (NN city)) (VP (VBZ contains) (NP (NP (DT a) (NN mosque)) (, ,) (NP (DT a) (NN palace)) (, ,) (NP (DT a) (JJ lavish) (CC and) (JJ huge) (NN garden)) (, ,) (NP (NP (DT a) (NN worship) (NN hall)) (PP (IN for) (NP (NNP Din-i) (NNP Ilahi)))) (, ,) (CC and) (PRN (, ,) (ADVP (RB finally)) (, ,)) (NP (NP (DT a) (NN tomb)) (PP (IN for) (NP (NP (NNP Shaykh) (NNP Salim) (NNP Chishti)) (PP (IN in) (NP (NP (DT the) (JJ great) (NN mosque)) (NP (PRP itself))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN city)) (VP (VBD served) (PP (IN for) (NP (DT a) (NN while))) (PP (IN as) (NP (NP (NNP Akbar) (POS 's)) (NN capital) (CC and) (JJ lavish) (NN court)))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (AUX was) (PRN (, ,) (ADVP (RB however)) (, ,)) (VP (VBN placed) (ADVP (RB far) (PP (IN from) (NP (NP (NN source)) (PP (IN of) (NP (NN water))))))))) (CC and) (S (NP (DT the) ('' '') (NP (JJ perfect) (NN city)) ('' '') (CC and) ('' '') (NP (NP (JJ perfect) (NN symbol)) (PP (IN of) (NP (NNP Islam)))) ('' '')) (VP (AUX was) (VP (VBN abandoned) (ADVP (RB forever)) (PP (ADVP (RB shortly)) (IN after) (NP (NP (NNP Akbar) (POS 's)) (NN death)))))) (. .)))
+

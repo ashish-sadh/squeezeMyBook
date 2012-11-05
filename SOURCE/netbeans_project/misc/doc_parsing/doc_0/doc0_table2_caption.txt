@@ -1,0 +1,1 @@
+<s> The variation of the measured UVB spectrum in terms of the wavelength can be expressed by the relation:Log (P/5.  8 10-6) =69[(0.  297/λ)-1] P is the normalized power spectral density en J/cm, s. A Global Radiation in June during one hour: 3.  6 102 J/cm2 is equal to 1.  435 cal/min,cm2.  </s>

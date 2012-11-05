@@ -1,0 +1,15 @@
+#!/bin/bash
+
+cd tmp
+ls
+rm *
+
+cd ..
+cd output_JavaRAP
+ls
+rm *
+
+cd ..
+cd output_lla
+ls
+rm *

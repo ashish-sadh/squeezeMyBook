@@ -1,0 +1,6 @@
+Evaluation of document set 1:
+Score Calculation:
+python multiOrderEval.py EvaluationofSystem/NILE_system EvaluationofSystem/NILE_human.txt 1
+python multiOrderEval.py EvaluationofSystem/NILE_system EvaluationofSystem/NILE_human.txt 2
+python multiOrderEval.py EvaluationofSystem/NILE_system EvaluationofSystem/NILE_human.txt 3
+python multiOrderEval.py EvaluationofSystem/NILE_system EvaluationofSystem/NILE_human.txt 4

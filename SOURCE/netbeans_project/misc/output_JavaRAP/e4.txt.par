@@ -1,0 +1,246 @@
+(S1 (S (ADVP (NP (JJ Many) (NNS years)) (RB ago)) (NP (EX there)) (VP (AUX was) (NP (NP (DT an) (NN Emperor)) (RRC (ADVP (RB so) (RB exceedingly)) (NP (NP (NNP fond)) (PP (IN of) (NP (NP (JJ new) (NNS clothes)) (SBAR (WHNP (WDT that)) (S (NP (PRP he)) (VP (VBD spent) (NP (PDT all) (PRP$ his) (NN money)) (PP (IN on) (S (VP (AUXG being) (ADJP (RB well) (VBN dressed)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD cared) (NP (NN nothing)) (PP (IN about) (S (VP (VBG reviewing) (NP (PRP$ his) (NNS soldiers))))) (, ,) (VP (VP (VBG going) (PP (TO to) (NP (DT the) (FW theatre)))) (, ,) (CC or) (VP (VBG going) (PP (IN for) (NP (NP (DT a) (NN ride)) (PP (IN in) (NP (PRP$ his) (NN carriage))) (, ,) (SBAR (IN except) (S (VP (TO to) (VP (VB show) (PRT (RP off)) (NP (PRP$ his) (JJ new) (NNS clothes))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (AUX had) (NP (DT a) (NN coat)) (PP (IN for) (NP (NP (DT every) (NN hour)) (PP (PP (IN of) (NP (DT the) (NN day))) (, ,) (CC and) (RB instead) (PP (IN of) (NP (NN saying)))))) (, ,) (SBAR (IN as) (S (NP (PRP one)) (VP (MD might) (, ,) (PP (IN about) (NP (DT any) (JJ other) (NN ruler))))))) (, ,) ('' '')))
+
+(S1 (S (NP (DT The) (NNP King)) (VP (AUX 's) (PP (IN in) (NP (NN council))) (, ,) ('' '') (SBAR (RB here) (S (NP (PRP they)) (ADVP (RB always)) (VP (VBD said))))) (. .)))
+
+(S1 (FRAG ('' '') (NP (NP (DT The) (NNP Emperor) (AUX 's)) (PP (IN in) (NP (PRP$ his) (VBG dressing) (NNS room.)))) ('' '')))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (JJ great) (NN city)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD lived)))))) (, ,) (NP (NN life)) (VP (AUX was) (ADVP (RB always)) (ADJP (JJ gay))) (. .)))
+
+(S1 (S (S (NP (DT Every) (NN day)) (NP (JJ many) (NNS strangers)) (VP (VBD came) (PP (TO to) (NP (NN town))))) (, ,) (CC and) (S (PP (IN among) (NP (PRP them))) (NP (CD one) (NN day)) (VP (VBD came) (NP (CD two) (NNS swindlers)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VB let) (S (NP (PRP it)) (VP (AUX be) (VP (VBN known) (SBAR (S (S (NP (PRP they)) (VP (AUX were) (NP (NNS weavers)))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD could) (VP (VB weave) (NP (NP (DT the) (RBS most) (JJ magnificent) (NNS fabrics)) (ADJP (JJ imaginable))))))))))))))) (. .)))
+
+(S1 (S (CONJP (RB Not) (RB only)) (SINV (AUX were) (NP (PRP$ their) (NNS colors) (CC and) (NNS patterns)) (ADJP (RB uncommonly) (JJ fine))) (, ,) (CC but) (S (NP (NP (NNS clothes)) (VP (VBN made) (PP (IN of) (NP (DT this) (NN cloth))))) (VP (AUX had) (NP (NP (DT a) (JJ wonderful) (NN way)) (PP (IN of) (S (VP (VBG becoming) (ADJP (JJ invisible) (PP (TO to) (NP (NP (NN anyone)) (SBAR (SBAR (WHNP (WP who)) (S (VP (AUX was) (ADJP (JJ unfit) (PP (IN for) (NP (PRP$ his) (NN office))))))) (, ,) (CC or) (SBAR (WHNP (WP who)) (S (VP (AUX was) (ADJP (RB unusually) (JJ stupid))))))))))))))) (. .)))
+
+(S1 (SINV (S ('' '') (NP (DT Those)) (VP (MD would) (VP (AUX be) (NP (NP (RB just) (DT the) (NNS clothes)) (PP (IN for) (NP (PRP me))))))) (, ,) ('' '') (VP (VBD thought)) (NP (DT the) (NNP Emperor)) (. .)))
+
+(S1 (S ('' '') (SBAR (IN If) (S (NP (PRP I)) (VP (VBD wore) (NP (PRP them))))) (NP (PRP I)) (VP (MD would) (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VB discover) (SBAR (WHNP (WDT which)) (S (NP (NP (NNS men)) (PP (IN in) (NP (PRP$ my) (NN empire)))) (VP (AUX are) (ADJP (JJ unfit) (PP (IN for) (NP (PRP$ their) (NNS posts))))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP I)) (VP (MD could) (VP (VB tell) (NP (NP (DT the) (JJ wise) (NNS men)) (PP (IN from) (NP (DT the) (NNS fools)))))) (. .)))
+
+(S1 (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (ADVP (RB certainly)) (VP (MD must) (VP (VB get) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN stuff)) (VP (VBN woven) (PP (IN for) (NP (PRP me))))))) (ADVP (RB right) (RB away.)))) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (VBD paid) (NP (DT the) (CD two) (NNS swindlers)) (NP (NP (DT a) (JJ large) (NN sum)) (PP (IN of) (NP (NN money)))) (S (VP (TO to) (VP (VB start) (S (VP (VB work) (ADVP (IN at) (RB once)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VP (VBD set) (PRT (RP up)) (NP (CD two) (NNS looms))) (CC and) (VP (VBD pretended) (S (VP (TO to) (VP (VB weave) (, ,) (SBAR (IN though) (S (NP (EX there)) (VP (AUX was) (NP (NP (NN nothing)) (PP (IN on) (NP (DT the) (NNS looms)))))))))))) (. .)))
+
+(S1 (S (NP (PDT All) (NP (DT the) (JJS finest) (NN silk)) (CC and) (NP (NP (DT the) (JJS purest) (JJ old) (NN thread)) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBD demanded)))))) (VP (VBD went) (PP (IN into) (NP (PRP$ their) (VBG traveling) (NNS bags))) (, ,) (SBAR (IN while) (S (NP (PRP they)) (VP (VBD worked) (ADVP (NP (DT the) (JJ empty) (NNS looms)) (RB far)) (PP (IN into) (NP (DT the) (NN night))))))) (. .)))
+
+(S1 (S (S ('' '') (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (NP (DT those) (NNS weavers)) (VP (AUX are) (VP (VBG getting) (PRT (RP on)) (PP (IN with) (NP (DT the) (NN cloth))))))))))))) (, ,) ('' '') (NP (DT the) (NNP Emperor)) (VP (VBD thought))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD felt) (ADJP (RB slightly) (JJ uncomfortable)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD remembered) (SBAR (IN that) (S (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (AUX were) (ADJP (JJ unfit) (PP (IN for) (NP (PRP$ their) (NN position)))))))) (VP (MD would) (RB not) (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VB see) (NP (DT the) (NN fabric))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (MD could) (RB n't) (VP (AUX have) (VP (AUX been) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD doubted) (NP (PRP himself))))))))) (, ,) (CC yet) (S (NP (PRP he)) (VP (VBD thought) (SBAR (S (NP (PRP he)) (VP (MD 'd) (ADVP (RB rather)) (VP (VB send) (NP (NP (NN someone)) (ADJP (RB else))) (S (VP (TO to) (VP (VB see) (SBAR (WHADVP (WRB how)) (S (NP (NNS things)) (VP (AUX were) (VP (VBG going)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ whole) (NN town)) (VP (VBD knew) (PP (IN about) (NP (NP (DT the) (NN cloth) (POS 's)) (JJ peculiar) (NN power))))) (, ,) (CC and) (S (NP (DT all)) (VP (AUX were) (ADJP (JJ impatient) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (WRB how) (JJ stupid)) (S (NP (PRP$ their) (NNS neighbors)) (VP (AUX were)))))))))) (. .)))
+
+(S1 (S ('' '') (S (NP (PRP I)) (VP (MD 'll) (VP (VB send) (NP (PRP$ my) (JJ honest) (JJ old) (NN minister)) (PP (TO to) (NP (DT the) (NNS weavers)))))) (, ,) ('' '') (NP (DT the) (NNP Emperor)) (VP (VBD decided)) (. .)))
+
+(S1 (S ('' '') (S (S (NP (PRP He)) (VP (MD 'll) (VP (AUX be) (NP (NP (DT the) (JJS best) (CD one)) (SBAR (S (VP (TO to) (VP (VB tell) (NP (PRP me)) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN material)) (VP (VBZ looks))))))))) (, ,) (SBAR (IN for) (S (NP (PRP he)) (VP (AUX 's) (NP (DT a) (JJ sensible) (NN man)))))))) (CC and) (S (NP (DT no) (NN one)) (VP (AUX does) (NP (PRP$ his) (NN duty) (NN better.))))) ('' '')))
+
+(S1 (S (CC So) (NP (DT the) (JJ honest) (JJ old) (NN minister)) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (NN room)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (CD two) (NNS swindlers)) (VP (VBD sat) (S (VP (VBG working) (ADVP (RB away)) (PP (IN at) (NP (PRP$ their) (JJ empty) (NNS looms))))))))))) (. .)))
+
+(S1 (S ('' '') (S (NP (NN Heaven)) (VP (VB help) (NP (PRP me)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD thought) (SBAR (IN as) (S (NP (PRP$ his) (NNS eyes)) (VP (VBD flew) (ADJP (RB wide) (JJ open)))))) (, ,) ('' '')))
+
+(S1 (S (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB see) (NP (NN anything)) (ADVP (IN at) (DT all)) ('' ''))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (AUX did) (RB not) (VP (VB say) (ADVP (RB so)))) (. .)))
+
+(S1 (S (NP (PDT Both) (DT the) (NNS swindlers)) (VP (VBN begged) (S (NP (PRP him)) (VP (TO to) (VP (AUX be) (ADVP (ADVP (RB so) (RB kind)) (SBAR (IN as) (S (VP (TO to) (VP (VB come) (ADJP (JJ near) (S (VP (TO to) (VP (VB approve) (NP (NP (DT the) (JJ excellent) (NN pattern)) (, ,) (NP (DT the) (JJ beautiful) (NNS colors)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBD pointed) (PP (TO to) (NP (DT the) (JJ empty) (NNS looms))))) (, ,) (CC and) (S (NP (DT the) (JJ poor) (JJ old) (NN minister)) (VP (VBD stared) (ADVP (ADVP (RB as) (RB hard)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD dared))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD could) (RB n't) (VP (VB see) (NP (NN anything)) (, ,) (SBAR (IN because) (S (NP (EX there)) (VP (AUX was) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB see))))))))))) (. .)))
+
+(S1 (S ('' '') (S (NP (NN Heaven)) (VP (AUX have) (NP (NN mercy)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD thought)) (. .)))
+
+(S1 (SQ ('' '') (MD Can) (NP (PRP it)) (VP (AUX be) (SBAR (IN that) (S (NP (PRP I)) (VP (AUX 'm) (NP (DT a) (NN fool)))))) (. ?)))
+
+(S1 (S (S (NP (PRP I)) (VP (MD 'd) (VP (AUX have) (VP (ADVP (RB never)) (VBD guessed) (NP (PRP it)))))) (, ,) (CC and) (S (NP (RB not) (DT a) (NN soul)) (VP (MD must) (VP (VB know)))) (. .)))
+
+(S1 (SQ (AUX Am) (NP (PRP I)) (ADJP (JJ unfit) (S (VP (TO to) (VP (AUX be) (NP (DT the) (NN minister)))))) (. ?)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (ADVP (RB never)) (VP (AUX do) (S (VP (TO to) (VP (VB let) (PRT (RP on)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB see) (NP (DT the) (NNS cloth.) ('' '')))))))))))))
+
+(S1 (SINV (S ('' '') (VP (AUX Do) (RB n't) (VP (VB hesitate) (S (VP (TO to) (VP (VB tell) (NP (PRP us)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP think) (PP (IN of) (NP (PRP it)))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS weavers)))) (. .)))
+
+(S1 (S ('' '') (S (INTJ (UH Oh)) (, ,) (NP (PRP it)) (VP (AUX 's) (NP (NP (JJ beautiful) (NN -it) (POS 's)) (NN enchanting.)))) ('' '')))
+
+(S1 (S (NP (DT The) (JJ old) (NN minister)) (VP (VBD peered) (PP (IN through) (NP (PRP$ his) (NNS spectacles)))) (. .)))
+
+(S1 (FRAG ('' '') (NP (PDT Such) (DT a) (NN pattern)) (, ,) (WHNP (WP what) (NNS colors)) (. !) ('' '')))
+
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (AUX be) (ADJP (JJ sure) (S (VP (TO to) (VP (VB tell) (NP (DT the) (NNP Emperor)) (SBAR (WHNP (WRB how) (JJ delighted)) (S (NP (PRP I)) (VP (AUX am) (PP (IN with) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (S (S ('' '') ('' '') (NP (PRP We)) (VP (AUX 're) (ADJP (JJ pleased) (S (VP (TO to) (VP (VB hear) (NP (DT that)))))))) (, ,) ('' '') (NP (DT the) (NNS swindlers)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD proceeded) (S (VP (VP (TO to) (VP (VB name) (NP (PDT all) (DT the) (NNS colors)))) (CC and) (VP (TO to) (VP (VB explain) (NP (DT the) (JJ intricate) (NN pattern))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ old) (NN minister)) (VP (VBD paid) (NP (DT the) (JJS closest) (NN attention)) (, ,) (SBAR (IN so) (IN that) (S (NP (PRP he)) (VP (MD could) (VP (VB tell) (NP (NP (PRP it)) (NP (DT all))) (PP (TO to) (NP (DT the) (NNP Emperor)))))))) (. .)))
+
+(S1 (S (CC And) (RB so) (NP (PRP he)) (VP (AUX did)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS swindlers)) (PP (IN at) (NP (RB once)))) (VP (VBD asked) (PP (IN for) (NP (NP (JJR more) (NN money)) (, ,) (NP (JJR more) (NN silk)) (CC and) (NP (NN gold) (NN thread)))) (, ,) (S (VP (TO to) (VP (VB get) (PRT (RP on)) (PP (IN with) (NP (DT the) (VBG weaving))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (PRP it)) (NP (DT all))) (VP (VBD went) (PP (IN into) (NP (PRP$ their) (NNS pockets)))) (. .)))
+
+(S1 (S (NP (RB Not) (DT a) (NN thread)) (VP (VBD went) (PP (IN into) (NP (DT the) (NNS looms))) (, ,) (SBAR (IN though) (S (NP (PRP they)) (VP (VBD worked) (PP (IN at) (NP (PRP$ their) (VBG weaving))) (ADVP (RB as) (RB hard) (PP (IN as) (ADVP (RB ever)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Emperor)) (ADVP (RB presently)) (VP (VBD sent) (S (NP (DT another) (NN trustworthy) (NN official)) (VP (TO to) (VP (VB see) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN work)) (VP (VBD progressed)))) (CC and) (SBAR (WHADVP (WRB how) (RB soon)) (S (NP (PRP it)) (VP (MD would) (VP (AUX be) (ADJP (JJ ready))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ same) (NN thing)) (VP (VBD happened) (PP (TO to) (NP (PRP him))) (SBAR (IN that) (S (VP (AUX had) (VP (VBN happened) (PP (TO to) (NP (DT the) (NN minister)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD looked) (SBAR (S (CC and) (S (NP (PRP he)) (VP (VBD looked))) (, ,) (CC but) (S (NP (RB as) (RB there)) (VP (AUX was) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB see) (PP (IN in) (NP (NP (DT the) (NNS looms)) (SBAR (S (NP (PRP he)) (VP (MD could) (RB n't) (VP (VB see) (NP (NN anything)))))))))))))))))) (. .)))
+
+(S1 (S ('' '') (S (VP (AUX Is) (RB n't) (S (NP (PRP it)) (NP (NP (DT a) (JJ beautiful) (NN piece)) (PP (IN of) (NP (NNS goods))))))) (. ?) ('' '') (NP (DT the) (NNS swindlers)) (VP (VBD asked) (NP (PRP him)) (, ,) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD displayed) (CC and) (VBD described) (NP (PRP$ their) (JJ imaginary) (NN pattern)))))) (. .)))
+
+(S1 (S ('' '') (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (AUX 'm) (RB not) (ADJP (JJ stupid))))))) (, ,) ('' '') (NP (DT the) (NN man)) (VP (VBD thought) (, ,) ('' '') (SBAR (IN so) (S (NP (PRP it)) (VP (MD must) (VP (AUX be) (SBAR (IN that) (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ unworthy) (PP (IN of) (NP (PRP$ my) (JJ good) (NN office)))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (AUX 's) (ADJP (JJ strange))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (MD must) (RB n't) (VP (VB let) (S (NP (NN anyone)) (VP (VB find) (NP (PRP it)) (PRT (RP out))))))) (, ,) (ADVP (RB though.)) ('' '')))
+
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD praised) (NP (NP (DT the) (NN material)) (SBAR (S (NP (PRP he)) (VP (AUX did) (RB not) (VP (VB see))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD declared) (SBAR (S (NP (PRP he)) (VP (AUX was) (ADJP (JJ delighted) (PP (IN with) (NP (NP (DT the) (JJ beautiful) (NNS colors)) (CC and) (NP (DT the) (JJ exquisite) (NN pattern))))))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (DT the) (NNP Emperor))) (NP (PRP he)) (VP (VBD said)) (, ,) ('' '')))
+
+(S1 (S (NP (PRP It)) (VP (VBD held) (NP (PRP me)) (S (VP (VBN spellbound.)))) ('' '')))
+
+(S1 (S (S (NP (PDT All) (DT the) (NN town)) (VP (AUX was) (VP (VBG talking) (PP (IN of) (NP (DT this) (JJ splendid) (NN cloth)))))) (, ,) (CC and) (S (NP (DT the) (NNP Emperor)) (VP (VBD wanted) (S (VP (TO to) (VP (VB see) (NP (PRP it)) (PP (IN for) (NP (PRP himself)))))) (SBAR (IN while) (S (NP (PRP it)) (VP (AUX was) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NNS looms)))))))) (. .)))
+
+(S1 (S (VP (VBN Attended) (PP (IN by) (NP (NP (DT a) (NN band)) (PP (IN of) (NP (JJ chosen) (NNS men))))) (, ,) (PP (IN among) (SBAR (WHNP (WP whom)) (S (VP (AUX were) (NP (NP (PRP$ his) (CD two) (JJ old) (VBN trusted) (JJ officials-the) (NNS ones)) (SBAR (WHNP (WP who)) (S (VP (AUX had) (VP (AUX been) (PP (TO to) (NP (NP (DT the) (NN weavers-he)) (VP (VBN set) (PRT (RP out)) (S (VP (TO to) (VP (VB see) (NP (DT the) (CD two) (NNS swindlers)))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD found) (NP (PRP them)) (PP (VBG weaving) (PP (IN with) (NP (NN might) (CC and) (NN main))) (, ,) (CC but) (PP (IN without) (NP (NP (DT a) (NN thread)) (PP (IN in) (NP (PRP$ their) (NNS looms))))))) (. .)))
+
+(S1 (S ('' '') (S (ADJP (JJ Magnificent))) (, ,) ('' '') (VP (VBD said) (SBAR (S (NP (DT the) (CD two) (NNS officials)) (ADVP (RB already)) (VP (VBD duped))))) (. .)))
+
+(S1 (FRAG ('' '') (NP (RB Just) (NN look)) (, ,) (NP (PRP$ Your) (NN Majesty)) (, ,) (SBAR (WHNP (WP what)) (FRAG (NP (NNS colors)))) (. !)))
+
+(S1 (FRAG (SBAR (WHNP (WP What)) (FRAG (NP (DT a) (NN design)))) (. !) ('' '')))
+
+(S1 (S (NP (PRP They)) (VP (VBD pointed) (PP (TO to) (NP (NP (DT the) (JJ empty) (NNS looms)) (, ,) (NP (NP (DT each)) (VP (VBG supposing) (SBAR (IN that) (S (NP (DT the) (NNS others)) (VP (MD could) (VP (VB see) (NP (DT the) (NN stuff))))))))))) (. .)))
+
+(S1 (SINV (SBARQ ('' '') (WHNP (WP What)) (SQ (VP (AUX 's) (NP (DT this)))) (. ?)) ('' '') (VP (VBD thought)) (NP (DT the) (NNP Emperor)) (. .)))
+
+(S1 (S ('' '') (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB see) (NP (NN anything)))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (AUX is) (ADJP (JJ terrible))) (. !)))
+
+(S1 (SQ (AUX Am) (NP (PRP I)) (NP (DT a) (NN fool)) (. ?)))
+
+(S1 (SQ (AUX Am) (NP (PRP I)) (ADJP (JJ unfit) (S (VP (TO to) (VP (AUX be) (NP (DT the) (NN Emperor)))))) (. ?)))
+
+(S1 (FRAG (WHNP (WP What)) (S (NP (DT a) (NN thing)) (VP (TO to) (VP (VB happen) (PP (TO to) (NP (NP (PRP me)) (PP (IN of) (NP (DT all) (NNS people)))))))) (. !) (: -) (INTJ (UH Oh)) (. !)))
+
+(S1 (S (S (NP (PRP It)) (VP (AUX 's) (ADJP (RB very) (JJ pretty)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S ('' '') (S (NP (PRP It)) (VP (AUX has) (NP (PRP$ my) (JJS highest) (NNS approval.)))) ('' '')))
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD nodded) (NP (NN approbation)) (PP (IN at) (NP (DT the) (JJ empty) (NNP loom)))) (. .)))
+
+(S1 (S (NP (NN Nothing)) (VP (MD could) (VP (VB make) (S (NP (PRP him)) (VP (VB say) (SBAR (IN that) (S (NP (PRP he)) (VP (MD could) (RB n't) (VP (VB see) (NP (NN anything)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (JJ whole) (NN retinue)) (VP (VBD stared) (CC and) (VBD stared)) (. .)))
+
+(S1 (S (S (S (NP (PRP One)) (VP (VBD saw) (NP (NP (RB no) (JJR more)) (PP (IN than) (NP (DT another)))))) (, ,) (CC but) (S (NP (NP (PRP they)) (NP (DT all))) (VP (VBD joined) (NP (DT the) (NNP Emperor)) (PP (IN in) (NP (NN exclaiming)))))) (, ,) ('' '')))
+
+(S1 (INTJ (UH Oh) (. !)))
+
+(S1 (S (S (NP (PRP It)) (VP (AUX 's) (ADJP (RB very) (JJ pretty)))) (, ,) ('' '') (CC and) (S (NP (PRP they)) (VP (VBD advised) (NP (PRP him)) (S (VP (TO to) (VP (VB wear) (NP (NP (NNS clothes)) (VP (VBN made) (PP (IN of) (NP (DT this) (JJ wonderful) (NN cloth))))) (PP (ADVP (RB especially)) (IN for) (NP (NP (DT the) (JJ great) (NN procession)) (SBAR (S (NP (PRP he)) (VP (AUX was) (S (ADVP (RB soon)) (VP (TO to) (VP (VB lead)))))))))))))) (. .)))
+
+(S1 (FRAG ('' '') (NP (JJ Magnificent)) (. !)))
+
+(S1 (INTJ (JJ Excellent) (. !)))
+
+(S1 (S (S (INTJ (JJ Unsurpassed) (. !) ('' '')) (VP (AUX were) (VP (VBN bandied) (PP (PP (IN from) (NP (NN mouth))) (PP (TO to) (NP (NN mouth))))))) (, ,) (CC and) (S (NP (NN everyone)) (VP (AUX did) (NP (PRP$ his) (JJS best)) (S (VP (TO to) (VP (VB seem) (ADJP (RB well) (JJ pleased))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Emperor)) (VP (VBD gave) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (NNS swindlers)))) (NP (DT a) (NN cross) (S (VP (TO to) (VP (VB wear) (PP (IN in) (NP (NP (PRP$ his) (NN buttonhole)) (, ,) (CC and) (NP (NP (DT the) (NN title)) (PP (IN of) ('' '') (NP (NNP Sir) (NNP Weaver))))))))))) (. .)))
+
+(S1 (S ('' '') (PP (IN Before) (NP (DT the) (NN procession))) (NP (DT the) (NNS swindlers)) (VP (VP (VBD sat) (PRT (RP up)) (NP (DT all) (NN night))) (CC and) (VP (VBD burned) (NP (QP (JJR more) (IN than) (CD six)) (NNS candles))) (, ,) (S (VP (TO to) (VP (VB show) (SBAR (WHNP (WRB how) (JJ busy)) (S (NP (PRP they)) (VP (AUX were) (VP (VBG finishing) (NP (NP (DT the) (NNP Emperor) (POS 's)) (JJ new) (NNS clothes)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD pretended) (S (VP (TO to) (VP (VB take) (NP (DT the) (NN cloth)) (PP (IN off) (NP (DT the) (NNP loom))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD made) (NP (NP (NNS cuts)) (PP (IN in) (NP (DT the) (NN air)))) (PP (IN with) (NP (JJ huge) (NNS scissors)))) (. .)))
+
+(S1 (S (CC And) (PP (IN at) (ADJP (JJ last))) (NP (PRP they)) (VP (VBD said)) (, ,) ('' '')))
+
+(S1 (S (ADVP (RB Now)) (NP (NP (DT the) (NNP Emperor) (POS 's)) (JJ new) (NNS clothes)) (VP (AUX are) (ADJP (JJ ready) (PP (IN for) (NP (PRP him))))) (. .)))
+
+(S1 (S ('' '') (S (ADVP (RB Then)) (NP (DT the) (NNP Emperor)) (NP (PRP himself)) (VP (VBD came) (PP (IN with) (NP (PRP$ his) (JJS noblest) (NNS noblemen))))) (, ,) (CC and) (S (NP (DT the) (NNS swindlers)) (DT each) (VP (VBD raised) (NP (DT an) (NN arm)) (SBAR (IN as) (IN if) (S (NP (PRP they)) (VP (AUX were) (VP (VBG holding) (NP (NN something)))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBD said))) (, ,) ('' '')))
+
+(S1 (S (S (NP (DT These)) (VP (AUX are) (NP (DT the) (NNS trousers)))) (PRN (, ,) (S (NP (RB here)) (VP (AUX 's) (NP (DT the) (NN coat)))) (, ,)) (CC and) (S (NP (DT this)) (VP (AUX is) (NP (NP (DT the) (NN mantle)) (, ,) ('' '') (VP (VBG naming) (NP (DT each) (NN garment.)) ('' '')))))))
+
+(S1 (S (NP (NP (DT All)) (PP (IN of) (NP (PRP them)))) (VP (AUX are) (ADJP (ADJP (RB as) (JJ light)) (PP (IN as) (NP (DT a) (NNP spider) (NN web))))) (. .)))
+
+(S1 (S (S (NP (PRP One)) (VP (MD would) (ADVP (RB almost)) (VP (VB think) (SBAR (S (NP (PRP he)) (VP (AUX had) (NP (NN nothing)) (PP (IN on)))))))) (, ,) (CC but) (S (NP (DT that)) (VP (AUX 's) (SBAR (WHNP (WP what)) (S (VP (VBZ makes) (S (NP (PRP them)) (ADJP (RB so) (JJ fine)))))))) (. .)))
+
+(S1 (S ('' '') (S ('' '') (ADVP (RB Exactly))) (, ,) ('' '') (NP (PDT all) (DT the) (NNS noblemen)) (VP (VBD agreed) (PRN (, ,) (SBAR (IN though) (S (NP (PRP they)) (VP (MD could) (VP (VB see) (NP (NN nothing)))))) (, ,)) (SBAR (IN for) (S (NP (EX there)) (VP (AUX was) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB see)))))))))) (. .)))
+
+(S1 (S ('' '') (S (SBAR (IN If) (S (NP (PRP$ Your) (JJ Imperial) (NN Majesty)) (VP (MD will) (VP (VB condescend) (S (VP (TO to) (VP (VB take) (NP (PRP$ your) (NNS clothes)) (PRT (RP off))))))))) (, ,) ('' '') (S (VP (VBN said) (NP (DT the) (NNS swindlers)))) (, ,) ('' '') (NP (PRP we)) (VP (MD will) (VP (VB help) (NP (PRP you)) (ADVP (IN on) (PP (IN with) (NP (PRP$ your) (JJ new) (NNS ones)))) (ADVP (RB here)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (JJ long) (NN mirror.)))))))) ('' '')))
+
+(S1 (S (S (NP (DT The) (NNP Emperor)) (VP (VBD undressed))) (, ,) (CC and) (S (NP (DT the) (NNS swindlers)) (VP (VBD pretended) (S (VP (TO to) (VP (VB put) (NP (PRP$ his) (JJ new) (NNS clothes)) (PP (IN on) (NP (PRP him))) (, ,) (NP (NP (CD one) (NN garment)) (PP (IN after) (NP (DT another))))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VP (VBD took) (NP (PRP him)) (PP (IN around) (NP (DT the) (NN waist)))) (CC and) (VP (VBD seemed) (S (VP (TO to) (VP (AUX be) (VP (VBG fastening) (NP (NN something))))))))) (: -) (S (NP (DT that)) (VP (AUX was) (NP (NP (PRP$ his) (NN train-as)) (SBAR (S (NP (DT the) (NNP Emperor)) (VP (VBD turned) (NP (NP (NN round)) (CC and) (NP (NN round))) (PP (IN before) (NP (DT the) (VBG looking) (NN glass))))))))) (. .)))
+
+(S1 (FRAG ('' '') (SBAR (WHADVP (WRB How) (RB well)) (S (NP (NP (PRP$ Your) (NN Majesty) (POS 's)) (JJ new) (NNS clothes)) (VP (VBP look)))) (. .)))
+
+(S1 (SQ (AUX Are) (RB n't) (NP (PRP they)) (VP (VBG becoming)) (. !) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (VBD heard) (PP (IN on) (NP (DT all) (NNS sides)))) (, ,) ('' '')))
+
+(S1 (FRAG (NP (NP (DT That) (NN pattern)) (, ,) (ADJP (RB so) (JJ perfect))) (. !)))
+
+(S1 (FRAG (NP (NP (DT Those) (NNS colors)) (, ,) (ADJP (RB so) (JJ suitable))) (. !)))
+
+(S1 (S (NP (PRP It)) (VP (AUX is) (NP (DT a) (JJ magnificent) (NN outfit.))) ('' '')))
+
+(S1 (S (RB Then) (NP (NP (DT the) (NN minister)) (PP (IN of) (NP (JJ public) (NNS processions)))) (VP (VBD announced)) (: :) ('' '')))
+
+(S1 (S (NP (NP (PRP$ Your) (NN Majesty) (POS 's)) (NN canopy)) (VP (AUX is) (VP (VBG waiting) (NP (FW outside.)))) ('' '')))
+
+(S1 (S ('' '') (S (INTJ (UH Well)) (, ,) (NP (PRP I)) (VP (AUX 'm) (VP (VBN supposed) (S (VP (TO to) (VP (AUX be) (ADJP (JJ ready)))))))) (, ,) ('' '') (NP (DT the) (NNP Emperor)) (VP (VP (VBD said)) (, ,) (CC and) (VP (VBD turned) (ADVP (RB again)) (PP (IN for) (NP (NP (CD one) (JJ last) (NN look)) (PP (IN in) (NP (DT the) (NN mirror))))))) (. .)))
+
+(S1 (S ('' '') (S (NP (PRP It)) (VP (AUX is) (NP (DT a) (JJ remarkable) (NN fit)))) (, ,) (VP (AUX is) (RB n't)) (NP (PRP it)) (. ?) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (VBD seemed) (S (VP (TO to) (VP (VB regard) (NP (PRP$ his) (NN costume)) (PP (IN with) (NP (DT the) (JJS greatest) (NN interest))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS noblemen)) (SBAR (WHNP (WP who)) (S (VP (AUX were) (S (VP (TO to) (VP (VB carry) (NP (PRP$ his) (NN train))))))))) (VP (VP (VBN stooped) (ADVP (RB low))) (CC and) (VP (VBN reached) (PP (IN for) (NP (DT the) (NN floor))) (SBAR (IN as) (IN if) (S (NP (PRP they)) (VP (AUX were) (VP (VBG picking) (PRT (RP up)) (NP (PRP$ his) (NN mantle)))))))) (. .)))
+
+(S1 (S (RB Then) (NP (PRP they)) (VP (VBD pretended) (S (VP (TO to) (VP (VP (VB lift)) (CC and) (VP (VB hold) (S (NP (PRP it)) (ADJP (JJ high)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (AUX did) (RB n't) (VP (VB dare) (S (VP (VB admit) (SBAR (S (NP (PRP they)) (VP (AUX had) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB hold))))))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB So) (RB off)) (VP (VBD went)) (NP (NP (DT the) (NNP Emperor)) (PP (IN in) (NP (NP (NN procession)) (PP (IN under) (NP (PRP$ his) (JJ splendid) (NN canopy)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Everyone)) (PP (IN in) (NP (NP (DT the) (NNS streets)) (CC and) (NP (DT the) (NNS windows))))) (VP (VBD said))) (, ,) ('' '')))
+
+(S1 (FRAG (INTJ (UH Oh)) (, ,) (SBAR (WHADJP (WRB how) (JJ fine)) (S (VP (AUX are) (NP (NP (DT the) (NNP Emperor) (POS 's)) (JJ new) (NNS clothes))))) (. !)))
+
+(S1 (SQ (AUX Do) (RB n't) (NP (PRP they)) (VP (VB fit) (NP (PRP him)) (PP (TO to) (NP (NN perfection)))) (. ?)))
+
+(S1 (S (CC And) (VP (VB see) (NP (PRP$ his) (JJ long) (NN train))) (. !) ('' '')))
+
+(S1 (S (NP (NN Nobody)) (VP (MD would) (VP (VB confess) (SBAR (IN that) (S (NP (PRP he)) (VP (MD could) (RB n't) (VP (VB see) (NP (NN anything)) (, ,) (SBAR (IN for) (S (NP (DT that)) (VP (MD would) (VP (VB prove) (S (NP (PRP him)) (ADJP (RB either) (JJ unfit) (PP (IN for) (NP (NP (PRP$ his) (NN position)) (, ,) (CC or) (NP (DT a) (NN fool)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT No) (NN costume)) (SBAR (S (NP (DT the) (NNP Emperor)) (VP (AUX had) (VP (VBN worn) (ADVP (RB before))))))) (VP (AUX was) (ADVP (RB ever)) (NP (PDT such) (DT a) (JJ complete) (NN success))) (. .)))
+
+(S1 (S ('' '') (S (CC But) (NP (PRP he)) (VP (AUX has) (RB n't) (VP (VBN got) (NP (NN anything)) (PP (IN on))))) (, ,) ('' '') (NP (DT a) (JJ little) (NN child)) (VP (VBD said)) (. .)))
+
+(S1 (SINV ('' '') (SQ (AUX Did) (NP (PRP you)) (VP (ADVP (RB ever)) (VB hear) (NP (JJ such) (JJ innocent) (NN prattle)))) (. ?) ('' '') (VP (VBD said)) (NP (PRP$ its) (NN father)) (. .)))
+
+(S1 (S (CC And) (NP (CD one) (NN person)) (VP (VBN whispered) (PP (TO to) (NP (NP (DT another)) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN child)) (VP (AUX had) (VP (VBN said)))))))) (, ,) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (AUX has) (RB n't) (NP (NP (NN anything) (CD on.)) (SBAR (S (NP (DT A) (NN child)) (VP (VBZ says) (SBAR (SBAR (S (NP (PRP he)) (VP (AUX has) (RB n't) (NP (NN anything) (FW on.) ('' ''))))) ('' '') (CC But) (SBAR (S (NP (PRP he)) (VP (AUX has) (RB n't) (VP (VBN got) (NP (NN anything)) (PP (IN on)))))) (. !) ('' '') (S (NP (DT the) (JJ whole) (NN town)) (VP (VBN cried) (PRT (RP out)) (PP (IN at) (ADJP (JJ last))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Emperor)) (VP (VBD shivered))) (, ,) (IN for) (S (NP (PRP he)) (VP (VBD suspected) (SBAR (S (NP (PRP they)) (VP (AUX were) (ADJP (JJ right))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD thought)) (, ,) ('' '')))
+
+(S1 (S (NP (DT This) (NN procession)) (VP (AUX has) (VP (VBD got) (S (VP (TO to) (VP (VB go) (ADVP (RB on.)) ('' '') (SBAR (IN So) (S (NP (PRP he)) (VP (VBD walked) (ADVP (ADVP (RBR more) (RB proudly)) (PP (IN than) (ADVP (RB ever)))) (, ,) (SBAR (IN as) (S (NP (PRP$ his) (NNS noblemen)) (VP (VBN held) (PP (JJ high) (NP (NP (DT the) (NN train)) (SBAR (WHNP (WDT that)) (S (VP (AUX was) (RB n't) (ADVP (RB there)) (ADVP (IN at) (DT all)))))))))))))))))) (. .)))
+

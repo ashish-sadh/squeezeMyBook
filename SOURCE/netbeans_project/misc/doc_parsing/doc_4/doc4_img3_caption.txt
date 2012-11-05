@@ -1,0 +1,1 @@
+<s> Diagram 3 :graded outpu in ralation to the acitvation valueThese weights can be modified to create desired outputs from our inputs in the artificial network.  </s>

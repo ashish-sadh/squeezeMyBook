@@ -1,0 +1,15 @@
+[PropertyInfo]
+appletInfo,String,false,false, , ,true,<default>
+isStandalone,boolean,false,false, , ,false,<default>
+jButton2,JButton,false,false, , ,false,<default>
+jButton_SplitSentence,JButton,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+jScrollPane2,JScrollPane,false,false, , ,false,<default>
+jTextArea1,JTextArea,false,false, , ,false,<default>
+jTextArea2,JTextArea,false,false, , ,false,<default>
+parameterInfo,String[][],false,false, , ,true,<default>
+[IconNames]
+
+
+
+

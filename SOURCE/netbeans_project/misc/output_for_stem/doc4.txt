@@ -1,0 +1,384 @@
+<s> ARTIFICAL NEURAL NETWORK
+The basics behind artificial neural networks are to model a highly abstracted version of a complex neural biological network by mapping out a structure of interconnected group of neurons found in the brain.  </s>
+<s> All signals that run through these neurons are processed in parallel, thus involving multiple calculations at one particular time.  </s>
+<s> In an ANN each connection in the network is assigned a weight which determines the activity of the neural network. .  </s>
+<s> FIGURE_TAG doc4_img1 CLOSE_FIGURE_TAG.  </s>
+<s> Diagram 1
+ :
+A simple neural network
+Diagram 1 shows a very basic structure of an ANN.  </s>
+<s> Each node (coloured circles) is connected to each other nodes through an artificial link, a synapse, that carries a certain value called a 
+weight.  </s>
+<s> This structure works from left to right, corresponding to the input, the hidden and the output layers of the network.  </s>
+<s> These are usual feed-forward artificial networks where the data is passed through each layer until it reaches the output nodes of the network.  </s>
+<s> Weights that lay on the links between these nodes allow the data to be transferred to other connecting nodes.  </s>
+<s> When these data enter a particular node as inputs, they are multiplied by their respective weights.  </s>
+<s> This is done to all inputs going into one node.  </s>
+<s> In a particular node, these weights are then added together to produce an 
+activation value.  </s>
+<s> This value is then compared to an 
+activation threshold
+ specified for that network or node alone.  </s>
+<s> If the threshold is met then the neuron fires an output to other connected nodes within the network.  </s>
+<s> In a 
+step function
+, when the threshold is met the neuron/node will fire the output of 1, and if not then 0 will be the output value.  </s>
+<s> The higher the value of a weight on a link, the stronger the effect is on the input and the higher the effect is towards the threshold level. .  </s>
+<s> FIGURE_TAG doc4_img2 CLOSE_FIGURE_TAG.  </s>
+<s> Diagram 2 : 
+input summation through activation function
+Diagram 2 is an overview of how the inputs are summated through to this 
+activation function
+If we require non-distinct outputs we can simply map the outputs to a logistic sigmoid function.  </s>
+<s> Diagram 3 shows a graded output in relation to the activation values. .  </s>
+<s> FIGURE_TAG doc4_img3 CLOSE_FIGURE_TAG.  </s>
+<s> Diagram 3 :
+graded outpu
+ in ralation to the acitvation value
+These weights can be modified to create desired outputs from our inputs in the artificial network.  </s>
+<s> Adjusting these values by hand is feasible but when networks become overly complex it is better to solve this problem to using algorithms that will adjust the weights accordingly.  </s>
+<s> Adjusting these weights relates to the term 
+learning
+ or 
+training
+ whereby the networks are allowed to formulate a solution to minimise the error amount between real outputs and expected outputs of a network, which is also an iterative process.  </s>
+<s> Machine Learning Algorithms
+In a particular network, there are various techniques available:
+Supervised 
+ This type of learning paradigm, in particular, manipulates the ANN weights allowing network outputs to match that of an example output, or a 
+training set.  </s>
+<s> The error value between the two data affects the weight mapping in the network on the next step.  (
+Kotsiantis, S. 2007)
+Unsupervised 
+ This type of approach allows a network to run without any set of example outputs.  </s>
+<s> Reinforcement 
+ The basic principle here is to allow a network to generate its own input data.  </s>
+<s> This data is generated when the neural network is made to interact with its environment.  (
+Kaelbling et al.  1996)
+BackPropagation
+Backpropagation algorithm is a form of supervised learning used on feed-forward networks.  </s>
+<s> A set 
+example values 
+are compared to the real output values of a network.  </s>
+<s> This difference is called the 
+error value.  </s>
+<s> This error value is first used in adjusting the weights on the links connecting to the output neurons.  </s>
+<s> The weights on links going into the output are usually on synapse from the hidden layers of the neural network.  </s>
+<s> For each hidden layer, an error value is calculated for each neuron by comparing initial output error value and the updated weight values going out of the current neuron.  </s>
+<s> This error value is then used to manipulate the weights going into the hidden layer neurons assuming that this network contains a single hidden layer.  </s>
+<s> The adjustments of weights works backwards to the input layer hence back propagation.  </s>
+<s> When adjusting the weights, a 
+learning rate
+ value is incorporated into the algorithm.  </s>
+<s> This value simply effects how much the weight is adjusted, the higher the rate the bigger adjustments.  </s>
+<s> This cycle iterates until the error amount is within acceptable limits.  </s>
+<s> One of the main limitations to this approach is that it has the tendency to get trapped in its local optima.  </s>
+
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
+java.lang.NullPointerException
+	at findcaption.FindCount.count_ref(FindCaption.java:60)
+	at findcaption.FindCaption.func(FindCaption.java:240)
+	at stemstop.StemStop.main(StemStop.java:117)
+	at mds.Mds.main(Mds.java:36)
+	at Gui.Gui.browseButtonActionPerformed(Gui.java:182)
+	at Gui.Gui.access$100(Gui.java:25)
+	at Gui.Gui$2.actionPerformed(Gui.java:66)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2012)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2335)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:404)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:253)
+	at java.awt.Component.processMouseEvent(Component.java:6268)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3267)
+	at java.awt.Component.processEvent(Component.java:6033)
+	at java.awt.Container.processEvent(Container.java:2045)
+	at java.awt.Component.dispatchEventImpl(Component.java:4629)
+	at java.awt.Container.dispatchEventImpl(Container.java:2103)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4633)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4297)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4227)
+	at java.awt.Container.dispatchEventImpl(Container.java:2089)
+	at java.awt.Window.dispatchEventImpl(Window.java:2517)
+	at java.awt.Component.dispatchEvent(Component.java:4455)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:649)
+	at java.awt.EventQueue.access$000(EventQueue.java:96)
+	at java.awt.EventQueue$1.run(EventQueue.java:608)
+	at java.awt.EventQueue$1.run(EventQueue.java:606)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:116)
+	at java.awt.EventQueue$2.run(EventQueue.java:622)
+	at java.awt.EventQueue$2.run(EventQueue.java:620)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:105)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:619)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:275)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:200)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:190)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:185)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:177)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:138)
